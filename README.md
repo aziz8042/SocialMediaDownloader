@@ -1,8 +1,4 @@
 
-Conversation with Gemini
-write a complete beautifull readme for it to ready to upload that readme to the github it should have all the necessary information and the structure and also made by Azizullah and write this like expert designer and developer and content write
-
-Markdown
 # ⚡ Full-Stack Social Media Downloader Platform
 
 An end-to-end web application engineered for downloading high-quality media from platforms like **Facebook** and **Instagram**. Powered by a modern **Next.js** frontend with full internationalization (i18n) support and a robust **Python** API backend.
