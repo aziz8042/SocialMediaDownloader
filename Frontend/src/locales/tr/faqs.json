@@ -1,0 +1,262 @@
+{
+  "allVideoDownloader": {
+    "faqs": [
+      {
+        "question": "YouTube, TikTok, Instagram veya diğer platformlardan video indirmek yasal mı?",
+        "answer": "Video indirmek platformun kullanım koşullarına bağlıdır. Kamuya açık ve telif hakkı olmayan içerikler güvenlidir; ancak telifli videolar için izin gerekir. URL2Video, yalnızca kişisel kullanım veya izinli içerikler için indirmeyi teşvik eder."
+      },
+      {
+        "question": "Telif hakkı olan videoları ücretsiz indirebilir miyim?",
+        "answer": "Hayır. Sadece kullanımı ücretsiz içerikleri, kendi yüklemelerinizi veya telif hakkı olmayan medyayı indirin. Her zaman içerik üreticilerin haklarına saygı gösterin."
+      },
+      {
+        "question": "Video indirme yazılımı zararlı yazılım veya virüs içerir mi?",
+        "answer": "Bazı üçüncü taraf uygulamalar güvenli olmayabilir, ancak URL2Video tamamen güvenli ve çevrimiçi bir platformdur. Kurulum gerektirmez ve dönüşümler zararsızdır."
+      },
+      {
+        "question": "Videoları çevrimiçi indirmek için uygulama veya tarayıcı eklentisi yüklemem gerekir mi?",
+        "answer": "Hayır. URL2Video tamamen web tabanlıdır. Video bağlantısını yapıştırın, formatı seçin ve tarayıcınızdan doğrudan indirin."
+      },
+      {
+        "question": "Çevrimiçi video indiriciyi mobilde (Android / iOS) kullanabilir miyim?",
+        "answer": "Evet. URL2Video Android, iOS, Windows ve Mac cihazlarda çalışır. Ek uygulama gerekmeden videoları anında indirebilirsiniz."
+      },
+      {
+        "question": "Hangi formatlar destekleniyor (MP4, MP3, vb.)?",
+        "answer": "Videoları MP4 (HD, Full HD, 4K) olarak indirebilir veya sesi MP3 olarak 128kbps, 192kbps veya 320kbps kalitesinde çıkartabilirsiniz."
+      },
+      {
+        "question": "Video kalitesini (HD, 4K vb.) seçebilir miyim?",
+        "answer": "Evet. 360p, 720p (HD), 1080p (Full HD) ve 4K gibi farklı çözünürlük seçeneklerinden kaynağa bağlı olarak tercih yapabilirsiniz."
+      },
+      {
+        "question": "Ücretsiz olarak kaç video indirebileceğim konusunda bir sınırlama var mı?",
+        "answer": "Hayır. URL2Video, sınırsız ücretsiz indirme olanağı sunar ve abonelik veya gizli ücret talep etmez."
+      }
+    ]
+  },
+  "tiktokVedioDownloader": {
+    "faqs": [
+      {
+        "question": "TikTok videolarını filigransız indirebilir miyim?",
+        "answer": "Evet. İndirici filigranları otomatik olarak kaldırır ve temiz, yüksek kaliteli videoları çevrimdışı izleme veya paylaşım için kaydetmenizi sağlar."
+      },
+      {
+        "question": "TikTok videolarını indirmek için herhangi bir yazılım veya eklenti yüklemem gerekiyor mu?",
+        "answer": "Hayır, kurulum gerekmez. Araç tamamen çevrimiçi çalışır ve masaüstü, mobil veya tablet cihazlarda anında kullanılabilir."
+      },
+      {
+        "question": "TikTok indirici ücretsiz mi?",
+        "answer": "Evet. TikTok indirici tamamen ücretsizdir ve sınırsız indirme imkânı sunar. Hesap oluşturmanıza gerek yoktur."
+      },
+      {
+        "question": "TikTok videolarını iOS / iPhone'da indirebilir miyim?",
+        "answer": "Evet. Safari veya herhangi bir mobil tarayıcıdan TikTok bağlantısını yapıştırarak doğrudan indirebilirsiniz."
+      },
+      {
+        "question": "TikTok videolarını Android / mobil cihazlarda indirebilir miyim?",
+        "answer": "Evet. Tüm Android cihazlarda ek uygulama gerekmeden tarayıcı üzerinden çalışır."
+      },
+      {
+        "question": "Bazı TikTok videolarını neden indiremiyorum?",
+        "answer": "Bazı videolar özel, bölge kısıtlamalı veya silinmiş olabilir. Her zaman halka açık TikTok videolarına erişim sağlanabilir."
+      },
+      {
+        "question": "Hangi video kalitesinde indirebilirim?",
+        "answer": "Orijinal yüklemeye bağlı olarak HD, Full HD ve mevcut en yüksek kaliteyi destekler."
+      },
+      {
+        "question": "İndirilen TikTok videolarında ses olacak mı?",
+        "answer": "Evet. Videolar orijinal sesi ile indirilir ve ayrıca sesi MP3 olarak çıkartabilirsiniz."
+      }
+    ]
+  },
+  "instagramVedioDownloader": {
+    "faqs": [
+      {
+        "question": "Instagram indirici nedir?",
+        "answer": "Instagram indirici, videolar, Reels, IGTV ve hikâyeler dahil olmak üzere Instagram içeriklerini yüksek kalitede cihazınıza kaydetmenizi sağlayan ücretsiz çevrimiçi bir araçtır."
+      },
+      {
+        "question": "Instagram videoları, Reels ve Hikayeler nasıl indirilir?",
+        "answer": "İçeriğin URL’sini kopyalayın, indiriciye yapıştırın, MP4 veya MP3 formatını seçin ve anında indirin."
+      },
+      {
+        "question": "Instagram Hikayeleri ve Öne Çıkanlar indirilebilir mi?",
+        "answer": "Evet. Hikaye veya Öne Çıkanlar bağlantısını yapıştırarak HD kalitede çevrimdışı izleme için kaydedebilirsiniz."
+      },
+      {
+        "question": "Instagram Reels indirebilir miyim?",
+        "answer": "Evet. Reels videolarını yüksek kalitede, sesli veya sessiz olarak herhangi bir cihaza indirebilirsiniz."
+      },
+      {
+        "question": "Giriş yapmam veya Instagram bilgilerini vermem gerekir mi?",
+        "answer": "Hayır. Araç tamamen çevrimiçi çalışır ve gizlilik ile güvenliği sağlar."
+      },
+      {
+        "question": "Instagram’dan indirmek yasal mı?",
+        "answer": "Evet, kişisel kullanım veya çevrimdışı izleme için yasal. İçeriği yeniden yüklemeyin veya ticari amaçla kullanmayın."
+      },
+      {
+        "question": "Kaç Instagram videosu indirebilirim konusunda sınırlama var mı?",
+        "answer": "Hayır. Videoları, Reels ve hikâyeleri sınırsız şekilde indirebilirsiniz."
+      },
+      {
+        "question": "Özel Instagram hesaplarından içerik indirilebilir mi?",
+        "answer": "Hayır. Sadece halka açık içerikler indirilebilir. Özel hesaplara erişim izni olmadan içerik indirilemez."
+      }
+    ]
+  },
+  "facebookVedioDownloader": {
+    "faqs": [
+      {
+        "question": "Facebook video indirici nedir?",
+        "answer": "Facebook indirici, gönderileri, Reels ve hikâyeleri MP4 veya MP3 olarak cihazınıza kaydetmenizi sağlar ve yazılım yüklemenize gerek yoktur."
+      },
+      {
+        "question": "Facebook videoları (gönderiler, Reels, hikâyeler) nasıl indirilir?",
+        "answer": "Video bağlantısını kopyalayın, indiriciye yapıştırın, formatı seçin ve saniyeler içinde indirin."
+      },
+      {
+        "question": "Facebook Live videolarını indirebilir miyim?",
+        "answer": "Evet. Yayın bitiminden sonra canlı videolar bağlantıyı yapıştırarak kaydedilebilir."
+      },
+      {
+        "question": "Facebook giriş bilgilerini vermem gerekir mi?",
+        "answer": "Hayır. İndirmeler tamamen çevrimiçi ve güvenlidir, giriş yapmaya gerek yoktur."
+      },
+      {
+        "question": "Facebook’tan indirmek yasal mı?",
+        "answer": "Evet, kişisel veya eğitim amaçlı kullanım için yasal. Telif hakkı olan içerikleri izinsiz paylaşmayın."
+      },
+      {
+        "question": "Günlük indirme limiti var mı?",
+        "answer": "Hayır. Günlük sınırsız Facebook videosu indirebilirsiniz."
+      },
+      {
+        "question": "Özel profillerden veya gruplardan video indirilebilir mi?",
+        "answer": "Hayır. Sadece halka açık videolar indirilebilir."
+      },
+      {
+        "question": "Hangi kalite ve formatlarda indirebilirim (HD, SD, MP4 vb.)?",
+        "answer": "Videolar MP4 formatında indirilebilir veya MP3 olarak ses çıkartılabilir. Çözünürlükler SD, HD, Full HD veya 4K olabilir, kaynağa bağlıdır."
+      }
+    ]
+  },
+  "YoutubeDownloader": {
+    "faqs": [
+      {
+        "question": "YouTube video indirici nedir?",
+        "answer": "YouTube indirici, YouTube videolarını veya seslerini cihazınıza doğrudan kaydetmenizi sağlar. URL2Video MP4 ve MP3 formatlarını destekler."
+      },
+      {
+        "question": "YouTube indirici kullanmak yasal mı?",
+        "answer": "Telifli videoları izinsiz indirmek YouTube Kuralları’na aykırıdır. Kamuya açık içerikleri, kendi yüklemelerinizi veya izinli videoları indirin."
+      },
+      {
+        "question": "YouTube videosu nasıl indirilir?",
+        "answer": "Video bağlantısını kopyalayın, URL2Video’ya yapıştırın, MP4 veya MP3 formatını seçin, kaliteyi belirleyin ve 'İndir' düğmesine tıklayın."
+      },
+      {
+        "question": "Hangi format ve çözünürlükler destekleniyor?",
+        "answer": "URL2Video, MP4 ve MP3 formatlarını ve 360p’den 4K’ya kadar çözünürlükleri destekler."
+      },
+      {
+        "question": "YouTube oynatma listelerini veya birden fazla videoyu aynı anda indirebilir miyim?",
+        "answer": "Evet. Tüm oynatma listelerini veya birden fazla videoyu arka arkaya toplu olarak indirebilirsiniz."
+      },
+      {
+        "question": "İndirici neden bazen hata verir?",
+        "answer": "Bölge kısıtlamaları, yaş sınırlamaları, DRM veya YouTube güncellemeleri nedeniyle hata oluşabilir. URL2Video düzenli olarak güncellenir."
+      },
+      {
+        "question": "YouTube indirme hızı neden bazen yavaş olur?",
+        "answer": "Hız, internet bağlantısı, sunucu yoğunluğu, dosya boyutu veya YouTube kısıtlamalarına bağlıdır. URL2Video hızlı indirme için sunucuları optimize eder."
+      },
+      {
+        "question": "Yaş sınırlı veya bölge kilitli içerikler için indirici çalışır mı?",
+        "answer": "Çoğu indirici bunu aşamaz. Bazı videolar için giriş veya bölgesel erişim gerekir."
+      },
+      {
+        "question": "İndirilen videoda ses yoksa neden?",
+        "answer": "Bazı videolarda ses ve video ayrı parçalarda olabilir. URL2Video bunları birleştirir ve tam MP4 dosyası sunar."
+      },
+      {
+        "question": "YouTube indirici çalışmayı durdurursa ne olur?",
+        "answer": "Araçlar düzenli olarak güncellenir ve YouTube değişikliklerinden etkilenmeden sorunsuz indirme sağlar."
+      }
+    ]
+  },
+  "youtubeToMp3Downloader": {
+    "faqs": [
+      {
+        "question": "Bazı YouTube videolarını neden MP3’e dönüştüremiyorum?",
+        "answer": "Bazı videolar bölge kısıtlamalı, telifli veya ses akışı olmayan videolardır. URL2Video, halka açık çoğu video için hızlı ve yüksek kaliteli MP3 dönüşümü sağlar."
+      },
+      {
+        "question": "'Bot olmadığınızı doğrulamak için giriş yapın' mesajı ne anlama geliyor?",
+        "answer": "Yaş sınırlı veya hassas içeriklerde görülür. URL2Video sadece halka açık videolarla çalışır ve giriş gerektirmez."
+      },
+      {
+        "question": "'404 hata' veya 'Video mevcut değil' hatası nasıl çözülür?",
+        "answer": "Videonun tarayıcıda mevcut olup olmadığını kontrol edin. URL2Video stabil sunucular ile sorunsuz dönüşüm sağlar."
+      },
+      {
+        "question": "MP3 dosyası neden düşük kaliteli veya gürültülü?",
+        "answer": "MP3 kalitesi orijinal videoya bağlıdır. URL2Video 128kbps, 192kbps ve 320kbps seçenekleri sunar."
+      },
+      {
+        "question": "Tüm YouTube oynatma listelerini veya kanalları MP3 olarak indirebilir miyim?",
+        "answer": "Evet. Oynatma listesi bağlantısını yapıştırın, her videoyu MP3’e dönüştürerek çevrimdışı dinleyin."
+      },
+      {
+        "question": "İndirilen MP3 dosyaları farklı cihazlarda nasıl bulunur?",
+        "answer": "Bilgisayarda tarayıcının İndirilenler klasörünü kontrol edin. Mobil cihazda galerinizde, müzik uygulamanızda veya dosyalar klasöründe bulabilirsiniz."
+      },
+      {
+        "question": "İndirilen MP3 dosyasında ses yok veya eksikse ne yapmalıyım?",
+        "answer": "Bazı videoların ses ve video parçaları ayrıdır. URL2Video bunları birleştirerek tam MP3 dosyası oluşturur."
+      },
+      {
+        "question": "Günlük dönüşüm sayısı sınırlı mı?",
+        "answer": "Hayır. URL2Video ile sınırsız ücretsiz dönüşüm yapılabilir, herhangi bir kısıtlama veya gizli ücret yoktur."
+      }
+    ]
+  },
+  "twitterVedioDownloader": {
+    "faqs": [
+      {
+        "question": "Twitter’dan video nasıl indirilir?",
+        "answer": "Tweet’ten video bağlantısını kopyalayın, çevrimiçi indiriciye yapıştırın, MP4 veya MP3 formatını seçin ve 'İndir' düğmesine tıklayın. Video anında kaydedilir."
+      },
+      {
+        "question": "Twitter videolarını HD olarak indirebilir miyim?",
+        "answer": "Evet. İndirici 720p (HD), 1080p (Full HD) ve 4K çözünürlük seçeneklerini destekler. Orijinal video kalitesine bağlıdır."
+      },
+      {
+        "question": "GIF ve kısa klipler destekleniyor mu?",
+        "answer": "Evet. Twitter GIF’leri, kısa klipler ve normal videolar indirilebilir. GIF’ler MP4 formatına dönüştürülür ve tüm cihazlarda sorunsuz oynatılır."
+      },
+      {
+        "question": "Birden fazla Twitter videosunu aynı anda indirebilir miyim?",
+        "answer": "Evet. Birden fazla video bağlantısını sırayla yapıştırabilir ve indirici her videoyu kayıpsız olarak ardışık şekilde kaydetmenizi sağlar."
+      },
+      {
+        "question": "Twitter indirici ücretsiz mi?",
+        "answer": "Evet. Araç tamamen ücretsizdir ve abonelik veya gizli ücret içermez. Tüm halka açık Twitter videolarını güvenli ve hızlı şekilde indirebilirsiniz."
+      },
+      {
+        "question": "Mobil cihazlarda çalışır mı?",
+        "answer": "Evet. İndirici tamamen duyarlıdır ve Android, iOS, tablet ve masaüstü tarayıcılarla uyumludur. Uygulama yüklemenize gerek yoktur."
+      },
+      {
+        "question": "Twitter videolarını MP3’e dönüştürebilir miyim?",
+        "answer": "Evet. Herhangi bir Twitter videosunun sesini MP3 olarak yüksek kalitede kaydedebilirsiniz. Podcast, müzik klibi veya ses notları için kullanışlıdır."
+      },
+      {
+        "question": "Twitter videoları için indirme sınırı var mı?",
+        "answer": "Hayır. Sınırsız video indirebilirsiniz. Ancak özel veya korumalı içerik, uygun izin olmadan erişilemez."
+      }
+    ]
+  }
+}

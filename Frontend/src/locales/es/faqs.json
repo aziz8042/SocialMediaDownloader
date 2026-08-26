@@ -1,0 +1,262 @@
+{
+  "allVideoDownloader": {
+    "faqs": [
+      {
+        "question": "¿Es legal descargar videos de YouTube, TikTok, Instagram u otras plataformas?",
+        "answer": "La descarga de videos depende de los términos de servicio de cada plataforma. Los contenidos de dominio público y sin derechos de autor son seguros, pero los videos protegidos requieren permiso. URL2Video recomienda descargar únicamente para uso personal o con autorización."
+      },
+      {
+        "question": "¿Puedo descargar videos con derechos de autor de forma gratuita?",
+        "answer": "No. Solo se deben descargar contenidos libres de derechos, tus propios videos o medios sin copyright. Siempre respeta los derechos de los creadores."
+      },
+      {
+        "question": "¿El software descargador de videos contiene malware o virus?",
+        "answer": "Algunas aplicaciones de terceros pueden ser inseguras, pero URL2Video es seguro y completamente en línea. No requiere instalación, y las conversiones se realizan de forma protegida, sin riesgo de malware."
+      },
+      {
+        "question": "¿Necesito instalar una app o extensión para descargar videos en línea?",
+        "answer": "No. URL2Video funciona completamente en el navegador. Solo pega el enlace del video, elige el formato y descarga directamente sin instalar nada."
+      },
+      {
+        "question": "¿Puedo usar un descargador de videos en dispositivos móviles (Android / iOS)?",
+        "answer": "Sí. URL2Video funciona en Android, iOS, Windows y Mac. Puedes descargar videos al instante sin aplicaciones adicionales."
+      },
+      {
+        "question": "¿Qué formatos son compatibles (MP4, MP3, etc.)?",
+        "answer": "Puedes descargar videos en MP4 (HD, Full HD, 4K) o extraer audio en MP3 a 128 kbps, 192 kbps o 320 kbps según tus necesidades."
+      },
+      {
+        "question": "¿Puedo elegir la calidad del video (HD, 4K, etc.)?",
+        "answer": "Sí. Puedes seleccionar entre varias resoluciones, como 360p, 720p (HD), 1080p (Full HD) y 4K, dependiendo del video original."
+      },
+      {
+        "question": "¿Hay límites en la cantidad de videos que puedo descargar gratis?",
+        "answer": "No. URL2Video permite descargas ilimitadas y gratuitas sin suscripciones ni cargos ocultos."
+      }
+    ]
+  },
+  "tiktokVedioDownloader": {
+    "faqs": [
+      {
+        "question": "¿Puedo descargar videos de TikTok sin marca de agua?",
+        "answer": "Sí. El descargador elimina automáticamente las marcas de agua, permitiéndote guardar videos limpios y de alta calidad para verlos sin conexión o compartirlos."
+      },
+      {
+        "question": "¿Necesito instalar algún software o extensión para descargar videos de TikTok?",
+        "answer": "No. Nuestra herramienta funciona completamente en línea y es instantánea en escritorio, móvil y tablet."
+      },
+      {
+        "question": "¿El descargador de TikTok es gratuito?",
+        "answer": "Sí. El descargador de TikTok es completamente gratuito, con descargas ilimitadas y sin necesidad de crear cuenta."
+      },
+      {
+        "question": "¿Puedo descargar videos de TikTok en iOS / iPhone?",
+        "answer": "Sí. Solo pega el enlace de TikTok en Safari u otro navegador móvil y descarga directamente."
+      },
+      {
+        "question": "¿Puedo descargar videos de TikTok en Android?",
+        "answer": "Sí. Funciona en todos los dispositivos Android directamente en el navegador, sin aplicaciones adicionales."
+      },
+      {
+        "question": "¿Por qué no puedo descargar algunos videos de TikTok?",
+        "answer": "Algunos videos pueden ser privados, estar restringidos por región o haber sido eliminados. Solo los videos públicos son accesibles para descarga."
+      },
+      {
+        "question": "¿Qué calidad de video puedo descargar?",
+        "answer": "Soporta HD, Full HD y la máxima calidad disponible según el video original subido a TikTok."
+      },
+      {
+        "question": "¿Los videos descargados incluyen audio?",
+        "answer": "Sí. Los videos se descargan con audio original y también puedes extraer el audio como MP3."
+      }
+    ]
+  },
+  "instagramVedioDownloader": {
+    "faqs": [
+      {
+        "question": "¿Qué es exactamente un descargador de Instagram?",
+        "answer": "Un descargador de Instagram es una herramienta en línea gratuita que permite guardar contenido de Instagram directamente en tu dispositivo, incluyendo videos, reels, IGTV y stories en alta calidad."
+      },
+      {
+        "question": "¿Cómo descargo videos, Reels y Stories de Instagram?",
+        "answer": "Copia el enlace del contenido, pégalo en nuestro descargador, selecciona MP4 o MP3 y descarga al instante."
+      },
+      {
+        "question": "¿Es posible descargar Stories y Highlights de Instagram?",
+        "answer": "Sí. Pega el enlace de una Story o Highlight y descárgalo en HD para verlo sin conexión."
+      },
+      {
+        "question": "¿Puedo descargar Reels de Instagram?",
+        "answer": "Sí. Descarga Reels en alta calidad, con o sin sonido, en cualquier dispositivo."
+      },
+      {
+        "question": "¿Necesito iniciar sesión o dar mis credenciales de Instagram?",
+        "answer": "No. Nuestra herramienta funciona completamente en línea sin iniciar sesión, garantizando privacidad y seguridad."
+      },
+      {
+        "question": "¿Es legal descargar contenido de Instagram?",
+        "answer": "Sí, para uso personal o visualización sin conexión. No reutilices ni uses el contenido comercialmente sin permiso."
+      },
+      {
+        "question": "¿Hay límites en la cantidad de videos de Instagram que puedo descargar?",
+        "answer": "No. Descarga ilimitadamente videos, reels y stories sin restricciones."
+      },
+      {
+        "question": "¿El descargador funciona con cuentas privadas de Instagram?",
+        "answer": "No. Solo se puede descargar contenido público a menos que tengas permiso para acceder a cuentas privadas."
+      }
+    ]
+  },
+  "facebookVedioDownloader": {
+    "faqs": [
+      {
+        "question": "¿Qué es exactamente un descargador de videos de Facebook?",
+        "answer": "Un descargador de Facebook te permite guardar publicaciones, reels y stories en MP4 o MP3 directamente en tu dispositivo, sin instalar software."
+      },
+      {
+        "question": "¿Cómo puedo descargar videos de Facebook (posts, reels, stories)?",
+        "answer": "Copia el enlace del video, pégalo en el descargador, selecciona el formato y descarga en segundos."
+      },
+      {
+        "question": "¿Puedo descargar videos en vivo de Facebook?",
+        "answer": "Sí. Los videos en vivo se pueden guardar después de terminar la transmisión pegando el enlace en nuestra herramienta."
+      },
+      {
+        "question": "¿Necesito iniciar sesión o dar mis credenciales de Facebook?",
+        "answer": "No. Las descargas son completamente en línea y seguras sin iniciar sesión."
+      },
+      {
+        "question": "¿Es legal descargar videos de Facebook?",
+        "answer": "Sí, para uso personal o educativo. Evita redistribuir contenido con derechos de autor sin permiso."
+      },
+      {
+        "question": "¿Hay límites diarios de descarga?",
+        "answer": "No. Puedes descargar videos de Facebook ilimitadamente cada día."
+      },
+      {
+        "question": "¿Los descargadores de Facebook funcionan con videos de perfiles o grupos privados?",
+        "answer": "No. Solo se pueden descargar videos públicos."
+      },
+      {
+        "question": "¿Qué calidad o formatos puedo obtener (HD, SD, MP4, etc.)?",
+        "answer": "Descarga videos en MP4 o extrae audio en MP3. Las resoluciones incluyen SD, HD, Full HD o 4K según la fuente."
+      }
+    ]
+  },
+  "YoutubeDownloader": {
+    "faqs": [
+      {
+        "question": "¿Qué es un descargador de videos de YouTube?",
+        "answer": "Un descargador de YouTube te permite guardar videos o audio directamente en tu dispositivo para verlos sin conexión. URL2Video soporta formatos MP4 y MP3."
+      },
+      {
+        "question": "¿Es legal usar un descargador de YouTube?",
+        "answer": "Descargar videos con derechos de autor sin permiso puede violar los Términos de YouTube. Descarga contenido de dominio público, tus propios videos o con autorización."
+      },
+      {
+        "question": "¿Cómo descargo un video de YouTube usando un descargador?",
+        "answer": "Copia el enlace del video, pégalo en URL2Video, selecciona MP4 o MP3, elige la calidad y haz clic en 'Descargar'."
+      },
+      {
+        "question": "¿Qué formatos y resoluciones son compatibles?",
+        "answer": "URL2Video soporta MP4, MP3 y resoluciones desde 360p hasta 4K según el video original."
+      },
+      {
+        "question": "¿Puedo descargar listas de reproducción o varios videos a la vez?",
+        "answer": "Sí. Descarga listas de reproducción completas o múltiples videos de manera secuencial en modo batch."
+      },
+      {
+        "question": "¿Por qué a veces el descargador devuelve errores?",
+        "answer": "Los errores pueden ocurrir por restricciones de región, edad, DRM o actualizaciones de YouTube. URL2Video se actualiza regularmente para minimizar problemas."
+      },
+      {
+        "question": "¿Por qué la velocidad de descarga a veces es lenta?",
+        "answer": "Depende de la conexión a Internet, carga del servidor, tamaño del archivo o limitaciones de YouTube. URL2Video optimiza servidores para descargas rápidas."
+      },
+      {
+        "question": "¿Los descargadores funcionan con contenido restringido por edad o región?",
+        "answer": "La mayoría no puede eludir restricciones. Algunos videos requieren iniciar sesión o acceso regional."
+      },
+      {
+        "question": "¿Por qué mi video descargado no tiene audio?",
+        "answer": "Algunos videos separan audio y video. URL2Video los combina correctamente para obtener un MP4 completo con audio."
+      },
+      {
+        "question": "¿Qué pasa si el descargador de YouTube deja de funcionar?",
+        "answer": "Las herramientas se actualizan regularmente para garantizar descargas confiables a pesar de los cambios en YouTube."
+      }
+    ]
+  },
+  "youtubeToMp3Downloader": {
+    "faqs": [
+      {
+        "question": "¿Por qué no puedo convertir algunos videos de YouTube a MP3?",
+        "answer": "Algunos videos están restringidos por región, protegidos por derechos de autor o no tienen pista de audio. URL2Video soporta la mayoría de videos públicos con conversiones MP3 rápidas y de alta calidad."
+      },
+      {
+        "question": "¿Qué significa el mensaje 'Inicia sesión para confirmar que no eres un robot'?",
+        "answer": "Aparece en contenido sensible o restringido por edad. URL2Video funciona con videos públicos sin necesidad de iniciar sesión ni credenciales."
+      },
+      {
+        "question": "¿Cómo soluciono el error '404' o 'Video no disponible' al convertir a MP3?",
+        "answer": "Verifica la disponibilidad del video en tu navegador. URL2Video garantiza servidores estables para conversiones sin problemas."
+      },
+      {
+        "question": "¿Por qué la calidad del archivo MP3 es baja o tiene ruido?",
+        "answer": "La calidad del MP3 depende del video original. URL2Video ofrece opciones de 128 kbps, 192 kbps y 320 kbps para la mejor experiencia de audio."
+      },
+      {
+        "question": "¿Puedo descargar listas de reproducción o canales completos como MP3?",
+        "answer": "Sí. Pega el enlace de la lista de reproducción para convertir cada video a MP3 y escucharlo sin conexión."
+      },
+      {
+        "question": "¿Cómo encuentro mis archivos MP3 descargados en diferentes dispositivos?",
+        "answer": "En computadoras, revisa la carpeta de descargas del navegador. En móviles, búscalos en la galería, app de música o carpeta de archivos."
+      },
+      {
+        "question": "¿Por qué un MP3 descargado no tiene audio o le falta sonido?",
+        "answer": "Algunos videos tienen pistas de audio y video separadas. URL2Video las combina correctamente para obtener MP3 completos."
+      },
+      {
+        "question": "¿Hay límites en la cantidad de conversiones por día?",
+        "answer": "No. URL2Video ofrece conversiones ilimitadas gratuitas sin restricciones ni cargos ocultos."
+      }
+    ]
+  },
+  "twitterVedioDownloader": {
+    "faqs": [
+      {
+        "question": "¿Cómo descargo videos de Twitter?",
+        "answer": "Para descargar videos de Twitter, copia el enlace del tweet, pégalo en nuestro descargador en línea, selecciona el formato deseado (MP4 o MP3) y haz clic en 'Descargar'. Tu video se guardará al instante."
+      },
+      {
+        "question": "¿Puedo descargar videos de Twitter en HD?",
+        "answer": "Sí. El descargador permite elegir entre resoluciones disponibles como 720p (HD), 1080p (Full HD) y 4K, según la calidad del video original subido a Twitter."
+      },
+      {
+        "question": "¿Se admiten GIFs y clips cortos?",
+        "answer": "Sí. Puedes descargar GIFs de Twitter, clips cortos y publicaciones de video normales. Los GIFs se convierten a MP4 para reproducirse sin problemas en todos los dispositivos."
+      },
+      {
+        "question": "¿Puedo descargar varios videos de Twitter a la vez?",
+        "answer": "Sí. Puedes pegar varios enlaces uno tras otro y el descargador te permitirá guardar cada video de manera secuencial sin perder calidad ni opciones de formato."
+      },
+      {
+        "question": "¿El descargador de Twitter es gratuito?",
+        "answer": "Sí. Esta herramienta es completamente gratuita, sin suscripciones ni cargos ocultos. Puedes descargar cualquier video público de Twitter de forma rápida y segura."
+      },
+      {
+        "question": "¿Funciona en dispositivos móviles?",
+        "answer": "Sí. El descargador es totalmente responsivo y funciona en Android, iOS, tablets y navegadores de escritorio. No se requiere instalación de apps."
+      },
+      {
+        "question": "¿Puedo convertir videos de Twitter a MP3?",
+        "answer": "Sí. Puedes extraer el audio de cualquier video de Twitter y guardarlo en MP3 de alta calidad, ideal para podcasts, clips de música o notas de voz."
+      },
+      {
+        "question": "¿Hay límites de descarga en videos de Twitter?",
+        "answer": "No. Puedes descargar videos ilimitados de Twitter sin restricciones. Sin embargo, el contenido privado o protegido no se puede acceder sin permisos adecuados."
+      }
+    ]
+  }
+}

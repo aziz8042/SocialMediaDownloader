@@ -1,0 +1,127 @@
+{
+  "allVideoDownloader": {
+    "ui": {
+      "title": "online video downloaden",
+      "subtitle": "Sla video's op van grote platforms in heldere MP4 of MP3 met snelle en soepele prestaties",
+      "inputPlaceholder": "Plak hier je videolink om snel op te slaan",
+      "downloadBtn": {
+        "idle": "Downloaden",
+        "loading": "Ophalen"
+      },
+      "platformButtons": [
+        { "name": "YouTube downloaden", "path": "/youtube-video-downloader" },
+        { "name": "TikTok downloaden", "path": "/tiktok-video-downloader" },
+        { "name": "Instagram downloaden", "path": "/instagram-video-downloader" },
+        { "name": "Facebook downloaden", "path": "/facebook-video-downloader" }
+      ]
+    }
+  },
+
+  "tiktokVedioDownloader": {
+    "ui": {
+      "title": "TikTok video downloaden",
+      "subtitle": "Sla TikTok-clips op in MP4 of MP3 zonder watermerk, met snelle en soepele verwerking",
+      "inputPlaceholder": "Plak hier de TikTok-videolink",
+      "downloadBtn": {
+        "idle": "Downloaden",
+        "loading": "Ophalen"
+      },
+      "platformButtons": [
+        { "name": "YouTube downloaden", "path": "/youtube-video-downloader" },
+        { "name": "TikTok downloaden", "path": "/tiktok-video-downloader" },
+        { "name": "Instagram downloaden", "path": "/instagram-video-downloader" },
+        { "name": "Facebook downloaden", "path": "/facebook-video-downloader" }
+      ]
+    }
+  },
+
+  "instagramVedioDownloader": {
+    "ui": {
+      "title": "Instagram video downloaden",
+      "subtitle": "Sla Instagram reels, stories, posts en IGTV op in heldere MP4 of MP3 op alle apparaten",
+      "inputPlaceholder": "Plak hier de Instagram-link",
+      "downloadBtn": {
+        "idle": "Downloaden",
+        "loading": "Ophalen"
+      },
+      "platformButtons": [
+        { "name": "YouTube downloaden", "path": "/youtube-video-downloader" },
+        { "name": "TikTok downloaden", "path": "/tiktok-video-downloader" },
+        { "name": "Instagram downloaden", "path": "/instagram-video-downloader" },
+        { "name": "Facebook downloaden", "path": "/facebook-video-downloader" }
+      ]
+    }
+  },
+
+  "facebookVedioDownloader": {
+    "ui": {
+      "title": "Facebook video downloaden",
+      "subtitle": "Sla Facebook-video's, reels en clips op in vloeiende MP4 of MP3 met betrouwbare hoge kwaliteit",
+      "inputPlaceholder": "Plak hier de Facebook-videolink",
+      "downloadBtn": {
+        "idle": "Downloaden",
+        "loading": "Ophalen"
+      },
+      "platformButtons": [
+        { "name": "YouTube downloaden", "path": "/youtube-video-downloader" },
+        { "name": "TikTok downloaden", "path": "/tiktok-video-downloader" },
+        { "name": "Instagram downloaden", "path": "/instagram-video-downloader" },
+        { "name": "Facebook downloaden", "path": "/facebook-video-downloader" }
+      ]
+    }
+  },
+
+  "twitterVedioDownloader": {
+    "ui": {
+      "title": "Twitter video downloaden",
+      "subtitle": "Sla clips, GIF's en video's op in MP4 of MP3 met snelle en stabiele verwerking vanaf Twitter",
+      "inputPlaceholder": "Plak hier de Twitter-link",
+      "downloadBtn": {
+        "idle": "Downloaden",
+        "loading": "Ophalen"
+      },
+      "platformButtons": [
+        { "name": "YouTube downloaden", "path": "/youtube-video-downloader" },
+        { "name": "TikTok downloaden", "path": "/tiktok-video-downloader" },
+        { "name": "Instagram downloaden", "path": "/instagram-video-downloader" },
+        { "name": "Facebook downloaden", "path": "/facebook-video-downloader" }
+      ]
+    }
+  },
+
+  "youtubeToMp3Downloader": {
+    "ui": {
+      "title": "YouTube naar MP3",
+      "subtitle": "Zet video's om naar heldere audio in meerdere bitrates met snelle, stabiele verwerking",
+      "inputPlaceholder": "Plak hier de YouTube-link",
+      "downloadBtn": {
+        "idle": "Downloaden",
+        "loading": "Ophalen"
+      },
+      "platformButtons": [
+        { "name": "YouTube downloaden", "path": "/youtube-video-downloader" },
+        { "name": "TikTok downloaden", "path": "/tiktok-video-downloader" },
+        { "name": "Instagram downloaden", "path": "/instagram-video-downloader" },
+        { "name": "Facebook downloaden", "path": "/facebook-video-downloader" }
+      ]
+    }
+  },
+
+  "YoutubeDownloader": {
+    "ui": {
+      "title": "YouTube video downloaden",
+      "subtitle": "Sla video's, shorts en afspeellijsten op in vloeiende MP4 of MP3 met stabiele hoge kwaliteit",
+      "inputPlaceholder": "Plak hier de YouTube-link",
+      "downloadBtn": {
+        "idle": "Downloaden",
+        "loading": "Ophalen"
+      },
+      "platformButtons": [
+        { "name": "YouTube downloaden", "path": "/youtube-video-downloader" },
+        { "name": "TikTok downloaden", "path": "/tiktok-video-downloader" },
+        { "name": "Instagram downloaden", "path": "/instagram-video-downloader" },
+        { "name": "Facebook downloaden", "path": "/facebook-video-downloader" }
+      ]
+    }
+  }
+}

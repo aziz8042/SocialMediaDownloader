@@ -1,0 +1,64 @@
+{
+  "allVideoDownloader": {
+    "title": "Baixar vídeo - MP4 MP3 rápido - url2video",
+    "description": "Guarde vídeos do do YouTube, TikTok, Instagram e Facebook rapidamente em MP4 ou MP3. Rápido, seguro e sem necessidade de registo.",
+    "keywords": "Baixador de vídeos do, download de vídeos do online, YouTube downloader, download de vídeos do TikTok, Facebook downloader, Instagram video downloader, Baixador HD MP4, conversor MP3 gratuito",
+    "ogTitle": "Baixador de vídeos do: MP4 & MP3 HD Gratuito - url2video",
+    "ogDescription": "Baixador de vídeos do instantâneo, gratuito e seguro para YouTube, TikTok, Facebook, Instagram e mais. Guarde os seus vídeos favoritos em HD MP4 ou MP3 imediatamente—sem registo!",
+    "ogImage": "https://url2video.online/ogimage.png"
+  },
+
+  "YoutubeDownloader": {
+    "title": "Baixar video do youtube - HD MP4 MP3 - url2video",
+    "description": "Guarde rapidamente vídeos, shorts e playlists do YouTube em HD MP4 ou MP3. Downloads rápidos, seguros e sem apps ou registo.",
+    "keywords": "Baixador de vídeos do YouTube, YouTube video downloader 4k, Baixador YouTube Reddit, YouTube downloader gratuito, YouTube downloader online mp4, YouTube downloader mp3",
+    "ogTitle": "Baixador de vídeos do YouTube: MP4 & MP3 HD Gratuito",
+    "ogDescription": "Guarde vídeos do do YouTube no seu dispositivo em formato MP4 ou MP3 HD de forma rápida e segura. Sem apps, sem registo, sem limites!",
+    "ogImage": "https://url2video.online/ogimage.png"
+  },
+
+  "youtubeToMp3Downloader": {
+    "title": "YouTube para MP3 - conversor rápido de áudio - url2video",
+    "description": "Converta vídeos do YouTube em MP3 de alta qualidade instantaneamente. Conversões rápidas, confiáveis e sem necessidade de registo ou apps.",
+    "keywords": "YouTube para MP3, conversor YouTube para MP3, download YouTube MP3, conversor YouTube para MP3 gratuito, YouTube para MP3 320, YouTube to MP3 Reddit, YouTube para MP3 online",
+    "ogTitle": "Conversor YouTube para MP3: Áudio 320kbps Gratuito",
+    "ogDescription": "Extraia e descarregue facilmente áudio MP3 a 320kbps de vídeos do do YouTube online. Conversão rápida, segura e gratuita—sem limites!",
+    "ogImage": "https://url2video.online/ogimage.png"
+  },
+
+  "tiktokVedioDownloader": {
+    "title": "Baixar vídeo do TikTok - sem marca d'água - url2video",
+    "description": "Descarregue vídeos do TikTok sem marca d'água em HD MP4 ou MP3. Rápido, seguro e gratuito, com simples colar e guardar.",
+    "keywords": "Baixador TikTok, TikTok downloader, TikTok sem marca d'água, TikTok downloader mp3, TikTok downloader HD, TT downloader, TT downloader HD",
+    "ogTitle": "Baixador TikTok: Vídeos HD Sem Marca d'Água",
+    "ogDescription": "Guarde instantaneamente vídeos do TikTok no seu dispositivo, limpos e sem marcas d'água, em qualidade HD. Conversão rápida, segura e gratuita—sem limites!",
+    "ogImage": "https://url2video.online/ogimage.png"
+  },
+
+  "instagramVedioDownloader": {
+    "title": "Baixar video instagram - Reels & Stories - url2video",
+    "description": "Guarde Reels, Stories e vídeos do Instagram em HD MP4 instantaneamente. Rápido, seguro e sem necessidade de login.",
+    "keywords": "Baixador Instagram, Instagram video downloader, Baixador de Reels, Reel downloader, IG reel downloader, Baixador Stories Instagram, IG story downloader",
+    "ogTitle": "Baixador Instagram: Reels & Stories HD",
+    "ogDescription": "Guarde conteúdos do Instagram, como Reels e Stories, no seu dispositivo em HD. Baixador online gratuito, rápido e seguro. Sem login necessário!",
+    "ogImage": "https://url2video.online/ogimage.png"
+  },
+
+  "facebookVedioDownloader": {
+    "title": "Baixar vídeo do Facebook - Reels HD - url2video",
+    "description": "Descarregue vídeos, Reels e Stories do Facebook em HD MP4 ou MP3 rapidamente. Rápido, seguro e sem login necessário.",
+    "keywords": "Baixador de vídeos do Facebook, Facebook downloader, Facebook video downloader online, Baixador de Stories Facebook, Facebook reel downloader, FB video downloader, FB downloader",
+    "ogTitle": "Baixador de vídeos do Facebook: MP4/Reels HD Gratuito",
+    "ogDescription": "Guarde rapidamente vídeos, Reels e Stories do Facebook no seu dispositivo com alta qualidade. Baixador online seguro, gratuito e fácil. Sem login necessário!",
+    "ogImage": "https://url2video.online/ogimage.png"
+  },
+
+  "twitterVedioDownloader": {
+    "title": "Baixar vídeo do Twitter - salvar HD - url2video",
+    "description": "Guarde vídeos do, clipes e GIFs do Twitter em HD MP4 instantaneamente. Downloads rápidos, seguros e sem necessidade de login.",
+    "keywords": "Baixador de vídeos do Twitter, Twitter video downloader app, Twitter downloader, X downloader, X video downloader, Twitter X video downloader",
+    "ogTitle": "Baixador de vídeos do Twitter: Salvar Vídeos HD",
+    "ogDescription": "Guarde facilmente vídeos do Twitter/X no seu dispositivo em MP4 HD de alta qualidade. Baixador online rápido, gratuito e seguro. Sem login necessário!",
+    "ogImage": "https://url2video.online/ogimage.png"
+  }
+}

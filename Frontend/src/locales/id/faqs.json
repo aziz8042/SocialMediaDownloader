@@ -1,0 +1,262 @@
+{
+  "allVideoDownloader": {
+    "faqs": [
+      {
+        "question": "Apakah legal mengunduh video dari YouTube, TikTok, Instagram, atau platform lain?",
+        "answer": "Pengunduhan video tergantung pada ketentuan layanan masing-masing platform. Konten publik atau bebas hak cipta aman diunduh, tetapi video yang memiliki hak cipta memerlukan izin. URL2Video mendorong pengunduhan hanya untuk penggunaan pribadi atau dengan izin pemilik."
+      },
+      {
+        "question": "Bisakah saya mengunduh video yang memiliki hak cipta secara gratis?",
+        "answer": "Tidak. Hanya unduh konten yang bebas digunakan, unggahan Anda sendiri, atau media tanpa hak cipta. Selalu hormati hak kreator."
+      },
+      {
+        "question": "Apakah perangkat lunak pengunduh video mengandung malware atau virus?",
+        "answer": "Beberapa aplikasi pihak ketiga mungkin tidak aman, tetapi URL2Video sepenuhnya aman dan berbasis web. Tidak perlu instalasi, dan konversi dilakukan tanpa risiko malware."
+      },
+      {
+        "question": "Apakah saya perlu menginstal aplikasi atau ekstensi untuk mengunduh video secara online?",
+        "answer": "Tidak. URL2Video sepenuhnya berbasis web. Cukup tempel tautan video, pilih format, dan unduh langsung melalui browser Anda."
+      },
+      {
+        "question": "Bisakah saya menggunakan pengunduh video online di ponsel (Android / iOS)?",
+        "answer": "Ya. URL2Video bekerja di Android, iOS, Windows, dan Mac. Anda dapat mengunduh video langsung tanpa aplikasi tambahan."
+      },
+      {
+        "question": "Format apa saja yang didukung (MP4, MP3, dll.)?",
+        "answer": "Anda bisa mengunduh video dalam MP4 (HD, Full HD, 4K) atau mengekstrak audio dalam MP3 dengan bitrate 128kbps, 192kbps, atau 320kbps."
+      },
+      {
+        "question": "Bisakah saya memilih kualitas video (HD, 4K, dll.)?",
+        "answer": "Ya. Pilih dari berbagai resolusi termasuk 360p, 720p (HD), 1080p (Full HD), hingga 4K tergantung kualitas video sumber."
+      },
+      {
+        "question": "Apakah ada batasan jumlah video yang bisa diunduh secara gratis?",
+        "answer": "Tidak. URL2Video memungkinkan unduhan gratis tanpa batas, tanpa langganan atau biaya tersembunyi."
+      }
+    ]
+  },
+  "tiktokVedioDownloader": {
+    "faqs": [
+      {
+        "question": "Bisakah saya mengunduh video TikTok tanpa watermark?",
+        "answer": "Ya. Pengunduh ini secara otomatis menghapus watermark, memungkinkan Anda menyimpan video berkualitas tinggi untuk dilihat offline atau dibagikan."
+      },
+      {
+        "question": "Apakah perlu menginstal perangkat lunak atau ekstensi untuk mengunduh video TikTok?",
+        "answer": "Tidak. Alat kami sepenuhnya online dan bekerja langsung di desktop, ponsel, maupun tablet tanpa instalasi."
+      },
+      {
+        "question": "Apakah pengunduh TikTok gratis digunakan?",
+        "answer": "Ya. Pengunduh TikTok sepenuhnya gratis, dengan jumlah unduhan tidak terbatas dan tanpa akun diperlukan."
+      },
+      {
+        "question": "Bisakah saya mengunduh video TikTok di iOS / iPhone?",
+        "answer": "Ya. Cukup tempel tautan TikTok di alat ini melalui Safari atau browser mobile lainnya, lalu unduh langsung."
+      },
+      {
+        "question": "Bisakah saya mengunduh video TikTok di Android / perangkat mobile?",
+        "answer": "Ya. Alat ini bekerja di semua perangkat Android langsung melalui browser tanpa aplikasi tambahan."
+      },
+      {
+        "question": "Mengapa saya tidak bisa mengunduh beberapa video TikTok?",
+        "answer": "Beberapa video mungkin bersifat privat, dibatasi wilayah, atau sudah dihapus. Video publik TikTok selalu dapat diakses."
+      },
+      {
+        "question": "Kualitas video apa saja yang bisa saya unduh?",
+        "answer": "Mendukung HD, Full HD, dan kualitas tertinggi yang tersedia di TikTok, tergantung unggahan asli."
+      },
+      {
+        "question": "Apakah video TikTok yang diunduh termasuk audio?",
+        "answer": "Ya. Video diunduh dengan audio asli, dan Anda juga dapat mengekstrak audio menjadi MP3."
+      }
+    ]
+  },
+  "instagramVedioDownloader": {
+    "faqs": [
+      {
+        "question": "Apa itu Instagram downloader?",
+        "answer": "Instagram downloader adalah alat online gratis untuk menyimpan konten Instagram langsung ke perangkat Anda, termasuk video, reels, IGTV, dan stories dengan kualitas tinggi."
+      },
+      {
+        "question": "Bagaimana cara mengunduh video, Reels, dan Stories Instagram?",
+        "answer": "Salin URL konten, tempel di pengunduh kami, pilih MP4 atau MP3, dan unduh langsung."
+      },
+      {
+        "question": "Bisakah saya mengunduh Stories dan Highlights Instagram?",
+        "answer": "Ya. Tempel tautan Story atau Highlight dan unduh dalam kualitas HD untuk ditonton offline."
+      },
+      {
+        "question": "Bisakah saya mengunduh Reels Instagram?",
+        "answer": "Ya. Unduh Reels dengan kualitas tinggi, dengan atau tanpa suara, ke perangkat apa pun."
+      },
+      {
+        "question": "Apakah saya perlu login atau memberikan kredensial Instagram?",
+        "answer": "Tidak. Alat kami bekerja sepenuhnya online tanpa login, menjaga privasi dan keamanan."
+      },
+      {
+        "question": "Apakah legal mengunduh dari Instagram?",
+        "answer": "Ya, untuk penggunaan pribadi atau menonton offline. Jangan mengunggah ulang atau menggunakan konten secara komersial tanpa izin."
+      },
+      {
+        "question": "Apakah ada batasan jumlah video Instagram yang bisa diunduh?",
+        "answer": "Tidak. Unduh video, reels, dan stories tanpa batas."
+      },
+      {
+        "question": "Apakah pengunduh ini mendukung akun Instagram privat?",
+        "answer": "Tidak. Hanya konten publik yang bisa diunduh kecuali Anda memiliki izin untuk mengakses akun privat."
+      }
+    ]
+  },
+  "facebookVedioDownloader": {
+    "faqs": [
+      {
+        "question": "Apa itu pengunduh video Facebook?",
+        "answer": "Pengunduh Facebook memungkinkan Anda menyimpan postingan, reels, dan stories dalam MP4 atau MP3 langsung ke perangkat tanpa instalasi software."
+      },
+      {
+        "question": "Bagaimana cara mengunduh video Facebook (post, reels, stories)?",
+        "answer": "Salin link video, tempel di pengunduh, pilih format, dan unduh dalam hitungan detik."
+      },
+      {
+        "question": "Bisakah saya mengunduh video Facebook Live?",
+        "answer": "Ya. Video Live bisa disimpan setelah siaran selesai dengan menempel tautan di alat kami."
+      },
+      {
+        "question": "Apakah saya perlu login atau memberikan kredensial Facebook?",
+        "answer": "Tidak. Pengunduhan sepenuhnya online dan aman tanpa login."
+      },
+      {
+        "question": "Apakah legal mengunduh dari Facebook?",
+        "answer": "Ya, untuk penggunaan pribadi atau pendidikan. Jangan redistribusi konten berhak cipta tanpa izin."
+      },
+      {
+        "question": "Apakah ada batasan unduhan per hari?",
+        "answer": "Tidak. Anda dapat mengunduh video Facebook tanpa batas setiap hari."
+      },
+      {
+        "question": "Apakah pengunduh Facebook bisa untuk profil privat atau grup?",
+        "answer": "Tidak. Hanya video publik yang dapat diunduh."
+      },
+      {
+        "question": "Kualitas atau format apa saja yang tersedia (HD, SD, MP4, dll.)?",
+        "answer": "Unduh video sebagai MP4 atau ekstrak audio ke MP3. Resolusi mencakup SD, HD, Full HD, atau 4K sesuai sumber."
+      }
+    ]
+  },
+  "YoutubeDownloader": {
+    "faqs": [
+      {
+        "question": "Apa itu pengunduh video YouTube?",
+        "answer": "Pengunduh YouTube memungkinkan menyimpan video atau audio dari YouTube langsung ke perangkat untuk menonton offline. URL2Video mendukung format MP4 dan MP3."
+      },
+      {
+        "question": "Apakah legal menggunakan pengunduh YouTube?",
+        "answer": "Mengunduh video berhak cipta tanpa izin bisa melanggar ketentuan YouTube. Unduh konten publik, unggahan Anda, atau video dengan izin."
+      },
+      {
+        "question": "Bagaimana cara mengunduh video YouTube menggunakan pengunduh?",
+        "answer": "Salin link video, tempel di URL2Video, pilih MP4 atau MP3, pilih kualitas, dan klik 'Unduh'."
+      },
+      {
+        "question": "Format dan resolusi apa saja yang didukung?",
+        "answer": "URL2Video mendukung MP4, MP3, dan resolusi mulai 360p hingga 4K tergantung video asli."
+      },
+      {
+        "question": "Bisakah saya mengunduh playlist YouTube atau beberapa video sekaligus?",
+        "answer": "Ya. Unduh seluruh playlist atau beberapa video secara berurutan dalam mode batch."
+      },
+      {
+        "question": "Mengapa pengunduh kadang menampilkan error?",
+        "answer": "Error dapat terjadi karena pembatasan wilayah, umur, DRM, atau pembaruan YouTube. URL2Video diperbarui secara rutin untuk meminimalkan masalah."
+      },
+      {
+        "question": "Mengapa kecepatan unduhan YouTube kadang lambat?",
+        "answer": "Kecepatan tergantung koneksi internet, beban server, ukuran file, atau throttling YouTube. URL2Video mengoptimalkan server untuk unduhan cepat."
+      },
+      {
+        "question": "Apakah pengunduh bekerja untuk konten terbatas umur atau wilayah?",
+        "answer": "Kebanyakan tidak dapat melewati batasan. Beberapa video mungkin memerlukan login atau akses regional."
+      },
+      {
+        "question": "Mengapa video yang diunduh tidak ada suaranya?",
+        "answer": "Beberapa video memiliki audio dan video terpisah. URL2Video menggabungkannya agar MP4 lengkap dengan audio."
+      },
+      {
+        "question": "Apa yang terjadi jika pengunduh YouTube berhenti bekerja?",
+        "answer": "Alat diperbarui secara rutin untuk memastikan unduhan tetap lancar meskipun ada perubahan YouTube."
+      }
+    ]
+  },
+  "youtubeToMp3Downloader": {
+    "faqs": [
+      {
+        "question": "Mengapa beberapa video YouTube tidak bisa dikonversi ke MP3?",
+        "answer": "Beberapa video dibatasi wilayah, memiliki hak cipta, atau tidak memiliki aliran audio. URL2Video mendukung sebagian besar video publik dengan konversi MP3 cepat dan berkualitas tinggi."
+      },
+      {
+        "question": "Apa arti pesan 'Sign in to confirm you’re not a bot'?",
+        "answer": "Pesan ini muncul untuk konten sensitif atau dibatasi umur. URL2Video bekerja dengan video publik tanpa login atau kredensial."
+      },
+      {
+        "question": "Bagaimana cara mengatasi error '404' atau 'Video tidak tersedia' saat konversi MP3?",
+        "answer": "Periksa ketersediaan video di browser Anda. URL2Video memastikan server stabil untuk konversi lancar."
+      },
+      {
+        "question": "Mengapa kualitas file MP3 buruk atau berisik?",
+        "answer": "Kualitas MP3 tergantung video asli. URL2Video menyediakan opsi 128kbps, 192kbps, dan 320kbps untuk audio terbaik."
+      },
+      {
+        "question": "Bisakah saya mengunduh seluruh playlist atau channel YouTube sebagai MP3?",
+        "answer": "Ya. Tempel tautan playlist untuk mengonversi setiap video menjadi MP3 untuk didengarkan offline."
+      },
+      {
+        "question": "Di mana saya bisa menemukan file MP3 yang diunduh di perangkat berbeda?",
+        "answer": "Di komputer, periksa folder Downloads di browser. Di ponsel, temukan di galeri, aplikasi musik, atau folder file."
+      },
+      {
+        "question": "Mengapa MP3 yang diunduh tidak ada suara atau hilang?",
+        "answer": "Beberapa video memiliki trek audio dan video terpisah. URL2Video menggabungkannya menjadi MP3 lengkap."
+      },
+      {
+        "question": "Apakah ada batasan jumlah konversi per hari?",
+        "answer": "Tidak. URL2Video menyediakan konversi gratis tanpa batas, tanpa biaya tersembunyi."
+      }
+    ]
+  },
+  "twitterVedioDownloader": {
+    "faqs": [
+      {
+        "question": "Bagaimana cara mengunduh video dari Twitter?",
+        "answer": "Salin link video dari tweet, tempel di pengunduh online kami, pilih format (MP4 atau MP3), dan klik Unduh. Video akan tersimpan langsung."
+      },
+      {
+        "question": "Bisakah saya mengunduh video Twitter dalam HD?",
+        "answer": "Ya. Pengunduh memungkinkan memilih resolusi yang tersedia, termasuk 720p (HD), 1080p (Full HD), dan 4K, tergantung kualitas video asli."
+      },
+      {
+        "question": "Apakah mendukung GIF dan klip pendek?",
+        "answer": "Ya. Anda dapat mengunduh GIF Twitter, klip pendek, dan video biasa. GIF dikonversi ke MP4 agar lancar diputar di semua perangkat."
+      },
+      {
+        "question": "Bisakah saya mengunduh beberapa video Twitter sekaligus?",
+        "answer": "Ya. Tempel beberapa link video satu per satu, dan pengunduh memungkinkan menyimpan setiap video secara berurutan tanpa kehilangan kualitas atau format."
+      },
+      {
+        "question": "Apakah pengunduh Twitter gratis?",
+        "answer": "Ya. Alat ini sepenuhnya gratis tanpa langganan atau biaya tersembunyi. Anda bisa mengunduh semua video publik Twitter dengan aman dan cepat."
+      },
+      {
+        "question": "Apakah bekerja di perangkat mobile?",
+        "answer": "Ya. Pengunduh sepenuhnya responsif dan bekerja di Android, iOS, tablet, dan browser desktop. Tidak perlu instalasi aplikasi."
+      },
+      {
+        "question": "Bisakah saya mengonversi video Twitter menjadi MP3?",
+        "answer": "Ya. Anda dapat mengekstrak audio dari video Twitter apa pun dan menyimpannya dalam format MP3 berkualitas tinggi. Berguna untuk podcast, klip musik, atau catatan suara."
+      },
+      {
+        "question": "Apakah ada batasan jumlah unduhan video Twitter?",
+        "answer": "Tidak. Anda dapat mengunduh video Twitter sebanyak yang diinginkan. Namun, konten privat atau dilindungi tidak dapat diakses tanpa izin."
+      }
+    ]
+  }
+}

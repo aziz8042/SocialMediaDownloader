@@ -1,0 +1,268 @@
+{
+  "allVideoDownloader": {
+    "faqs": [
+      {
+        "question": "Adakah sah untuk memuat turun video dari YouTube, TikTok, Instagram atau platform lain?",
+        "answer": "Kebenaran memuat turun bergantung pada terma perkhidmatan setiap platform. Kandungan domain awam dan bebas hak cipta adalah selamat, manakala video berhak cipta memerlukan kebenaran. URL2Video menggalakkan penggunaan untuk tujuan peribadi sahaja atau dengan izin pemilik."
+      },
+      {
+        "question": "Bolehkah saya memuat turun video berhak cipta secara percuma?",
+        "answer": "Tidak. Hanya muat turun kandungan bebas digunakan, video milik anda, atau media tanpa hak cipta. Sentiasa hormati hak pencipta."
+      },
+      {
+        "question": "Adakah perisian pemuat turun video mengandungi malware atau virus?",
+        "answer": "Sesetengah aplikasi pihak ketiga mungkin tidak selamat, tetapi URL2Video adalah selamat dan berasaskan web sepenuhnya. Tiada pemasangan diperlukan, dan proses penukaran adalah bebas risiko malware."
+      },
+      {
+        "question": "Perlukah saya memasang aplikasi atau sambungan untuk memuat turun video dalam talian?",
+        "answer": "Tidak. URL2Video berfungsi sepenuhnya dalam pelayar. Hanya tampal pautan, pilih format dan muat turun terus."
+      },
+      {
+        "question": "Bolehkah saya menggunakan pemuat turun video dalam talian di telefon (Android / iOS)?",
+        "answer": "Ya. URL2Video berfungsi pada Android, iOS, Windows dan Mac tanpa memerlukan aplikasi tambahan."
+      },
+      {
+        "question": "Apakah format yang disokong (MP4, MP3 dan lain-lain)?",
+        "answer": "Anda boleh memuat turun video dalam MP4 (HD, Full HD, 4K) atau mengekstrak audio dalam MP3 pada 128kbps, 192kbps atau 320kbps."
+      },
+      {
+        "question": "Bolehkah saya pilih kualiti video seperti HD atau 4K?",
+        "answer": "Ya. Pilih resolusi seperti 360p, 720p (HD), 1080p (Full HD) dan 4K bergantung pada kualiti asal video."
+      },
+      {
+        "question": "Adakah terdapat had untuk jumlah video yang boleh saya muat turun secara percuma?",
+        "answer": "Tidak. URL2Video menawarkan muat turun tanpa had tanpa langganan atau caj tersembunyi."
+      }
+    ]
+  },
+
+  "tiktokVedioDownloader": {
+    "faqs": [
+      {
+        "question": "Bolehkah saya memuat turun video TikTok tanpa watermark?",
+        "answer": "Ya. Pemuat turun ini membuang watermark secara automatik supaya anda dapat menyimpan video berkualiti tinggi tanpa tanda."
+      },
+      {
+        "question": "Perlukah saya memasang perisian atau sambungan untuk memuat turun video TikTok?",
+        "answer": "Tidak perlu memasang apa-apa. Alat ini berfungsi sepenuhnya dalam talian di komputer, telefon dan tablet."
+      },
+      {
+        "question": "Adakah pemuat turun TikTok ini percuma digunakan?",
+        "answer": "Ya. Pemuat turun TikTok adalah 100% percuma tanpa had muat turun dan tanpa akaun."
+      },
+      {
+        "question": "Bolehkah saya memuat turun video TikTok di iOS / iPhone?",
+        "answer": "Ya. Tampal pautan TikTok di Safari atau mana-mana pelayar mudah alih untuk muat turun segera."
+      },
+      {
+        "question": "Bolehkah saya memuat turun video TikTok di Android?",
+        "answer": "Ya. Ia berfungsi pada semua peranti Android terus melalui pelayar."
+      },
+      {
+        "question": "Mengapa saya tidak boleh memuat turun sesetengah video TikTok?",
+        "answer": "Sesetengah video mungkin peribadi, terhad mengikut wilayah atau telah dipadam. Video awam sentiasa boleh dimuat turun."
+      },
+      {
+        "question": "Apakah kualiti video yang boleh saya muat turun?",
+        "answer": "Menyokong HD, Full HD dan kualiti tertinggi yang tersedia dari TikTok bergantung pada video asal."
+      },
+      {
+        "question": "Adakah video TikTok yang dimuat turun mengandungi audio?",
+        "answer": "Ya. Video dimuat turun bersama audio asal, dan anda juga boleh mengekstraknya sebagai MP3."
+      }
+    ]
+  },
+
+  "instagramVedioDownloader": {
+    "faqs": [
+      {
+        "question": "Apakah sebenarnya pemuat turun Instagram?",
+        "answer": "Pemuat turun Instagram ialah alat dalam talian percuma untuk menyimpan video, reels, IGTV dan story terus ke peranti anda dalam kualiti tinggi."
+      },
+      {
+        "question": "Bagaimana cara memuat turun video, Reel dan Story Instagram?",
+        "answer": "Salin pautan kandungan, tampal dalam pemuat turun kami, pilih MP4 atau MP3 dan muat turun serta-merta."
+      },
+      {
+        "question": "Bolehkah saya memuat turun Story dan Highlight Instagram?",
+        "answer": "Ya. Tampal pautan Story atau Highlight dan muat turunnya dalam kualiti HD."
+      },
+      {
+        "question": "Bolehkah saya memuat turun Instagram Reels?",
+        "answer": "Ya. Simpan Reels dalam kualiti tinggi dengan atau tanpa audio ke mana-mana peranti."
+      },
+      {
+        "question": "Perlukah saya log masuk ke Instagram?",
+        "answer": "Tidak. Alat ini berfungsi sepenuhnya tanpa log masuk, memastikan privasi anda terjaga."
+      },
+      {
+        "question": "Adakah memuat turun dari Instagram itu sah?",
+        "answer": "Ya, untuk kegunaan peribadi atau tontonan luar talian. Jangan muat naik semula atau guna secara komersial tanpa izin."
+      },
+      {
+        "question": "Adakah terdapat had muat turun Instagram?",
+        "answer": "Tidak. Muat turun video, reels dan story tanpa had."
+      },
+      {
+        "question": "Adakah pemuat turun ini menyokong akaun Instagram peribadi?",
+        "answer": "Tidak. Hanya kandungan awam boleh dimuat turun melainkan anda mempunyai akses."
+      }
+    ]
+  },
+
+  "facebookVedioDownloader": {
+    "faqs": [
+      {
+        "question": "Apakah itu pemuat turun video Facebook?",
+        "answer": "Pemuat turun Facebook membolehkan anda menyimpan posting, reels dan story dalam MP4 atau MP3 tanpa memasang aplikasi."
+      },
+      {
+        "question": "Bagaimana cara memuat turun video Facebook?",
+        "answer": "Salin pautan video, tampal dalam pemuat turun, pilih format dan muat turun dalam beberapa saat."
+      },
+      {
+        "question": "Bolehkah saya memuat turun video Facebook Live?",
+        "answer": "Ya. Video siaran langsung boleh dimuat turun selepas siaran tamat."
+      },
+      {
+        "question": "Perlukah saya log masuk ke akaun Facebook?",
+        "answer": "Tidak. Pemuat turun ini selamat dan tidak memerlukan log masuk."
+      },
+      {
+        "question": "Adakah memuat turun dari Facebook itu sah?",
+        "answer": "Ya, untuk kegunaan peribadi atau pendidikan. Jangan guna semula kandungan berhak cipta tanpa izin."
+      },
+      {
+        "question": "Adakah terdapat had muat turun setiap hari?",
+        "answer": "Tidak. Muat turun video Facebook tanpa had."
+      },
+      {
+        "question": "Adakah ia berfungsi untuk video dari kumpulan atau profil peribadi?",
+        "answer": "Tidak. Hanya video awam boleh dimuat turun."
+      },
+      {
+        "question": "Apakah kualiti atau format yang disokong?",
+        "answer": "Sokongan MP4 dan MP3. Resolusi termasuk SD, HD, Full HD dan 4K bergantung pada video asal."
+      }
+    ]
+  },
+
+  "YoutubeDownloader": {
+    "faqs": [
+      {
+        "question": "Apakah pemuat turun video YouTube?",
+        "answer": "Pemuat turun YouTube membolehkan anda menyimpan video atau audio untuk tontonan luar talian. URL2Video menyokong MP4 dan MP3."
+      },
+      {
+        "question": "Adakah sah menggunakan pemuat turun YouTube?",
+        "answer": "Muat turun video berhak cipta tanpa izin mungkin melanggar terma YouTube. Muat turun kandungan bebas hak cipta atau milik anda."
+      },
+      {
+        "question": "Bagaimana cara memuat turun video YouTube?",
+        "answer": "Salin pautan video, tampal ke URL2Video, pilih MP4 atau MP3, pilih kualiti dan klik ‘Muat Turun’."
+      },
+      {
+        "question": "Apakah format dan resolusi yang disokong?",
+        "answer": "URL2Video menyokong MP4, MP3 dan resolusi dari 360p hingga 4K."
+      },
+      {
+        "question": "Bolehkah saya memuat turun playlist YouTube?",
+        "answer": "Ya. Anda boleh memuat turun keseluruhan playlist atau banyak video secara berurutan."
+      },
+      {
+        "question": "Mengapa pemuat turun kadang-kadang menghasilkan ralat?",
+        "answer": "Ralat mungkin berlaku kerana batasan wilayah, sekatan umur, DRM atau perubahan YouTube."
+      },
+      {
+        "question": "Mengapa kelajuan muat turun YouTube perlahan?",
+        "answer": "Bergantung pada sambungan internet, saiz fail, beban server atau throttling YouTube."
+      },
+      {
+        "question": "Adakah pemuat turun berfungsi untuk kandungan terkunci wilayah?",
+        "answer": "Tidak. Sesetengah video memerlukan akses wilayah atau log masuk."
+      },
+      {
+        "question": "Mengapa video YouTube yang dimuat turun tiada audio?",
+        "answer": "Sesetengah video memisahkan trek audio dan video. URL2Video menggabungkannya semula."
+      },
+      {
+        "question": "Apa berlaku jika pemuat turun YouTube berhenti berfungsi?",
+        "answer": "URL2Video sentiasa dikemas kini supaya proses muat turun kekal stabil."
+      }
+    ]
+  },
+
+  "youtubeToMp3Downloader": {
+    "faqs": [
+      {
+        "question": "Mengapa saya tidak boleh menukar sesetengah video YouTube kepada MP3?",
+        "answer": "Video mungkin terhad wilayah, berhak cipta atau tiada audio. URL2Video menyokong kebanyakan video awam."
+      },
+      {
+        "question": "Apa maksud mesej ‘Sign in to confirm you’re not a bot’?",
+        "answer": "Ia muncul untuk kandungan sensitif atau terhad usia. URL2Video tidak memerlukan log masuk."
+      },
+      {
+        "question": "Bagaimana membetulkan ralat ‘404’ atau ‘Video tidak tersedia’?",
+        "answer": "Periksa jika video masih boleh dimainkan dalam pelayar anda."
+      },
+      {
+        "question": "Mengapa kualiti MP3 rendah atau berbunyi bising?",
+        "answer": "Ia bergantung pada kualiti video asal. URL2Video menawarkan 128kbps, 192kbps dan 320kbps."
+      },
+      {
+        "question": "Bolehkah saya memuat turun playlist sebagai MP3?",
+        "answer": "Ya. Tampal pautan playlist dan setiap video akan ditukar kepada MP3."
+      },
+      {
+        "question": "Di manakah fail MP3 saya disimpan?",
+        "answer": "Di komputer: folder Muat Turun. Di telefon: aplikasi fail atau muzik."
+      },
+      {
+        "question": "Mengapa MP3 yang dimuat turun tiada bunyi?",
+        "answer": "Sesetengah video pisahkan audio. URL2Video menggabungkannya semula dengan betul."
+      },
+      {
+        "question": "Adakah terdapat had penukaran MP3 setiap hari?",
+        "answer": "Tidak. url2video menawarkan penukaran tanpa had tanpa caj tersembunyi."
+      }
+    ]
+  },
+
+  "twitterVedioDownloader": {
+    "faqs": [
+      {
+        "question": "Bagaimana cara memuat turun video dari Twitter?",
+        "answer": "Salin pautan video dari tweet, tampal dalam pemuat turun, pilih format (MP4 atau MP3) dan klik Muat Turun."
+      },
+      {
+        "question": "Bolehkah saya memuat turun video Twitter dalam HD?",
+        "answer": "Ya. Anda boleh memilih 720p (HD), 1080p (Full HD) atau 4K bergantung pada kualiti video asal."
+      },
+      {
+        "question": "Adakah ia menyokong GIF dan klip pendek?",
+        "answer": "Ya. GIF akan ditukar kepada MP4 untuk dimainkan di semua peranti."
+      },
+      {
+        "question": "Bolehkah saya memuat turun banyak video Twitter sekaligus?",
+        "answer": "Ya. Anda boleh tampal banyak pautan satu demi satu dan memuat turun semuanya tanpa kehilangan kualiti."
+      },
+      {
+        "question": "Adakah pemuat turun Twitter ini percuma?",
+        "answer": "Ya. Ia 100% percuma tanpa caj atau langganan."
+      },
+      {
+        "question": "Adakah ia berfungsi pada telefon?",
+        "answer": "Ya. Ia berfungsi pada Android, iOS, tablet dan PC."
+      },
+      {
+        "question": "Bolehkah saya menukar video Twitter kepada MP3?",
+        "answer": "Ya. Anda boleh mengekstrak audio berkualiti tinggi daripada mana-mana video Twitter."
+      },
+      {
+        "question": "Adakah terdapat had muat turun Twitter?",
+        "answer": "Tidak. Anda boleh memuat turun tanpa had, tetapi kandungan peribadi tidak boleh diakses."
+      }
+    ]
+  }
+}

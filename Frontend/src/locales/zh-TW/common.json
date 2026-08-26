@@ -1,0 +1,127 @@
+{
+  "allVideoDownloader": {
+    "ui": {
+      "title": "線上 影片 下載 器",
+      "subtitle": "從主要平台快速下載影片，MP4 或 MP3 高畫質清晰，順暢穩定",
+      "inputPlaceholder": "將影片連結貼上此處以快速保存",
+      "downloadBtn": {
+        "idle": "下載",
+        "loading": "獲取"
+      },
+      "platformButtons": [
+        { "name": "YouTube 下載器", "path": "/youtube-video-downloader" },
+        { "name": "TikTok 下載器", "path": "/tiktok-video-downloader" },
+        { "name": "Instagram 下載器", "path": "/instagram-video-downloader" },
+        { "name": "Facebook 下載器", "path": "/facebook-video-downloader" }
+      ]
+    }
+  },
+
+  "tiktokVedioDownloader": {
+    "ui": {
+      "title": "TikTok 影片下載",
+      "subtitle": "保存 TikTok 影片或音訊，無浮水印，高畫質 MP4/MP3，快速處理",
+      "inputPlaceholder": "在此貼上 TikTok 影片連結",
+      "downloadBtn": {
+        "idle": "下載",
+        "loading": "獲取"
+      },
+      "platformButtons": [
+        { "name": "YouTube 下載器", "path": "/youtube-video-downloader" },
+        { "name": "TikTok 下載器", "path": "/tiktok-video-downloader" },
+        { "name": "Instagram 下載器", "path": "/instagram-video-downloader" },
+        { "name": "Facebook 下載器", "path": "/facebook-video-downloader" }
+      ]
+    }
+  },
+
+  "instagramVedioDownloader": {
+    "ui": {
+      "title": "Instagram 影片下載",
+      "subtitle": "保存 Instagram Reels、限時動態、貼文及 IGTV，MP4 或 MP3 跨裝置支援",
+      "inputPlaceholder": "在此貼上 Instagram 連結",
+      "downloadBtn": {
+        "idle": "下載",
+        "loading": "獲取"
+      },
+      "platformButtons": [
+        { "name": "YouTube 下載器", "path": "/youtube-video-downloader" },
+        { "name": "TikTok 下載器", "path": "/tiktok-video-downloader" },
+        { "name": "Instagram 下載器", "path": "/instagram-video-downloader" },
+        { "name": "Facebook 下載器", "path": "/facebook-video-downloader" }
+      ]
+    }
+  },
+
+  "facebookVedioDownloader": {
+    "ui": {
+      "title": "Facebook 影片下載",
+      "subtitle": "保存 Facebook 影片、Reels 及剪輯，MP4 或 MP3 高畫質穩定流暢",
+      "inputPlaceholder": "在此貼上 Facebook 影片連結",
+      "downloadBtn": {
+        "idle": "下載",
+        "loading": "獲取"
+      },
+      "platformButtons": [
+        { "name": "YouTube 下載器", "path": "/youtube-video-downloader" },
+        { "name": "TikTok 下載器", "path": "/tiktok-video-downloader" },
+        { "name": "Instagram 下載器", "path": "/instagram-video-downloader" },
+        { "name": "Facebook 下載器", "path": "/facebook-video-downloader" }
+      ]
+    }
+  },
+
+  "twitterVedioDownloader": {
+    "ui": {
+      "title": "Twitter 影片下載",
+      "subtitle": "保存 Twitter 影片、GIF 或剪輯，MP4 或 MP3 快速穩定下載",
+      "inputPlaceholder": "在此貼上 Twitter 連結",
+      "downloadBtn": {
+        "idle": "下載",
+        "loading": "獲取"
+      },
+      "platformButtons": [
+        { "name": "YouTube 下載器", "path": "/youtube-video-downloader" },
+        { "name": "TikTok 下載器", "path": "/tiktok-video-downloader" },
+        { "name": "Instagram 下載器", "path": "/instagram-video-downloader" },
+        { "name": "Facebook 下載器", "path": "/facebook-video-downloader" }
+      ]
+    }
+  },
+
+  "youtubeToMp3Downloader": {
+    "ui": {
+      "title": "YouTube 轉 MP3 轉換器",
+      "subtitle": "將影片快速轉換為清晰音訊，多種位元率支援，穩定高效",
+      "inputPlaceholder": "在此貼上 YouTube 連結",
+      "downloadBtn": {
+        "idle": "下載",
+        "loading": "獲取"
+      },
+      "platformButtons": [
+        { "name": "YouTube 下載器", "path": "/youtube-video-downloader" },
+        { "name": "TikTok 下載器", "path": "/tiktok-video-downloader" },
+        { "name": "Instagram 下載器", "path": "/instagram-video-downloader" },
+        { "name": "Facebook 下載器", "path": "/facebook-video-downloader" }
+      ]
+    }
+  },
+
+  "YoutubeDownloader": {
+    "ui": {
+      "title": "YouTube 影片下載",
+      "subtitle": "保存 YouTube 影片、Shorts 及播放清單，MP4 或 MP3 高品質穩定",
+      "inputPlaceholder": "在此貼上 YouTube 連結",
+      "downloadBtn": {
+        "idle": "下載",
+        "loading": "獲取"
+      },
+      "platformButtons": [
+        { "name": "YouTube 下載器", "path": "/youtube-video-downloader" },
+        { "name": "TikTok 下載器", "path": "/tiktok-video-downloader" },
+        { "name": "Instagram 下載器", "path": "/instagram-video-downloader" },
+        { "name": "Facebook 下載器", "path": "/facebook-video-downloader" }
+      ]
+    }
+  }
+}

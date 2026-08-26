@@ -1,0 +1,127 @@
+{
+  "allVideoDownloader": {
+    "ui": {
+      "title": "unduh video online",
+      "subtitle": "Simpan video dari platform utama dalam MP4 atau MP3 dengan performa cepat dan lancar",
+      "inputPlaceholder": "Tempel link video Anda di sini untuk penyimpanan cepat",
+      "downloadBtn": {
+        "idle": "unduh",
+        "loading": "Mengambil"
+      },
+      "platformButtons": [
+        { "name": "Pengunduh YouTube", "path": "/youtube-video-downloader" },
+        { "name": "Pengunduh TikTok", "path": "/tiktok-video-downloader" },
+        { "name": "Pengunduh Instagram", "path": "/instagram-video-downloader" },
+        { "name": "Pengunduh Facebook", "path": "/facebook-video-downloader" }
+      ]
+    }
+  },
+
+  "tiktokVedioDownloader": {
+    "ui": {
+      "title": "Unduh Video TikTok",
+      "subtitle": "Simpan klip TikTok dalam MP4 atau MP3 tanpa watermark dan proses cepat",
+      "inputPlaceholder": "Tempel link video TikTok di sini",
+      "downloadBtn": {
+        "idle": "unduh",
+        "loading": "Mengambil"
+      },
+      "platformButtons": [
+        { "name": "Pengunduh YouTube", "path": "/youtube-video-downloader" },
+        { "name": "Pengunduh TikTok", "path": "/tiktok-video-downloader" },
+        { "name": "Pengunduh Instagram", "path": "/instagram-video-downloader" },
+        { "name": "Pengunduh Facebook", "path": "/facebook-video-downloader" }
+      ]
+    }
+  },
+
+  "instagramVedioDownloader": {
+    "ui": {
+      "title": "Unduh Video Instagram",
+      "subtitle": "Simpan reels, stories, postingan, dan IGTV dalam MP4 atau MP3 di semua perangkat",
+      "inputPlaceholder": "Tempel link Instagram di sini",
+      "downloadBtn": {
+        "idle": "unduh",
+        "loading": "Mengambil"
+      },
+      "platformButtons": [
+        { "name": "Pengunduh YouTube", "path": "/youtube-video-downloader" },
+        { "name": "Pengunduh TikTok", "path": "/tiktok-video-downloader" },
+        { "name": "Pengunduh Instagram", "path": "/instagram-video-downloader" },
+        { "name": "Pengunduh Facebook", "path": "/facebook-video-downloader" }
+      ]
+    }
+  },
+
+  "facebookVedioDownloader": {
+    "ui": {
+      "title": "Unduh Video Facebook",
+      "subtitle": "Simpan video, reels, dan klip Facebook dalam MP4 atau MP3 dengan kualitas tinggi yang handal",
+      "inputPlaceholder": "Tempel link video Facebook di sini",
+      "downloadBtn": {
+        "idle": "unduh",
+        "loading": "Mengambil"
+      },
+      "platformButtons": [
+        { "name": "Pengunduh YouTube", "path": "/youtube-video-downloader" },
+        { "name": "Pengunduh TikTok", "path": "/tiktok-video-downloader" },
+        { "name": "Pengunduh Instagram", "path": "/instagram-video-downloader" },
+        { "name": "Pengunduh Facebook", "path": "/facebook-video-downloader" }
+      ]
+    }
+  },
+
+  "twitterVedioDownloader": {
+    "ui": {
+      "title": "Unduh Video Twitter",
+      "subtitle": "Simpan klip, GIF, dan video dalam MP4 atau MP3 dengan proses cepat dan stabil dari Twitter",
+      "inputPlaceholder": "Tempel link Twitter di sini",
+      "downloadBtn": {
+        "idle": "unduh",
+        "loading": "Mengambil"
+      },
+      "platformButtons": [
+        { "name": "Pengunduh YouTube", "path": "/youtube-video-downloader" },
+        { "name": "Pengunduh TikTok", "path": "/tiktok-video-downloader" },
+        { "name": "Pengunduh Instagram", "path": "/instagram-video-downloader" },
+        { "name": "Pengunduh Facebook", "path": "/facebook-video-downloader" }
+      ]
+    }
+  },
+
+  "youtubeToMp3Downloader": {
+    "ui": {
+      "title": "YouTube ke MP3",
+      "subtitle": "Konversi video menjadi audio jernih dalam berbagai bitrate dengan proses cepat dan stabil",
+      "inputPlaceholder": "Tempel link YouTube di sini",
+      "downloadBtn": {
+        "idle": "unduh",
+        "loading": "Mengambil"
+      },
+      "platformButtons": [
+        { "name": "Pengunduh YouTube", "path": "/youtube-video-downloader" },
+        { "name": "Pengunduh TikTok", "path": "/tiktok-video-downloader" },
+        { "name": "Pengunduh Instagram", "path": "/instagram-video-downloader" },
+        { "name": "Pengunduh Facebook", "path": "/facebook-video-downloader" }
+      ]
+    }
+  },
+
+  "YoutubeDownloader": {
+    "ui": {
+      "title": "Unduh Video YouTube",
+      "subtitle": "Simpan video, shorts, dan playlist dalam MP4 atau MP3 dengan kualitas stabil tinggi",
+      "inputPlaceholder": "Tempel link YouTube di sini",
+      "downloadBtn": {
+        "idle": "unduh",
+        "loading": "Mengambil"
+      },
+      "platformButtons": [
+        { "name": "Pengunduh YouTube", "path": "/youtube-video-downloader" },
+        { "name": "Pengunduh TikTok", "path": "/tiktok-video-downloader" },
+        { "name": "Pengunduh Instagram", "path": "/instagram-video-downloader" },
+        { "name": "Pengunduh Facebook", "path": "/facebook-video-downloader" }
+      ]
+    }
+  }
+}

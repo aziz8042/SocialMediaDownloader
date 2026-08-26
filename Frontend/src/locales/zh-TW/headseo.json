@@ -1,0 +1,64 @@
+{
+  "allVideoDownloader": {
+    "title": "線上 影片 下載 器 - 快速 MP4 MP3 - url2video",
+    "description": "快速將 YouTube、TikTok、Instagram 和 Facebook 影片保存為 MP4 或 MP3。快速、安全，無需註冊。",
+    "keywords": "影片下載器, 線上影片下載器, YouTube 下載器, TikTok 影片下載, Facebook 下載器, Instagram 影片下載器, HD MP4 下載器, 免費 MP3 轉檔",
+    "ogTitle": "影片下載器：免費線上 HD MP4 & MP3 - url2video",
+    "ogDescription": "即時、免費且安全的影片下載工具，支援 YouTube、TikTok、Facebook、Instagram 等平台。立即以 HD MP4 或 MP3 格式保存您喜愛的影片，無需註冊！",
+    "ogImage": "https://url2video.online/ogimage.png"
+  },
+
+  "YoutubeDownloader": {
+    "title": "YouTube 影片下載 - HD MP4 MP3 - url2video",
+    "description": "快速保存 YouTube 影片、短片與播放清單為 HD MP4 或 MP3。快速、安全，無需應用程式或註冊。",
+    "keywords": "YouTube 影片下載器, YouTube 影片下載器 4K, YouTube 影片下載 Reddit, 免費 YouTube 影片下載器, YouTube 下載器, YouTube 下載器線上 MP4, YouTube 下載器 MP3",
+    "ogTitle": "YouTube 影片下載器：免費 HD MP4 & MP3",
+    "ogDescription": "快速、安全地將 YouTube 影片保存至您的裝置，支援 HD MP4 或 MP3 格式。無需應用程式、無需註冊、無限制！",
+    "ogImage": "https://url2video.online/ogimage.png"
+  },
+
+  "youtubeToMp3Downloader": {
+    "title": "YouTube 轉 MP3 轉換器 - 快速音訊 - url2video",
+    "description": "即時將 YouTube 影片轉為高品質 MP3。快速可靠，無需註冊或應用程式即可保存音訊。",
+    "keywords": "YouTube 轉 MP3, YouTube to MP3 轉換器, YouTube 轉 MP3 下載, 免費 YouTube 轉 MP3, YouTube 轉 MP3 320, YouTube 轉 MP3 Reddit, YouTube 轉 MP3 線上",
+    "ogTitle": "YouTube 轉 MP3：免費 320kbps 音訊",
+    "ogDescription": "輕鬆線上提取並下載 YouTube 影片音訊，支援 320kbps MP3。快速、安全、免費轉換，無限制！",
+    "ogImage": "https://url2video.online/ogimage.png"
+  },
+
+  "tiktokVedioDownloader": {
+    "title": "TikTok 影片下載 - 無浮水印 - url2video",
+    "description": "下載無浮水印 TikTok 影片，支援 HD MP4 或 MP3。快速、安全、免費，簡單貼連結即可保存。",
+    "keywords": "TikTok 影片下載器, TikTok 下載器, 無浮水印 TikTok 下載器, TikTok 下載 MP3, TikTok HD 下載器, TT 下載器, TT HD 下載器",
+    "ogTitle": "TikTok 影片下載器 無浮水印 | HD",
+    "ogDescription": "即時將 TikTok 影片保存至裝置，無浮水印且高清。快速、安全、免費，無下載限制！",
+    "ogImage": "https://url2video.online/ogimage.png"
+  },
+
+  "instagramVedioDownloader": {
+    "title": "Instagram 影片下載 - Reels & Stories - url2video",
+    "description": "即時保存 Instagram Reels、Stories 及影片為 HD MP4。快速、安全，無需登入即可使用。",
+    "keywords": "Instagram 下載器, Instagram 影片下載器, Instagram Reel 下載器, Reel 下載器, IG Reel 下載器, Instagram Story 下載器, IG Story 下載器",
+    "ogTitle": "Instagram 影片下載器：Reels & Stories HD",
+    "ogDescription": "將 Instagram 內容如 Reels 和 Stories 保存至您的裝置，支援高清。免費、快速、安全的線上下載器，無需登入！",
+    "ogImage": "https://url2video.online/ogimage.png"
+  },
+
+  "facebookVedioDownloader": {
+    "title": "Facebook 影片下載 - Reels HD - url2video",
+    "description": "快速下載 Facebook Reels、Stories 和影片，支援 HD MP4 或 MP3。快速、安全，無需登入。",
+    "keywords": "Facebook 影片下載器, Facebook 下載器, Facebook 影片下載線上, Facebook Story 下載器, Facebook Reel 下載器, FB 影片下載器, FB 下載器",
+    "ogTitle": "Facebook 影片下載器：免費 HD MP4/Reels",
+    "ogDescription": "快速將 Facebook 影片、Reels 和 Stories 保存至裝置，支援高畫質。安全、免費、簡單的線上下載器，無需登入！",
+    "ogImage": "https://url2video.online/ogimage.png"
+  },
+
+  "twitterVedioDownloader": {
+    "title": "Twitter 影片下載 - HD 保存 - url2video",
+    "description": "即時保存 Twitter 影片、短片及 GIF，支援 HD MP4。快速、安全，無需登入即可下載。",
+    "keywords": "Twitter 影片下載器, Twitter 影片下載器 App, Twitter 下載器, X 下載器, X 影片下載器, Twitter X 影片下載器",
+    "ogTitle": "Twitter 影片下載器：X 影片 HD 保存",
+    "ogDescription": "輕鬆將 Twitter/X 影片保存至裝置，支援高畫質 HD MP4。快速、免費、安全的線上下載器，無需登入！",
+    "ogImage": "https://url2video.online/ogimage.png"
+  }
+}

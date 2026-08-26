@@ -1,0 +1,64 @@
+{
+  "allVideoDownloader": {
+    "title": "mag-download ng video online - MP4 MP3 mabilis - url2video",
+    "description": "I-save ang mga video mula sa YouTube, TikTok, Instagram, at Facebook nang mabilis sa MP4 o MP3. Mabilis, ligtas, at walang kailangan na account.",
+    "keywords": "video downloader, online video downloader, YouTube downloader, TikTok video downloader, Facebook downloader, Instagram video downloader, MP4 HD downloader, libreng MP3 converter",
+    "ogTitle": "Video Downloader: HD MP4 & MP3 Libre - url2video",
+    "ogDescription": "Instant, libre, at ligtas na video downloader para sa YouTube, TikTok, Facebook, Instagram at iba pa. I-save agad ang paborito mong mga clip sa HD MP4 o MP3—walang account na kailangan!",
+    "ogImage": "https://url2video.online/ogimage.png"
+  },
+
+  "YoutubeDownloader": {
+    "title": "mag-download ng YouTube video - HD MP4 MP3 - url2video",
+    "description": "I-save nang mabilis ang mga video, shorts, at playlists mula sa YouTube sa HD MP4 o MP3. Mabilis at ligtas na pag-download nang walang apps o account.",
+    "keywords": "YouTube video downloader, YouTube 4k downloader, YouTube Reddit downloader, libreng YouTube video downloader, YouTube downloader online mp4, YouTube downloader mp3",
+    "ogTitle": "YouTube Video Downloader: HD MP4 & MP3 Libre",
+    "ogDescription": "I-save ang mga video mula sa YouTube sa iyong device sa HD MP4 o MP3 nang mabilis at ligtas. Walang apps, walang account, walang limitasyon.",
+    "ogImage": "https://url2video.online/ogimage.png"
+  },
+
+  "youtubeToMp3Downloader": {
+    "title": "YouTube to MP3 converter - mabilis na audio - url2video",
+    "description": "I-convert ang mga video ng YouTube sa mataas na kalidad na MP3 agad-agad. Mabilis, maaasahan, at walang kinakailangang account o apps.",
+    "keywords": "YouTube to MP3, YouTube to MP3 converter, download YouTube to MP3, libre YouTube to MP3 converter, YouTube to MP3 320kbps, YouTube to MP3 Reddit, YouTube to MP3 online",
+    "ogTitle": "YouTube to MP3 Converter: Libre na Audio 320kbps",
+    "ogDescription": "Madaling kunin at i-download ang audio ng MP3 320kbps mula sa mga video ng YouTube online. Mabilis, ligtas, at libre—walang limitasyon!",
+    "ogImage": "https://url2video.online/ogimage.png"
+  },
+
+  "tiktokVedioDownloader": {
+    "title": "mag-download ng TikTok video - walang watermark - url2video",
+    "description": "I-save ang mga video ng TikTok nang walang watermark sa HD MP4 o MP3. Mabilis, ligtas, at libre—simpleng i-paste ang link.",
+    "keywords": "TikTok video downloader, TikTok downloader, TikTok downloader walang watermark, TikTok downloader MP3, TikTok downloader HD, TT downloader, TT downloader HD",
+    "ogTitle": "TikTok Video Downloader Walang Watermark | HD",
+    "ogDescription": "I-save agad ang mga video ng TikTok sa iyong device sa malinis at mataas na kalidad na HD. Mabilis, ligtas, at libre—walang limitasyon!",
+    "ogImage": "https://url2video.online/ogimage.png"
+  },
+
+  "instagramVedioDownloader": {
+    "title": "mag-download ng Instagram video - reels at stories - url2video",
+    "description": "I-save ang Reels, Stories, at videos mula sa Instagram sa HD MP4 agad-agad. Mabilis, ligtas, at hindi kailangan mag-login.",
+    "keywords": "Instagram downloader, Instagram video downloader, Instagram reels downloader, reels downloader, IG reel downloader, Instagram stories downloader, IG story downloader",
+    "ogTitle": "Instagram Video Downloader: Reels & Stories HD",
+    "ogDescription": "I-save ang Instagram content gaya ng Reels at Stories sa iyong device sa mataas na kalidad. Libre, mabilis, at ligtas na online downloader—walang login na kailangan!",
+    "ogImage": "https://url2video.online/ogimage.png"
+  },
+
+  "facebookVedioDownloader": {
+    "title": "mag-download ng Facebook video - HD reels - url2video",
+    "description": "I-save ang Reels, Stories, at videos mula sa Facebook sa HD MP4 o MP3 nang mabilis. Mabilis, ligtas, at walang login na kailangan.",
+    "keywords": "Facebook video downloader, Facebook downloader, online Facebook video downloader, Facebook stories downloader, Facebook reels downloader, FB video downloader, FB downloader",
+    "ogTitle": "Facebook Video Downloader: HD MP4/Reels Libre",
+    "ogDescription": "I-save agad ang mga video, Reels, at Stories mula sa Facebook sa mataas na kalidad sa iyong device. Ligtas, libre, at madaling gamitin online—walang login na kailangan!",
+    "ogImage": "https://url2video.online/ogimage.png"
+  },
+
+  "twitterVedioDownloader": {
+    "title": "mag-download ng Twitter video - HD save - url2video",
+    "description": "I-save ang mga video, clips, at GIFs mula sa Twitter sa HD MP4 agad-agad. Mabilis at ligtas na pag-download nang walang login.",
+    "keywords": "Twitter video downloader, Twitter downloader app, Twitter downloader, X downloader, X video downloader, Twitter X video downloader",
+    "ogTitle": "Twitter Video Downloader: I-save ang X Videos HD",
+    "ogDescription": "Madaling i-save ang mga video mula sa Twitter/X sa HD na mataas ang kalidad. Mabilis, ligtas, at libreng online downloader—walang login na kailangan!",
+    "ogImage": "https://url2video.online/ogimage.png"
+  }
+}

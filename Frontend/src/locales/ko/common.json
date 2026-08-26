@@ -1,0 +1,127 @@
+{
+  "allVideoDownloader": {
+    "ui": {
+      "title": "온라인 동영상 다운로드",
+      "subtitle": "주요 플랫폼의 동영상을 선명한 MP4 또는 MP3로 빠르고 원활하게 저장",
+      "inputPlaceholder": "빠른 저장을 위해 여기에 영상 링크를 붙여넣기",
+      "downloadBtn": {
+        "idle": "다운로드",
+        "loading": "가져오는 중"
+      },
+      "platformButtons": [
+        { "name": "YouTube 다운로드", "path": "/youtube-video-downloader" },
+        { "name": "TikTok 다운로드", "path": "/tiktok-video-downloader" },
+        { "name": "Instagram 다운로드", "path": "/instagram-video-downloader" },
+        { "name": "Facebook 다운로드", "path": "/facebook-video-downloader" }
+      ]
+    }
+  },
+
+  "tiktokVedioDownloader": {
+    "ui": {
+      "title": "TikTok 영상 다운로드",
+      "subtitle": "워터마크 없이 선명한 MP4 또는 MP3로 TikTok 클립을 빠르게 저장",
+      "inputPlaceholder": "여기에 TikTok 영상 링크 붙여넣기",
+      "downloadBtn": {
+        "idle": "다운로드",
+        "loading": "가져오는 중"
+      },
+      "platformButtons": [
+        { "name": "YouTube 다운로드", "path": "/youtube-video-downloader" },
+        { "name": "TikTok 다운로드", "path": "/tiktok-video-downloader" },
+        { "name": "Instagram 다운로드", "path": "/instagram-video-downloader" },
+        { "name": "Facebook 다운로드", "path": "/facebook-video-downloader" }
+      ]
+    }
+  },
+
+  "instagramVedioDownloader": {
+    "ui": {
+      "title": "Instagram 영상 다운로드",
+      "subtitle": "모든 장치에서 Instagram 릴, 스토리, 게시물, IGTV를 선명한 MP4 또는 MP3로 저장",
+      "inputPlaceholder": "여기에 Instagram 링크 붙여넣기",
+      "downloadBtn": {
+        "idle": "다운로드",
+        "loading": "가져오는 중"
+      },
+      "platformButtons": [
+        { "name": "YouTube 다운로드", "path": "/youtube-video-downloader" },
+        { "name": "TikTok 다운로드", "path": "/tiktok-video-downloader" },
+        { "name": "Instagram 다운로드", "path": "/instagram-video-downloader" },
+        { "name": "Facebook 다운로드", "path": "/facebook-video-downloader" }
+      ]
+    }
+  },
+
+  "facebookVedioDownloader": {
+    "ui": {
+      "title": "Facebook 영상 다운로드",
+      "subtitle": "부드러운 MP4 또는 MP3로 Facebook 영상, 릴, 클립을 안정적이고 고품질로 저장",
+      "inputPlaceholder": "여기에 Facebook 영상 링크 붙여넣기",
+      "downloadBtn": {
+        "idle": "다운로드",
+        "loading": "가져오는 중"
+      },
+      "platformButtons": [
+        { "name": "YouTube 다운로드", "path": "/youtube-video-downloader" },
+        { "name": "TikTok 다운로드", "path": "/tiktok-video-downloader" },
+        { "name": "Instagram 다운로드", "path": "/instagram-video-downloader" },
+        { "name": "Facebook 다운로드", "path": "/facebook-video-downloader" }
+      ]
+    }
+  },
+
+  "twitterVedioDownloader": {
+    "ui": {
+      "title": "Twitter 영상 다운로드",
+      "subtitle": "Twitter에서 클립, GIF, 영상을 MP4 또는 MP3로 빠르고 안정적으로 저장",
+      "inputPlaceholder": "여기에 Twitter 링크 붙여넣기",
+      "downloadBtn": {
+        "idle": "다운로드",
+        "loading": "가져오는 중"
+      },
+      "platformButtons": [
+        { "name": "YouTube 다운로드", "path": "/youtube-video-downloader" },
+        { "name": "TikTok 다운로드", "path": "/tiktok-video-downloader" },
+        { "name": "Instagram 다운로드", "path": "/instagram-video-downloader" },
+        { "name": "Facebook 다운로드", "path": "/facebook-video-downloader" }
+      ]
+    }
+  },
+
+  "youtubeToMp3Downloader": {
+    "ui": {
+      "title": "YouTube → MP3 변환",
+      "subtitle": "영상에서 선명한 오디오로 여러 비트레이트 변환, 빠르고 안정적인 처리",
+      "inputPlaceholder": "여기에 YouTube 링크 붙여넣기",
+      "downloadBtn": {
+        "idle": "다운로드",
+        "loading": "가져오는 중"
+      },
+      "platformButtons": [
+        { "name": "YouTube 다운로드", "path": "/youtube-video-downloader" },
+        { "name": "TikTok 다운로드", "path": "/tiktok-video-downloader" },
+        { "name": "Instagram 다운로드", "path": "/instagram-video-downloader" },
+        { "name": "Facebook 다운로드", "path": "/facebook-video-downloader" }
+      ]
+    }
+  },
+
+  "YoutubeDownloader": {
+    "ui": {
+      "title": "YouTube 영상 다운로드",
+      "subtitle": "부드러운 MP4 또는 MP3로 영상, 쇼츠, 재생목록을 안정적 고품질로 저장",
+      "inputPlaceholder": "여기에 YouTube 링크 붙여넣기",
+      "downloadBtn": {
+        "idle": "다운로드",
+        "loading": "가져오는 중"
+      },
+      "platformButtons": [
+        { "name": "YouTube 다운로드", "path": "/youtube-video-downloader" },
+        { "name": "TikTok 다운로드", "path": "/tiktok-video-downloader" },
+        { "name": "Instagram 다운로드", "path": "/instagram-video-downloader" },
+        { "name": "Facebook 다운로드", "path": "/facebook-video-downloader" }
+      ]
+    }
+  }
+}

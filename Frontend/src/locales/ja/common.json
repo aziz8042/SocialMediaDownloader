@@ -1,0 +1,127 @@
+{
+  "allVideoDownloader": {
+    "ui": {
+      "title": "無料オンライン動画ダウンロード",
+      "subtitle": "主要プラットフォームから動画を高画質MP4またはMP3で、速くスムーズに保存",
+      "inputPlaceholder": "動画リンクをここに貼り付けてすぐに保存",
+      "downloadBtn": {
+        "idle": "ダウンロード",
+        "loading": "フェッチ"
+      },
+      "platformButtons": [
+        { "name": "YouTubeダウンローダー", "path": "/youtube-video-downloader" },
+        { "name": "TikTokダウンローダー", "path": "/tiktok-video-downloader" },
+        { "name": "Instagramダウンローダー", "path": "/instagram-video-downloader" },
+        { "name": "Facebookダウンローダー", "path": "/facebook-video-downloader" }
+      ]
+    }
+  },
+
+  "tiktokVedioDownloader": {
+    "ui": {
+      "title": "tiktok ダウンロード",
+      "subtitle": "透かしなしの高画質MP4やMP3でTikTok動画を高速保存",
+      "inputPlaceholder": "TikTok動画リンクをここに貼り付け",
+      "downloadBtn": {
+        "idle": "ダウンロード",
+        "loading": "フェッチ"
+      },
+      "platformButtons": [
+        { "name": "YouTubeダウンローダー", "path": "/youtube-video-downloader" },
+        { "name": "TikTokダウンローダー", "path": "/tiktok-video-downloader" },
+        { "name": "Instagramダウンローダー", "path": "/instagram-video-downloader" },
+        { "name": "Facebookダウンローダー", "path": "/facebook-video-downloader" }
+      ]
+    }
+  },
+
+  "instagramVedioDownloader": {
+    "ui": {
+      "title": "Instagram動画ダウンロード",
+      "subtitle": "Instagramリール、ストーリー、投稿、IGTVを高画質MP4またはMP3で全デバイスに保存",
+      "inputPlaceholder": "Instagramリンクをここに貼り付け",
+      "downloadBtn": {
+        "idle": "ダウンロード",
+        "loading": "フェッチ"
+      },
+      "platformButtons": [
+        { "name": "YouTubeダウンローダー", "path": "/youtube-video-downloader" },
+        { "name": "TikTokダウンローダー", "path": "/tiktok-video-downloader" },
+        { "name": "Instagramダウンローダー", "path": "/instagram-video-downloader" },
+        { "name": "Facebookダウンローダー", "path": "/facebook-video-downloader" }
+      ]
+    }
+  },
+
+  "facebookVedioDownloader": {
+    "ui": {
+      "title": "Facebook 動画 ダウンロード",
+      "subtitle": "Facebook動画、リール、クリップを高品質で滑らかにMP4またはMP3で保存",
+      "inputPlaceholder": "Facebook動画リンクをここに貼り付け",
+      "downloadBtn": {
+        "idle": "ダウンロード",
+        "loading": "フェッチ"
+      },
+      "platformButtons": [
+        { "name": "YouTubeダウンローダー", "path": "/youtube-video-downloader" },
+        { "name": "TikTokダウンローダー", "path": "/tiktok-video-downloader" },
+        { "name": "Instagramダウンローダー", "path": "/instagram-video-downloader" },
+        { "name": "Facebookダウンローダー", "path": "/facebook-video-downloader" }
+      ]
+    }
+  },
+
+  "twitterVedioDownloader": {
+    "ui": {
+      "title": "twitter動画保存ランキング",
+      "subtitle": "Twitterの動画、GIF、クリップを高速で安定した処理でMP4またはMP3で保存",
+      "inputPlaceholder": "Twitterリンクをここに貼り付け",
+      "downloadBtn": {
+        "idle": "ダウンロード",
+        "loading": "フェッチ"
+      },
+      "platformButtons": [
+        { "name": "YouTubeダウンローダー", "path": "/youtube-video-downloader" },
+        { "name": "TikTokダウンローダー", "path": "/tiktok-video-downloader" },
+        { "name": "Instagramダウンローダー", "path": "/instagram-video-downloader" },
+        { "name": "Facebookダウンローダー", "path": "/facebook-video-downloader" }
+      ]
+    }
+  },
+
+  "youtubeToMp3Downloader": {
+    "ui": {
+      "title": "youtube mp3 変換",
+      "subtitle": "動画を複数のビットレートでクリアな音声に変換、高速で安定した処理",
+      "inputPlaceholder": "YouTubeリンクをここに貼り付け",
+      "downloadBtn": {
+        "idle": "ダウンロード",
+        "loading": "フェッチ"
+      },
+      "platformButtons": [
+        { "name": "YouTubeダウンローダー", "path": "/youtube-video-downloader" },
+        { "name": "TikTokダウンローダー", "path": "/tiktok-video-downloader" },
+        { "name": "Instagramダウンローダー", "path": "/instagram-video-downloader" },
+        { "name": "Facebookダウンローダー", "path": "/facebook-video-downloader" }
+      ]
+    }
+  },
+
+  "YoutubeDownloader": {
+    "ui": {
+      "title": "youtube ダウンロード",
+      "subtitle": "動画、ショート動画、プレイリストを滑らかで高品質なMP4またはMP3で保存",
+      "inputPlaceholder": "YouTubeリンクをここに貼り付け",
+      "downloadBtn": {
+        "idle": "ダウンロード",
+        "loading": "フェッチ"
+      },
+      "platformButtons": [
+        { "name": "YouTubeダウンローダー", "path": "/youtube-video-downloader" },
+        { "name": "TikTokダウンローダー", "path": "/tiktok-video-downloader" },
+        { "name": "Instagramダウンローダー", "path": "/instagram-video-downloader" },
+        { "name": "Facebookダウンローダー", "path": "/facebook-video-downloader" }
+      ]
+    }
+  }
+}

@@ -1,0 +1,262 @@
+{
+  "allVideoDownloader": {
+    "faqs": [
+      {
+        "question": "從 YouTube、TikTok、Instagram 或其他平台下載影片是否合法？",
+        "answer": "下載影片的合法性取決於各平台的使用條款。公共領域或無版權內容是安全的，但受版權保護的影片需獲得授權。URL2Video 建議僅下載個人使用或取得授權的內容。"
+      },
+      {
+        "question": "我可以免費下載受版權保護的影片嗎？",
+        "answer": "不行。請僅下載可自由使用的內容、您自己的上傳影片或無版權媒體。請務必尊重創作者的權利。"
+      },
+      {
+        "question": "影片下載軟體會帶有惡意軟體或病毒嗎？",
+        "answer": "部分第三方應用可能不安全，但 URL2Video 完全線上操作，安全可靠。無需安裝，轉檔過程不會有惡意軟體風險。"
+      },
+      {
+        "question": "我需要安裝應用程式或瀏覽器擴充套件來下載影片嗎？",
+        "answer": "不需要。URL2Video 完全基於網頁操作，只需貼上影片連結、選擇格式，即可直接在瀏覽器下載。"
+      },
+      {
+        "question": "我可以在手機（Android / iOS）上使用線上影片下載器嗎？",
+        "answer": "可以。URL2Video 支援 Android、iOS、Windows 和 Mac，無需額外應用即可立即下載影片。"
+      },
+      {
+        "question": "支援哪些影片或音訊格式？",
+        "answer": "可下載 MP4 影片（HD、Full HD、4K）或將音訊提取為 MP3，位元率可選 128kbps、192kbps 或 320kbps。"
+      },
+      {
+        "question": "我可以選擇影片品質（HD、4K 等）嗎？",
+        "answer": "可以。可依影片來源選擇 360p、720p（HD）、1080p（Full HD）及 4K 等多種解析度。"
+      },
+      {
+        "question": "免費下載影片有次數限制嗎？",
+        "answer": "沒有。URL2Video 提供無限制免費下載，無訂閱費或隱藏費用。"
+      }
+    ]
+  },
+  "tiktokVedioDownloader": {
+    "faqs": [
+      {
+        "question": "我可以下載無浮水印的 TikTok 影片嗎？",
+        "answer": "可以。下載器會自動去除浮水印，讓您保存乾淨、高畫質影片，方便離線觀看或分享。"
+      },
+      {
+        "question": "我需要安裝軟體或瀏覽器擴充套件來下載 TikTok 影片嗎？",
+        "answer": "不需要。此工具完全線上使用，即時在桌面、手機或平板運作。"
+      },
+      {
+        "question": "TikTok 下載器是免費的嗎？",
+        "answer": "是的。TikTok 下載器完全免費，無限制下載且不需帳號。"
+      },
+      {
+        "question": "我可以在 iOS / iPhone 上下載 TikTok 影片嗎？",
+        "answer": "可以。在 Safari 或任何手機瀏覽器中貼上 TikTok 連結即可直接下載。"
+      },
+      {
+        "question": "我可以在 Android / 手機設備下載 TikTok 影片嗎？",
+        "answer": "可以。支援所有 Android 裝置，無需額外應用程式，直接在瀏覽器中操作。"
+      },
+      {
+        "question": "為什麼有些 TikTok 影片無法下載？",
+        "answer": "部分影片可能是私人、區域限制或已刪除。公共 TikTok 影片始終可下載。"
+      },
+      {
+        "question": "我可以下載哪種影片品質？",
+        "answer": "支援 HD、Full HD，以及 TikTok 上可取得的最高品質，依原始上傳而定。"
+      },
+      {
+        "question": "下載的 TikTok 影片會有音訊嗎？",
+        "answer": "會。影片會包含原始音訊，也可將音訊單獨提取為 MP3。"
+      }
+    ]
+  },
+  "instagramVedioDownloader": {
+    "faqs": [
+      {
+        "question": "Instagram 下載器是什麼？",
+        "answer": "Instagram 下載器是一款免費線上工具，可直接將 Instagram 影片、Reels、IGTV 和限時動態下載到您的裝置，保持高畫質。"
+      },
+      {
+        "question": "如何下載 Instagram 影片、Reels 和限時動態？",
+        "answer": "複製內容的 URL，貼到下載器，選擇 MP4 或 MP3，即可立即下載。"
+      },
+      {
+        "question": "我可以下載 Instagram 限時動態或精選集嗎？",
+        "answer": "可以。將限時動態或精選集連結貼上，即可下載 HD 高畫質影片離線觀看。"
+      },
+      {
+        "question": "我可以下載 Instagram Reels 嗎？",
+        "answer": "可以。Reels 可高畫質下載，保留或不保留音訊，支援任何裝置。"
+      },
+      {
+        "question": "我需要登入或提供 Instagram 帳號嗎？",
+        "answer": "不需要。工具完全線上操作，無需登入，確保隱私與安全。"
+      },
+      {
+        "question": "從 Instagram 下載是否合法？",
+        "answer": "個人使用或離線觀看是合法的。請勿未經授權將內容商業化或重新上傳。"
+      },
+      {
+        "question": "下載 Instagram 影片有數量限制嗎？",
+        "answer": "沒有。可無限制下載影片、Reels 和限時動態。"
+      },
+      {
+        "question": "下載器支援私人帳號嗎？",
+        "answer": "不支援。只能下載公開內容，除非您獲得私人帳號的授權。"
+      }
+    ]
+  },
+  "facebookVedioDownloader": {
+    "faqs": [
+      {
+        "question": "Facebook 影片下載器是什麼？",
+        "answer": "Facebook 下載器可以將貼文、Reels 和限時動態以 MP4 或 MP3 直接下載到裝置，無需安裝軟體。"
+      },
+      {
+        "question": "如何下載 Facebook 影片（貼文、Reels、限時動態）？",
+        "answer": "複製影片連結，貼到下載器，選擇格式，即可在幾秒內完成下載。"
+      },
+      {
+        "question": "可以下載 Facebook Live 影片嗎？",
+        "answer": "可以。直播結束後，將連結貼到工具中即可保存影片。"
+      },
+      {
+        "question": "我需要登入或提供 Facebook 帳號嗎？",
+        "answer": "不需要。下載完全線上、安全可靠，無需登入。"
+      },
+      {
+        "question": "從 Facebook 下載是否合法？",
+        "answer": "個人或教育用途是合法的。請勿未經授權重新分發受版權保護的內容。"
+      },
+      {
+        "question": "每天下載次數有限制嗎？",
+        "answer": "沒有。您可以每天無限制下載 Facebook 影片。"
+      },
+      {
+        "question": "Facebook 影片下載器支援私人帳號或群組嗎？",
+        "answer": "不支援。只能下載公開影片。"
+      },
+      {
+        "question": "可以下載哪些畫質或格式（HD、SD、MP4 等）？",
+        "answer": "可下載 MP4 影片或提取 MP3 音訊。解析度依影片來源提供 SD、HD、Full HD 或 4K。"
+      }
+    ]
+  },
+  "YoutubeDownloader": {
+    "faqs": [
+      {
+        "question": "YouTube 影片下載器是什麼？",
+        "answer": "YouTube 下載器可以將影片或音訊直接保存到裝置，方便離線觀看。URL2Video 支援 MP4 和 MP3 格式。"
+      },
+      {
+        "question": "使用 YouTube 下載器是否合法？",
+        "answer": "未經授權下載受版權保護的影片可能違反 YouTube 使用條款。請下載公共領域內容、您自己的上傳或已獲授權的影片。"
+      },
+      {
+        "question": "如何使用下載器下載 YouTube 影片？",
+        "answer": "複製影片連結，貼到 URL2Video，選擇 MP4 或 MP3，選擇畫質，點擊「下載」。"
+      },
+      {
+        "question": "支援哪些格式和解析度？",
+        "answer": "URL2Video 支援 MP4、MP3，解析度可從 360p 到 4K，依影片原始品質而定。"
+      },
+      {
+        "question": "可以下載 YouTube 播放清單或多個影片嗎？",
+        "answer": "可以。可批次下載整個播放清單或多個影片，依序保存。"
+      },
+      {
+        "question": "為什麼有時下載器會出現錯誤？",
+        "answer": "可能因地區限制、年齡限制、DRM 或 YouTube 更新而出現錯誤。URL2Video 定期更新以減少問題。"
+      },
+      {
+        "question": "為什麼我的 YouTube 下載速度有時很慢？",
+        "answer": "速度取決於網路連線、伺服器負載、檔案大小或 YouTube 限速。URL2Video 優化伺服器以加快下載速度。"
+      },
+      {
+        "question": "下載器能處理年齡限制或地區限制的內容嗎？",
+        "answer": "大部分無法繞過限制。部分影片可能需要登入或區域存取。"
+      },
+      {
+        "question": "為什麼下載影片沒有音訊？",
+        "answer": "部分影片音訊與影片分開，URL2Video 會正確合併，生成完整 MP4 含音訊。"
+      },
+      {
+        "question": "如果 YouTube 下載器無法使用怎麼辦？",
+        "answer": "工具會定期更新，以確保即使 YouTube 有變動，也能順利下載。"
+      }
+    ]
+  },
+  "youtubeToMp3Downloader": {
+    "faqs": [
+      {
+        "question": "為什麼有些 YouTube 影片無法轉換為 MP3？",
+        "answer": "部分影片受地區限制、版權保護，或沒有音訊串流。URL2Video 支援大部分公開影片，可快速高品質轉 MP3。"
+      },
+      {
+        "question": "『請登入以確認您不是機器人』訊息是什麼意思？",
+        "answer": "此訊息通常出現在年齡限制或敏感影片。URL2Video 支援公開影片，無需登入或提供帳號。"
+      },
+      {
+        "question": "MP3 轉換時出現 404 或影片不可用怎麼辦？",
+        "answer": "請先確認影片在瀏覽器可播放。URL2Video 提供穩定伺服器，確保轉換順暢。"
+      },
+      {
+        "question": "為什麼 MP3 檔案音質差或有噪音？",
+        "answer": "音質取決於影片原始音訊。URL2Video 提供 128kbps、192kbps 及 320kbps 選項，確保最佳音效。"
+      },
+      {
+        "question": "可以將整個 YouTube 播放清單或頻道轉為 MP3 嗎？",
+        "answer": "可以。貼上播放清單連結，即可將每個影片轉換為 MP3 離線收聽。"
+      },
+      {
+        "question": "如何在不同設備找到下載的 MP3 檔案？",
+        "answer": "電腦可在瀏覽器下載資料夾查看。手機則可在相簿、音樂 App 或檔案資料夾找到。"
+      },
+      {
+        "question": "為什麼下載的 MP3 沒有聲音或缺失音效？",
+        "answer": "部分影片音訊與影片分開，URL2Video 會合併生成完整 MP3。"
+      },
+      {
+        "question": "每天的轉換次數有限制嗎？",
+        "answer": "沒有。URL2Video 提供無限制免費轉換，無任何隱藏費用。"
+      }
+    ]
+  },
+  "twitterVedioDownloader": {
+    "faqs": [
+      {
+        "question": "如何下載 Twitter 影片？",
+        "answer": "複製推文中的影片連結，貼到我們的線上下載器，選擇 MP4 或 MP3，點擊下載，即可立即保存影片。"
+      },
+      {
+        "question": "我可以下載 HD 影片嗎？",
+        "answer": "可以。下載器可選擇 720p（HD）、1080p（Full HD）、4K 等可用解析度，依原始影片而定。"
+      },
+      {
+        "question": "支援 GIF 和短片嗎？",
+        "answer": "支援。Twitter GIF、短片及一般影片皆可下載，GIF 會轉為 MP4，確保在各裝置順暢播放。"
+      },
+      {
+        "question": "可以一次下載多個 Twitter 影片嗎？",
+        "answer": "可以。可依序貼上多個影片連結，下載器會逐一保存，且不影響畫質或格式選項。"
+      },
+      {
+        "question": "Twitter 下載器是免費的嗎？",
+        "answer": "是的。此工具完全免費，無訂閱或隱藏費用，可安全快速下載公開影片。"
+      },
+      {
+        "question": "可在行動裝置上使用嗎？",
+        "answer": "可以。下載器完全響應式，支援 Android、iOS、平板與桌面瀏覽器，無需安裝 App。"
+      },
+      {
+        "question": "可以將 Twitter 影片轉為 MP3 嗎？",
+        "answer": "可以。可提取任何 Twitter 影片音訊，保存高品質 MP3，適合 Podcast、音樂片段或語音備忘。"
+      },
+      {
+        "question": "Twitter 影片下載有次數限制嗎？",
+        "answer": "沒有。可無限制下載 Twitter 公開影片，但私人或受保護內容需獲授權才能下載。"
+      }
+    ]
+  }
+}

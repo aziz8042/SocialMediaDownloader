@@ -1,0 +1,135 @@
+{
+  "allVideoDownloader": {
+    "ui": {
+      "title": "वीडियो डाउनलोड करें",
+      "subtitle": "मुख्य प्लेटफॉर्म से वीडियो को साफ़ MP4 या MP3 में तेज़ और स्मूद प्रदर्शन के साथ सेव करें",
+      "inputPlaceholder": "त्वरित सेविंग के लिए अपना वीडियो लिंक यहाँ पेस्ट करें",
+      "downloadBtn": {
+        "idle": "डाउनलोड करना",
+        "loading": "प्राप्त कर रहा है"
+      },
+      "platformButtons": [
+  { "name": "यूट्यूब डाउनलोडर", "path": "/यूट्यूब -video-downloader" },
+  { "name": "टिकटॉक डाउनलोडर", "path": "/टिकटॉक -video-downloader" },
+  { "name": "इंस्टाग्राम डाउनलोडर", "path": "/इंस्टाग्राम -video-downloader" },
+  { "name": "फेसबुक डाउनलोडर", "path": "/फेसबुक -video-downloader" }
+ 
+]
+    }
+  },
+
+  "tiktokVedioDownloader": {
+    "ui": {
+      "title": "टिकटॉक  वीडियो डाउनलोड करें",
+      "subtitle": "टिकटॉक  क्लिप्स को MP4 या MP3 में साफ़, वॉटरमार्क फ्री और तेज़ प्रोसेसिंग के साथ सेव करें",
+      "inputPlaceholder": "यहाँ टिकटॉक  वीडियो लिंक पेस्ट करें",
+      "downloadBtn": {
+        "idle": "डाउनलोड करना",
+        "loading": "प्राप्त कर रहा है"
+      },
+      "platformButtons": [
+  { "name": "यूट्यूब डाउनलोडर", "path": "/यूट्यूब -video-downloader" },
+  { "name": "टिकटॉक डाउनलोडर", "path": "/टिकटॉक -video-downloader" },
+  { "name": "इंस्टाग्राम डाउनलोडर", "path": "/इंस्टाग्राम -video-downloader" },
+  { "name": "फेसबुक डाउनलोडर", "path": "/फेसबुक -video-downloader" }
+ 
+]
+    }
+  },
+
+  "instagramVedioDownloader": {
+    "ui": {
+      "title": "इंस्टाग्राम वीडियो डाउनलोड",
+      "subtitle": "इंस्टाग्राम  Reels, Stories, Posts और IGTV को साफ़ MP4 या MP3 में सभी डिवाइस पर सेव करें",
+      "inputPlaceholder": "यहाँ इंस्टाग्राम  लिंक पेस्ट करें",
+      "downloadBtn": {
+        "idle": "डाउनलोड करना",
+        "loading": "प्राप्त कर रहा है"
+      },
+      "platformButtons": [
+  { "name": "यूट्यूब डाउनलोडर", "path": "/यूट्यूब -video-downloader" },
+  { "name": "टिकटॉक डाउनलोडर", "path": "/टिकटॉक -video-downloader" },
+  { "name": "इंस्टाग्राम डाउनलोडर", "path": "/इंस्टाग्राम -video-downloader" },
+  { "name": "फेसबुक डाउनलोडर", "path": "/फेसबुक -video-downloader" }
+ 
+]
+    }
+  },
+
+  "facebookVedioDownloader": {
+    "ui": {
+      "title": "फेसबुक वीडियो डाउनलोड",
+      "subtitle": "वीडियो, फेसबुक  Reels और क्लिप्स को स्मूद MP4 या MP3 में हाई क्वालिटी के साथ सेव करें",
+      "inputPlaceholder": "यहाँ फेसबुक  वीडियो लिंक पेस्ट करें",
+      "downloadBtn": {
+        "idle": "डाउनलोड करना",
+        "loading": "प्राप्त कर रहा है"
+      },
+      "platformButtons": [
+  { "name": "यूट्यूब डाउनलोडर", "path": "/यूट्यूब -video-downloader" },
+  { "name": "टिकटॉक डाउनलोडर", "path": "/टिकटॉक -video-downloader" },
+  { "name": "इंस्टाग्राम डाउनलोडर", "path": "/इंस्टाग्राम -video-downloader" },
+  { "name": "फेसबुक डाउनलोडर", "path": "/फेसबुक -video-downloader" }
+ 
+]
+    }
+  },
+
+  "twitterVedioDownloader": {
+    "ui": {
+      "title": "ट्विटर वीडियो डाउनलोड",
+      "subtitle": "ट्विटर  से क्लिप्स, GIF और वीडियो को MP4 या MP3 में तेज़ और स्थिर प्रोसेसिंग के साथ सेव करें",
+      "inputPlaceholder": "यहाँ ट्विटर  लिंक पेस्ट करें",
+      "downloadBtn": {
+        "idle": "डाउनलोड करना",
+        "loading": "प्राप्त कर रहा है"
+      },
+      "platformButtons": [
+  { "name": "यूट्यूब डाउनलोडर", "path": "/यूट्यूब -video-downloader" },
+  { "name": "टिकटॉक डाउनलोडर", "path": "/टिकटॉक -video-downloader" },
+  { "name": "इंस्टाग्राम डाउनलोडर", "path": "/इंस्टाग्राम -video-downloader" },
+  { "name": "फेसबुक डाउनलोडर", "path": "/फेसबुक -video-downloader" }
+ 
+]
+    }
+  },
+
+  "youtubeToMp3Downloader": {
+    "ui": {
+      "title": "यूट्यूब से MP3 डाउनलोड",
+      "subtitle": "वीडियो को कई बिटरेट्स में साफ़ ऑडियो में कन्वर्ट करें, तेज़ और स्थिर प्रोसेसिंग के साथ",
+      "inputPlaceholder": "यहाँ यूट्यूब  लिंक पेस्ट करें",
+      "downloadBtn": {
+        "idle": "डाउनलोड करना",
+        "loading": "प्राप्त कर रहा है"
+      },
+      "platformButtons": [
+  { "name": "यूट्यूब डाउनलोडर", "path": "/यूट्यूब -video-downloader" },
+  { "name": "टिकटॉक डाउनलोडर", "path": "/टिकटॉक -video-downloader" },
+  { "name": "इंस्टाग्राम डाउनलोडर", "path": "/इंस्टाग्राम -video-downloader" },
+  { "name": "फेसबुक डाउनलोडर", "path": "/फेसबुक -video-downloader" }
+ 
+]
+
+    }
+  },
+
+  "YoutubeDownloader": {
+    "ui": {
+      "title": "यूट्यूब वीडियो डाउनलोड",
+      "subtitle": "वीडियो, शॉर्ट्स और प्लेलिस्ट को स्मूद MP4 या MP3 में स्थिर उच्च गुणवत्ता के साथ सेव करें",
+      "inputPlaceholder": "यहाँ यूट्यूब  लिंक पेस्ट करें",
+      "downloadBtn": {
+        "idle": "डाउनलोड करना",
+        "loading": "प्राप्त कर रहा है"
+      },
+      "platformButtons": [
+  { "name": "यूट्यूब डाउनलोडर", "path": "/यूट्यूब -video-downloader" },
+  { "name": "टिकटॉक डाउनलोडर", "path": "/टिकटॉक -video-downloader" },
+  { "name": "इंस्टाग्राम डाउनलोडर", "path": "/इंस्टाग्राम -video-downloader" },
+  { "name": "फेसबुक डाउनलोडर", "path": "/फेसबुक -video-downloader" }
+ 
+]
+    }
+  }
+}

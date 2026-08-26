@@ -1,0 +1,127 @@
+{
+  "allVideoDownloader": {
+    "ui": {
+      "title": "အွန်လိုင်းဗီဒီယိုဒေါင်းလုဒ်",
+      "subtitle": "ဝါးကွက်ကြည်သလို MP4 သို့မဟုတ် MP3 အဖြစ် မြင်သာရှင်းလင်း하게 အမြန်နှုန်းမြင့်စွာဒေါင်းလုဒ်နိုင်ပါသည်",
+      "inputPlaceholder": "သင့်ဗီဒီယိုလင့်ခ်ကို ဒီနေရာမှာ ပွားထည့်ပါ",
+      "downloadBtn": {
+        "idle": "ဒေါင်းလုဒ်လုပ်ပါ။",
+        "loading": "ခေါ်ယူခြင်း။"
+      },
+      "platformButtons": [
+        { "name": "YouTube ဒေါင်းလုဒ်လုပ်ခြင်း", "path": "/youtube-video-downloader" },
+        { "name": "TikTok ဒေါင်းလုဒ်လုပ်ခြင်း", "path": "/tiktok-video-downloader" },
+        { "name": "Instagram ဒေါင်းလုဒ်လုပ်ခြင်း", "path": "/instagram-video-downloader" },
+        { "name": "Facebook ဒေါင်းလုဒ်လုပ်ခြင်း", "path": "/facebook-video-downloader" }
+      ]
+    }
+  },
+
+  "tiktokVedioDownloader": {
+    "ui": {
+      "title": "TikTok ဗီဒီယိုဒေါင်းလုဒ်",
+      "subtitle": "TikTok ဗီဒီယိုများကို ရေအသွေးမြင်သာသော MP4 သို့မဟုတ် MP3 အဖြစ် watermark မပါဘဲ အမြန်နှုန်းမြင့်စွာ သိမ်းဆည်းနိုင်ပါသည်",
+      "inputPlaceholder": "TikTok ဗီဒီယိုလင့်ခ်ကိုထည့်ပါ",
+      "downloadBtn": {
+        "idle": "ဒေါင်းလုဒ်လုပ်ပါ။",
+        "loading": "ခေါ်ယူခြင်း။"
+      },
+      "platformButtons": [
+        { "name": "YouTube ဒေါင်းလုဒ်လုပ်ခြင်း", "path": "/youtube-video-downloader" },
+        { "name": "TikTok ဒေါင်းလုဒ်လုပ်ခြင်း", "path": "/tiktok-video-downloader" },
+        { "name": "Instagram ဒေါင်းလုဒ်လုပ်ခြင်း", "path": "/instagram-video-downloader" },
+        { "name": "Facebook ဒေါင်းလုဒ်လုပ်ခြင်း", "path": "/facebook-video-downloader" }
+      ]
+    }
+  },
+
+  "instagramVedioDownloader": {
+    "ui": {
+      "title": "Instagram ဗီဒီယိုဒေါင်းလုဒ်",
+      "subtitle": "Reels၊ Stories၊ Posts နှင့် IGTV များကို MP4 သို့မဟုတ် MP3 အဖြစ် စက်ပစ္စည်းအားလုံးမှအလွယ်တကူ သိမ်းဆည်းနိုင်ပါသည်",
+      "inputPlaceholder": "Instagram လင့်ခ်ကို ထည့်ပါ",
+      "downloadBtn": {
+        "idle": "ဒေါင်းလုဒ်လုပ်ပါ။",
+        "loading": "ခေါ်ယူခြင်း။"
+      },
+      "platformButtons": [
+        { "name": "YouTube ဒေါင်းလုဒ်လုပ်ခြင်း", "path": "/youtube-video-downloader" },
+        { "name": "TikTok ဒေါင်းလုဒ်လုပ်ခြင်း", "path": "/tiktok-video-downloader" },
+        { "name": "Instagram ဒေါင်းလုဒ်လုပ်ခြင်း", "path": "/instagram-video-downloader" },
+        { "name": "Facebook ဒေါင်းလုဒ်လုပ်ခြင်း", "path": "/facebook-video-downloader" }
+      ]
+    }
+  },
+
+  "facebookVedioDownloader": {
+    "ui": {
+      "title": "Facebook ဗီဒီယိုဒေါင်းလုဒ်",
+      "subtitle": "Facebook reels၊ clips နှင့် ဗီဒီယိုများကို မြင်သာပြတ်သားသော MP4 သို့မဟုတ် MP3 အဖြစ် အလျင်မြန်ဆုံး သိမ်းဆည်းနိုင်ပါသည်",
+      "inputPlaceholder": "Facebook ဗီဒီယိုလင့်ခ်ကို ထည့်ပါ",
+      "downloadBtn": {
+        "idle": "ဒေါင်းလုဒ်လုပ်ပါ။",
+        "loading": "ခေါ်ယူခြင်း။"
+      },
+      "platformButtons": [
+        { "name": "YouTube ဒေါင်းလုဒ်လုပ်ခြင်း", "path": "/youtube-video-downloader" },
+        { "name": "TikTok ဒေါင်းလုဒ်လုပ်ခြင်း", "path": "/tiktok-video-downloader" },
+        { "name": "Instagram ဒေါင်းလုဒ်လုပ်ခြင်း", "path": "/instagram-video-downloader" },
+        { "name": "Facebook ဒေါင်းလုဒ်လုပ်ခြင်း", "path": "/facebook-video-downloader" }
+      ]
+    }
+  },
+
+  "twitterVedioDownloader": {
+    "ui": {
+      "title": "Twitter ဗီဒီယိုဒေါင်းလုဒ်",
+      "subtitle": "Twitter မှ clips၊ GIFs နှင့် ဗီဒီယိုများကို MP4 သို့မဟုတ် MP3 အဖြစ် အမြန်နှုန်းမြင့်စွာ သိမ်းဆည်းနိုင်ပါသည်",
+      "inputPlaceholder": "Twitter လင့်ခ်ကို ထည့်ပါ",
+      "downloadBtn": {
+        "idle": "ဒေါင်းလုဒ်လုပ်ပါ။",
+        "loading": "ခေါ်ယူခြင်း။"
+      },
+      "platformButtons": [
+        { "name": "YouTube ဒေါင်းလုဒ်လုပ်ခြင်း", "path": "/youtube-video-downloader" },
+        { "name": "TikTok ဒေါင်းလုဒ်လုပ်ခြင်း", "path": "/tiktok-video-downloader" },
+        { "name": "Instagram ဒေါင်းလုဒ်လုပ်ခြင်း", "path": "/instagram-video-downloader" },
+        { "name": "Facebook ဒေါင်းလုဒ်လုပ်ခြင်း", "path": "/facebook-video-downloader" }
+      ]
+    }
+  },
+
+  "youtubeToMp3Downloader": {
+    "ui": {
+      "title": "YouTube မှ MP3 သို့ပြောင်းရန်",
+      "subtitle": "ဝါးကွက်သံတိတ်ရှင်းလင်းသော အသံဖိုင်များကို bitrate မျိုးစုံဖြင့် အမြန်နှုန်းမြင့်စွာ ပြောင်းနိုင်ပါသည်",
+      "inputPlaceholder": "YouTube လင့်ခ်ကို ထည့်ပါ",
+      "downloadBtn": {
+        "idle": "ဒေါင်းလုဒ်လုပ်ပါ။",
+        "loading": "ခေါ်ယူခြင်း။"
+      },
+      "platformButtons": [
+        { "name": "YouTube ဒေါင်းလုဒ်လုပ်ခြင်း", "path": "/youtube-video-downloader" },
+        { "name": "TikTok ဒေါင်းလုဒ်လုပ်ခြင်း", "path": "/tiktok-video-downloader" },
+        { "name": "Instagram ဒေါင်းလုဒ်လုပ်ခြင်း", "path": "/instagram-video-downloader" },
+        { "name": "Facebook ဒေါင်းလုဒ်လုပ်ခြင်း", "path": "/facebook-video-downloader" }
+      ]
+    }
+  },
+
+  "YoutubeDownloader": {
+    "ui": {
+      "title": "YouTube ဗီဒီယိုဒေါင်းလုဒ်",
+      "subtitle": "YouTube videos၊ shorts နှင့် playlists များကို MP4 သို့မဟုတ် MP3 အဖြစ် အရည်အသွေးမြင့်စွာ သိမ်းဆည်းနိုင်ပါသည်",
+      "inputPlaceholder": "YouTube လင့်ခ်ကို ထည့်ပါ",
+      "downloadBtn": {
+        "idle": "ဒေါင်းလုဒ်လုပ်ပါ။",
+        "loading": "ခေါ်ယူခြင်း။"
+      },
+      "platformButtons": [
+        { "name": "YouTube ဒေါင်းလုဒ်လုပ်ခြင်း", "path": "/youtube-video-downloader" },
+        { "name": "TikTok ဒေါင်းလုဒ်လုပ်ခြင်း", "path": "/tiktok-video-downloader" },
+        { "name": "Instagram ဒေါင်းလုဒ်လုပ်ခြင်း", "path": "/instagram-video-downloader" },
+        { "name": "Facebook ဒေါင်းလုဒ်လုပ်ခြင်း", "path": "/facebook-video-downloader" }
+      ]
+    }
+  }
+}

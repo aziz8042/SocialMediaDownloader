@@ -1,0 +1,262 @@
+{
+  "allVideoDownloader": {
+    "faqs": [
+      {
+        "question": "Est-il légal de télécharger des vidéos depuis YouTube, TikTok, Instagram ou d'autres plateformes ?",
+        "answer": "Le téléchargement de vidéos dépend des conditions d'utilisation de chaque plateforme. Le contenu libre de droits et dans le domaine public peut être téléchargé en toute sécurité. Pour les vidéos protégées par des droits d'auteur, il faut obtenir l'autorisation. URL2Video recommande de télécharger uniquement pour un usage personnel ou avec la permission du créateur."
+      },
+      {
+        "question": "Puis-je télécharger des vidéos protégées par le droit d'auteur gratuitement ?",
+        "answer": "Non. Téléchargez uniquement du contenu libre d'utilisation, vos propres vidéos ou des médias sans droits d'auteur. Il est important de respecter les droits des créateurs à tout moment."
+      },
+      {
+        "question": "Les logiciels de téléchargement de vidéos contiennent-ils des malwares ou virus ?",
+        "answer": "Certaines applications tierces peuvent être dangereuses, mais URL2Video est sécurisé et entièrement en ligne. Aucun logiciel n'est nécessaire et les conversions se font en toute sécurité, sans risque de malware."
+      },
+      {
+        "question": "Dois-je installer une application ou une extension pour télécharger des vidéos en ligne ?",
+        "answer": "Non. URL2Video fonctionne entièrement depuis votre navigateur. Collez le lien de la vidéo, choisissez le format et téléchargez directement sans installer de logiciel."
+      },
+      {
+        "question": "Puis-je utiliser un téléchargeur en ligne sur mobile (Android / iOS) ?",
+        "answer": "Oui. URL2Video est compatible avec Android, iOS, Windows et Mac. Vous pouvez télécharger des vidéos instantanément sans installer d'application supplémentaire."
+      },
+      {
+        "question": "Quels formats sont pris en charge (MP4, MP3, etc.) ?",
+        "answer": "Vous pouvez télécharger des vidéos en MP4 (HD, Full HD, 4K) ou extraire l'audio en MP3 avec des qualités de 128kbps, 192kbps ou 320kbps selon vos besoins."
+      },
+      {
+        "question": "Puis-je choisir la qualité de la vidéo (HD, 4K, etc.) ?",
+        "answer": "Oui. Vous pouvez sélectionner différentes résolutions telles que 360p, 720p (HD), 1080p (Full HD) et 4K en fonction de la vidéo source."
+      },
+      {
+        "question": "Y a-t-il une limite au nombre de vidéos que je peux télécharger gratuitement ?",
+        "answer": "Non. URL2Video permet des téléchargements illimités sans abonnement ni frais cachés."
+      }
+    ]
+  },
+  "tiktokVedioDownloader": {
+    "faqs": [
+      {
+        "question": "Puis-je télécharger des vidéos TikTok sans filigrane ?",
+        "answer": "Oui. Le téléchargeur supprime automatiquement les filigranes, vous permettant d'obtenir des vidéos propres et de haute qualité pour un visionnage ou un partage hors ligne."
+      },
+      {
+        "question": "Dois-je installer un logiciel ou une extension pour télécharger des vidéos TikTok ?",
+        "answer": "Non. Aucun logiciel n'est nécessaire. Notre outil est entièrement en ligne et fonctionne immédiatement sur ordinateur, mobile et tablette."
+      },
+      {
+        "question": "Le téléchargeur TikTok est-il gratuit ?",
+        "answer": "Oui. Le téléchargeur TikTok est totalement gratuit avec des téléchargements illimités et sans besoin de compte."
+      },
+      {
+        "question": "Puis-je télécharger des vidéos TikTok sur iOS / iPhone ?",
+        "answer": "Oui. Il suffit de coller le lien TikTok dans l’outil via Safari ou tout navigateur mobile et de télécharger directement."
+      },
+      {
+        "question": "Puis-je télécharger des vidéos TikTok sur Android / appareils mobiles ?",
+        "answer": "Oui. L’outil fonctionne sur tous les appareils Android directement dans le navigateur, sans applications supplémentaires."
+      },
+      {
+        "question": "Pourquoi ne puis-je pas télécharger certaines vidéos TikTok ?",
+        "answer": "Certaines vidéos peuvent être privées, restreintes à certaines régions ou supprimées. Les vidéos publiques sont toujours accessibles."
+      },
+      {
+        "question": "Quelle qualité vidéo puis-je télécharger ?",
+        "answer": "Vous pouvez télécharger en HD, Full HD et la meilleure qualité disponible selon l’upload original de TikTok."
+      },
+      {
+        "question": "Les vidéos TikTok téléchargées contiennent-elles l’audio ?",
+        "answer": "Oui. Les vidéos sont téléchargées avec l’audio original et vous pouvez également extraire l’audio au format MP3."
+      }
+    ]
+  },
+  "instagramVedioDownloader": {
+    "faqs": [
+      {
+        "question": "Qu’est-ce qu’un téléchargeur Instagram exactement ?",
+        "answer": "Un téléchargeur Instagram est un outil en ligne gratuit qui permet de sauvegarder directement le contenu Instagram sur votre appareil, incluant vidéos, Reels, IGTV et Stories en haute qualité."
+      },
+      {
+        "question": "Comment télécharger des vidéos, Reels et Stories Instagram ?",
+        "answer": "Copiez l’URL du contenu, collez-la dans notre outil, choisissez MP4 ou MP3 et téléchargez instantanément."
+      },
+      {
+        "question": "Est-il possible de télécharger les Stories et Highlights Instagram ?",
+        "answer": "Oui. Collez le lien d’une Story ou d’un Highlight et téléchargez-le en HD pour un visionnage hors ligne."
+      },
+      {
+        "question": "Puis-je télécharger des Reels Instagram ?",
+        "answer": "Oui. Téléchargez les Reels en haute qualité, avec ou sans son, sur n’importe quel appareil."
+      },
+      {
+        "question": "Dois-je me connecter ou fournir mes identifiants Instagram ?",
+        "answer": "Non. Notre outil fonctionne entièrement en ligne sans connexion, garantissant confidentialité et sécurité."
+      },
+      {
+        "question": "Le téléchargement depuis Instagram est-il légal ?",
+        "answer": "Oui, pour un usage personnel ou pour visionnage hors ligne. Ne pas republier ou utiliser le contenu à des fins commerciales sans autorisation."
+      },
+      {
+        "question": "Y a-t-il des limites au nombre de vidéos Instagram que je peux télécharger ?",
+        "answer": "Non. Téléchargez un nombre illimité de vidéos, Reels et Stories sans restriction."
+      },
+      {
+        "question": "Le téléchargeur fonctionne-t-il pour les comptes Instagram privés ?",
+        "answer": "Non. Seul le contenu public peut être téléchargé sauf si vous avez la permission d’accéder aux comptes privés."
+      }
+    ]
+  },
+  "facebookVedioDownloader": {
+    "faqs": [
+      {
+        "question": "Qu’est-ce qu’un téléchargeur de vidéos Facebook exactement ?",
+        "answer": "Un téléchargeur Facebook permet de sauvegarder posts, Reels et Stories en MP4 ou MP3 directement sur votre appareil, sans installer de logiciel."
+      },
+      {
+        "question": "Comment télécharger des vidéos Facebook (posts, Reels, Stories) ?",
+        "answer": "Copiez le lien vidéo, collez-le dans le téléchargeur, sélectionnez le format et téléchargez en quelques secondes."
+      },
+      {
+        "question": "Puis-je télécharger des vidéos Facebook Live ?",
+        "answer": "Oui. Les vidéos en direct peuvent être sauvegardées après la diffusion en collant le lien dans notre outil."
+      },
+      {
+        "question": "Dois-je me connecter ou fournir mes identifiants Facebook ?",
+        "answer": "Non. Les téléchargements sont entièrement en ligne et sécurisés sans connexion."
+      },
+      {
+        "question": "Le téléchargement depuis Facebook est-il légal ?",
+        "answer": "Oui, pour un usage personnel ou éducatif. Évitez de redistribuer du contenu protégé par droits d'auteur sans permission."
+      },
+      {
+        "question": "Y a-t-il des limites de téléchargement par jour ?",
+        "answer": "Non. Vous pouvez télécharger un nombre illimité de vidéos Facebook chaque jour."
+      },
+      {
+        "question": "Les téléchargeurs Facebook fonctionnent-ils pour les vidéos de profils ou groupes privés ?",
+        "answer": "Non. Seules les vidéos publiques peuvent être téléchargées."
+      },
+      {
+        "question": "Quelles qualités ou formats puis-je obtenir (HD, SD, MP4, etc.) ?",
+        "answer": "Téléchargez des vidéos en MP4 ou extrayez l’audio en MP3. Les résolutions disponibles incluent SD, HD, Full HD ou 4K selon la source."
+      }
+    ]
+  },
+  "YoutubeDownloader": {
+    "faqs": [
+      {
+        "question": "Qu’est-ce qu’un téléchargeur de vidéos YouTube ?",
+        "answer": "Un téléchargeur YouTube permet de sauvegarder vidéos ou audios directement sur votre appareil pour visionnage hors ligne. URL2Video prend en charge les formats MP4 et MP3."
+      },
+      {
+        "question": "Est-il légal d’utiliser un téléchargeur YouTube ?",
+        "answer": "Télécharger des vidéos protégées par des droits d’auteur sans permission peut enfreindre les conditions de YouTube. Téléchargez uniquement du contenu public, vos propres uploads ou des vidéos avec autorisation."
+      },
+      {
+        "question": "Comment télécharger une vidéo YouTube avec un téléchargeur ?",
+        "answer": "Copiez le lien de la vidéo, collez-le dans URL2Video, choisissez MP4 ou MP3, sélectionnez la qualité et cliquez sur 'Télécharger'."
+      },
+      {
+        "question": "Quels formats et résolutions sont pris en charge ?",
+        "answer": "URL2Video prend en charge MP4, MP3 et les résolutions de 360p jusqu’à 4K selon la vidéo originale."
+      },
+      {
+        "question": "Puis-je télécharger des playlists YouTube ou plusieurs vidéos à la fois ?",
+        "answer": "Oui. Téléchargez des playlists complètes ou plusieurs vidéos de manière séquentielle en mode batch."
+      },
+      {
+        "question": "Pourquoi le téléchargeur retourne-t-il parfois des erreurs ?",
+        "answer": "Les erreurs peuvent être causées par des restrictions régionales, des limitations d’âge, DRM ou mises à jour de YouTube. URL2Video met régulièrement ses serveurs à jour pour minimiser les problèmes."
+      },
+      {
+        "question": "Pourquoi la vitesse de téléchargement YouTube est parfois lente ?",
+        "answer": "La vitesse dépend de la connexion internet, de la charge du serveur, de la taille du fichier ou du throttling de YouTube. URL2Video optimise ses serveurs pour un téléchargement rapide."
+      },
+      {
+        "question": "Les téléchargeurs fonctionnent-ils pour les contenus restreints par âge ou région ?",
+        "answer": "La plupart ne peuvent pas contourner ces restrictions. Certaines vidéos nécessitent une connexion ou un accès régional."
+      },
+      {
+        "question": "Pourquoi ma vidéo téléchargée n’a-t-elle pas de son ?",
+        "answer": "Certaines vidéos ont des pistes audio et vidéo séparées. URL2Video les fusionne correctement pour un MP4 complet avec audio."
+      },
+      {
+        "question": "Que faire si un téléchargeur YouTube cesse de fonctionner ?",
+        "answer": "Les outils sont mis à jour régulièrement pour assurer des téléchargements fiables malgré les changements de YouTube."
+      }
+    ]
+  },
+  "youtubeToMp3Downloader": {
+    "faqs": [
+      {
+        "question": "Pourquoi ne puis-je pas convertir certaines vidéos YouTube en MP3 ?",
+        "answer": "Certaines vidéos sont restreintes par région, protégées par droits d’auteur ou n’ont pas de piste audio. URL2Video prend en charge la plupart des vidéos publiques avec des conversions MP3 rapides et de haute qualité."
+      },
+      {
+        "question": "Que signifie le message « Connectez-vous pour confirmer que vous n’êtes pas un robot » ?",
+        "answer": "Ce message apparaît pour les contenus sensibles ou restreints par âge. URL2Video fonctionne uniquement avec des vidéos publiques, sans nécessiter de connexion ou d’identifiants."
+      },
+      {
+        "question": "Comment résoudre l’erreur « 404 » ou « Vidéo non disponible » lors de la conversion en MP3 ?",
+        "answer": "Vérifiez la disponibilité de la vidéo dans votre navigateur. URL2Video assure des serveurs stables pour des conversions fluides."
+      },
+      {
+        "question": "Pourquoi la qualité du fichier MP3 est-elle mauvaise ou bruitée ?",
+        "answer": "La qualité MP3 dépend de la vidéo originale. URL2Video propose des options de 128kbps, 192kbps et 320kbps pour obtenir le meilleur audio possible."
+      },
+      {
+        "question": "Puis-je télécharger des playlists ou chaînes YouTube entières en MP3 ?",
+        "answer": "Oui. Collez le lien d’une playlist pour convertir chaque vidéo en MP3 pour une écoute hors ligne."
+      },
+      {
+        "question": "Comment localiser mes fichiers MP3 téléchargés sur différents appareils ?",
+        "answer": "Sur ordinateur, vérifiez le dossier 'Téléchargements' du navigateur. Sur mobile, cherchez dans la galerie, l’application musique ou le dossier de fichiers."
+      },
+      {
+        "question": "Pourquoi le MP3 téléchargé n’a-t-il pas de son ou est incomplet ?",
+        "answer": "Certaines vidéos ont des pistes audio et vidéo séparées. URL2Video les fusionne pour obtenir des fichiers MP3 complets."
+      },
+      {
+        "question": "Y a-t-il des limites sur le nombre de conversions par jour ?",
+        "answer": "Non. URL2Video permet des conversions illimitées gratuitement, sans restrictions ni frais cachés."
+      }
+    ]
+  },
+  "twitterVedioDownloader": {
+    "faqs": [
+      {
+        "question": "Comment télécharger des vidéos depuis Twitter ?",
+        "answer": "Pour télécharger des vidéos Twitter, copiez le lien de la vidéo depuis le tweet, collez-le dans notre téléchargeur en ligne, sélectionnez le format souhaité (MP4 ou MP3) et cliquez sur Télécharger. La vidéo sera sauvegardée instantanément."
+      },
+      {
+        "question": "Puis-je télécharger des vidéos Twitter en HD ?",
+        "answer": "Oui. Le téléchargeur permet de choisir parmi les résolutions disponibles, y compris 720p (HD), 1080p (Full HD) et 4K, selon la qualité de la vidéo originale."
+      },
+      {
+        "question": "Est-ce que les GIFs et clips sont pris en charge ?",
+        "answer": "Oui. Vous pouvez télécharger des GIFs Twitter, des clips courts et des vidéos classiques. Les GIFs sont convertis en MP4 pour une lecture fluide sur tous les appareils."
+      },
+      {
+        "question": "Puis-je télécharger plusieurs vidéos Twitter à la fois ?",
+        "answer": "Oui. Vous pouvez coller plusieurs liens vidéo successivement et le téléchargeur vous permettra de sauvegarder chaque vidéo séquentiellement sans perte de qualité ni de format."
+      },
+      {
+        "question": "Le téléchargeur Twitter est-il gratuit ?",
+        "answer": "Oui. L’outil est entièrement gratuit, sans abonnement ni frais cachés. Vous pouvez télécharger n’importe quelle vidéo publique sur Twitter en toute sécurité et rapidement."
+      },
+      {
+        "question": "Fonctionne-t-il sur mobile ?",
+        "answer": "Oui. Le téléchargeur est entièrement responsive et fonctionne sur Android, iOS, tablettes et navigateurs de bureau. Aucune installation d’application n’est nécessaire."
+      },
+      {
+        "question": "Puis-je convertir des vidéos Twitter en MP3 ?",
+        "answer": "Oui. Vous pouvez extraire l’audio de n’importe quelle vidéo Twitter et le sauvegarder en MP3 de haute qualité, idéal pour podcasts, clips musicaux ou notes vocales."
+      },
+      {
+        "question": "Y a-t-il des limites pour télécharger des vidéos Twitter ?",
+        "answer": "Non. Vous pouvez télécharger un nombre illimité de vidéos Twitter sans restriction. Les contenus privés ou protégés nécessitent cependant les permissions appropriées."
+      }
+    ]
+  }
+}

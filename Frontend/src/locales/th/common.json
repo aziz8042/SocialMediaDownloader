@@ -1,0 +1,127 @@
+{
+  "allVideoDownloader": {
+    "ui": {
+      "title": "ดาวน์โหลดวิดีโอออนไลน์",
+      "subtitle": "บันทึกวิดีโอจากแพลตฟอร์มหลักในรูปแบบ MP4 หรือ MP3 คุณภาพชัดเจน พร้อมประสิทธิภาพรวดเร็วและลื่นไหล",
+      "inputPlaceholder": "วางลิงก์วิดีโอของคุณที่นี่เพื่อบันทึกอย่างรวดเร็ว",
+      "downloadBtn": {
+        "idle": "ดาวน์โหลด",
+        "loading": "การดึงข้อมูล"
+      },
+      "platformButtons": [
+        { "name": "ดาวน์โหลด YouTube", "path": "/youtube-video-downloader" },
+        { "name": "ดาวน์โหลด TikTok", "path": "/tiktok-video-downloader" },
+        { "name": "ดาวน์โหลด Instagram", "path": "/instagram-video-downloader" },
+        { "name": "ดาวน์โหลด Facebook", "path": "/facebook-video-downloader" }
+      ]
+    }
+  },
+
+  "tiktokVedioDownloader": {
+    "ui": {
+      "title": "ดาวน์โหลดวิดีโอ TikTok",
+      "subtitle": "บันทึกคลิป TikTok ในรูปแบบ MP4 หรือ MP3 คุณภาพชัดเจน ไม่มีลายน้ำ พร้อมการประมวลผลรวดเร็ว",
+      "inputPlaceholder": "วางลิงก์วิดีโอ TikTok ที่นี่",
+      "downloadBtn": {
+        "idle": "ดาวน์โหลด",
+        "loading": "การดึงข้อมูล"
+      },
+      "platformButtons": [
+        { "name": "ดาวน์โหลด YouTube", "path": "/youtube-video-downloader" },
+        { "name": "ดาวน์โหลด TikTok", "path": "/tiktok-video-downloader" },
+        { "name": "ดาวน์โหลด Instagram", "path": "/instagram-video-downloader" },
+        { "name": "ดาวน์โหลด Facebook", "path": "/facebook-video-downloader" }
+      ]
+    }
+  },
+
+  "instagramVedioDownloader": {
+    "ui": {
+      "title": "ดาวน์โหลดวิดีโอ Instagram",
+      "subtitle": "บันทึก Instagram Reels, Stories, Posts และ IGTV ในรูปแบบ MP4 หรือ MP3 ชัดเจน รองรับทุกอุปกรณ์",
+      "inputPlaceholder": "วางลิงก์ Instagram ที่นี่",
+      "downloadBtn": {
+        "idle": "ดาวน์โหลด",
+        "loading": "การดึงข้อมูล"
+      },
+      "platformButtons": [
+        { "name": "ดาวน์โหลด YouTube", "path": "/youtube-video-downloader" },
+        { "name": "ดาวน์โหลด TikTok", "path": "/tiktok-video-downloader" },
+        { "name": "ดาวน์โหลด Instagram", "path": "/instagram-video-downloader" },
+        { "name": "ดาวน์โหลด Facebook", "path": "/facebook-video-downloader" }
+      ]
+    }
+  },
+
+  "facebookVedioDownloader": {
+    "ui": {
+      "title": "ดาวน์โหลดวิดีโอ Facebook",
+      "subtitle": "บันทึกวิดีโอ Facebook, Reels และคลิปต่างๆ ในรูปแบบ MP4 หรือ MP3 คุณภาพสูงและราบรื่น",
+      "inputPlaceholder": "วางลิงก์วิดีโอ Facebook ที่นี่",
+      "downloadBtn": {
+        "idle": "ดาวน์โหลด",
+        "loading": "การดึงข้อมูล"
+      },
+      "platformButtons": [
+        { "name": "ดาวน์โหลด YouTube", "path": "/youtube-video-downloader" },
+        { "name": "ดาวน์โหลด TikTok", "path": "/tiktok-video-downloader" },
+        { "name": "ดาวน์โหลด Instagram", "path": "/instagram-video-downloader" },
+        { "name": "ดาวน์โหลด Facebook", "path": "/facebook-video-downloader" }
+      ]
+    }
+  },
+
+  "twitterVedioDownloader": {
+    "ui": {
+      "title": "ดาวน์โหลดวิดีโอ Twitter",
+      "subtitle": "บันทึกคลิป, GIF และวิดีโอในรูปแบบ MP4 หรือ MP3 ด้วยการประมวลผลรวดเร็วและเสถียรจาก Twitter",
+      "inputPlaceholder": "วางลิงก์ Twitter ที่นี่",
+      "downloadBtn": {
+        "idle": "ดาวน์โหลด",
+        "loading": "การดึงข้อมูล"
+      },
+      "platformButtons": [
+        { "name": "ดาวน์โหลด YouTube", "path": "/youtube-video-downloader" },
+        { "name": "ดาวน์โหลด TikTok", "path": "/tiktok-video-downloader" },
+        { "name": "ดาวน์โหลด Instagram", "path": "/instagram-video-downloader" },
+        { "name": "ดาวน์โหลด Facebook", "path": "/facebook-video-downloader" }
+      ]
+    }
+  },
+
+  "youtubeToMp3Downloader": {
+    "ui": {
+      "title": "YouTube เป็น MP3",
+      "subtitle": "แปลงวิดีโอเป็นเสียงคุณภาพชัดเจนในหลายบิตเรต พร้อมประมวลผลรวดเร็วและเสถียร",
+      "inputPlaceholder": "วางลิงก์ YouTube ที่นี่",
+      "downloadBtn": {
+        "idle": "ดาวน์โหลด",
+        "loading": "การดึงข้อมูล"
+      },
+      "platformButtons": [
+        { "name": "ดาวน์โหลด YouTube", "path": "/youtube-video-downloader" },
+        { "name": "ดาวน์โหลด TikTok", "path": "/tiktok-video-downloader" },
+        { "name": "ดาวน์โหลด Instagram", "path": "/instagram-video-downloader" },
+        { "name": "ดาวน์โหลด Facebook", "path": "/facebook-video-downloader" }
+      ]
+    }
+  },
+
+  "YoutubeDownloader": {
+    "ui": {
+      "title": "ดาวน์โหลดวิดีโอ YouTube",
+      "subtitle": "บันทึกวิดีโอ, Shorts และเพลย์ลิสต์ในรูปแบบ MP4 หรือ MP3 ลื่นไหล คุณภาพสูงและเสถียร",
+      "inputPlaceholder": "วางลิงก์ YouTube ที่นี่",
+      "downloadBtn": {
+        "idle": "ดาวน์โหลด",
+        "loading": "การดึงข้อมูล"
+      },
+      "platformButtons": [
+        { "name": "ดาวน์โหลด YouTube", "path": "/youtube-video-downloader" },
+        { "name": "ดาวน์โหลด TikTok", "path": "/tiktok-video-downloader" },
+        { "name": "ดาวน์โหลด Instagram", "path": "/instagram-video-downloader" },
+        { "name": "ดาวน์โหลด Facebook", "path": "/facebook-video-downloader" }
+      ]
+    }
+  }
+}

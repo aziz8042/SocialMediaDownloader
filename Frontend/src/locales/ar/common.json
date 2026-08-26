@@ -1,0 +1,127 @@
+{
+  "allVideoDownloader": {
+    "ui": {
+      "title": "تحميل فيديوهات",
+      "subtitle": "احفظ الفيديوهات من المنصات الرئيسية بصيغة واضحة MP4 أو MP3 مع أداء سريع وسلس",
+      "inputPlaceholder": "الصق رابط الفيديو هنا للحفظ السريع",
+      "downloadBtn": {
+        "idle": "تحميل",
+        "loading": "جلب"
+      },
+      "platformButtons": [
+        { "name": "تنزيل فيديو يوتيوب", "path": "/youtube-video-downloader" },
+        { "name": "تنزيل فيديو تيك توك", "path": "/tiktok-video-downloader" },
+        { "name": "تنزيل فيديو إنستغرام", "path": "/instagram-video-downloader" },
+        { "name": "تنزيل فيديو فيسبوك", "path": "/facebook-video-downloader" }
+      ]
+    }
+  },
+
+  "tiktokVedioDownloader": {
+    "ui": {
+      "title": "تنزيل فيديو تيك توك",
+      "subtitle": "احفظ مقاطع تيك توك بصيغة MP4 أو MP3 بدون علامات مائية وبجودة واضحة وسرعة معالجة عالية",
+      "inputPlaceholder": "الصق رابط فيديو تيك توك هنا",
+      "downloadBtn": {
+        "idle": "تحميل",
+        "loading": "جلب"
+      },
+      "platformButtons": [
+        { "name": "تنزيل فيديو يوتيوب", "path": "/youtube-video-downloader" },
+        { "name": "تنزيل فيديو تيك توك", "path": "/tiktok-video-downloader" },
+        { "name": "تنزيل فيديو إنستغرام", "path": "/instagram-video-downloader" },
+        { "name": "تنزيل فيديو فيسبوك", "path": "/facebook-video-downloader" }
+      ]
+    }
+  },
+
+  "instagramVedioDownloader": {
+    "ui": {
+      "title": "تحميل فيديوهات انستا",
+      "subtitle": "احفظ ريلز، القصص، المنشورات وIGTV بصيغة MP4 أو MP3 واضحة على جميع الأجهزة",
+      "inputPlaceholder": "الصق رابط إنستغرام هنا",
+      "downloadBtn": {
+        "idle": "تحميل",
+        "loading": "جلب"
+      },
+      "platformButtons": [
+        { "name": "تنزيل فيديو يوتيوب", "path": "/youtube-video-downloader" },
+        { "name": "تنزيل فيديو تيك توك", "path": "/tiktok-video-downloader" },
+        { "name": "تنزيل فيديو إنستغرام", "path": "/instagram-video-downloader" },
+        { "name": "تنزيل فيديو فيسبوك", "path": "/facebook-video-downloader" }
+      ]
+    }
+  },
+
+  "facebookVedioDownloader": {
+    "ui": {
+      "title": "تنزيل فيديو فيسبوك",
+      "subtitle": "احفظ الفيديوهات، الريلز والمقاطع بصيغة MP4 أو MP3 بسلاسة وجودة عالية موثوقة",
+      "inputPlaceholder": "الصق رابط فيديو فيسبوك هنا",
+      "downloadBtn": {
+        "idle": "تحميل",
+        "loading": "جلب"
+      },
+      "platformButtons": [
+        { "name": "تنزيل فيديو يوتيوب", "path": "/youtube-video-downloader" },
+        { "name": "تنزيل فيديو تيك توك", "path": "/tiktok-video-downloader" },
+        { "name": "تنزيل فيديو إنستغرام", "path": "/instagram-video-downloader" },
+        { "name": "تنزيل فيديو فيسبوك", "path": "/facebook-video-downloader" }
+      ]
+    }
+  },
+
+  "twitterVedioDownloader": {
+    "ui": {
+      "title": "تنزيل فيديو تويتر",
+      "subtitle": "احفظ المقاطع وملفات GIF والفيديوهات بصيغة MP4 أو MP3 بسرعة ومعالجة مستقرة من تويتر",
+      "inputPlaceholder": "الصق رابط تويتر هنا",
+      "downloadBtn": {
+        "idle": "تحميل",
+        "loading": "جلب"
+      },
+      "platformButtons": [
+        { "name": "تنزيل فيديو يوتيوب", "path": "/youtube-video-downloader" },
+        { "name": "تنزيل فيديو تيك توك", "path": "/tiktok-video-downloader" },
+        { "name": "تنزيل فيديو إنستغرام", "path": "/instagram-video-downloader" },
+        { "name": "تنزيل فيديو فيسبوك", "path": "/facebook-video-downloader" }
+      ]
+    }
+  },
+
+  "youtubeToMp3Downloader": {
+    "ui": {
+      "title": "يوتيوب إلى MP3",
+      "subtitle": "حوّل الفيديو إلى صوت واضح بجودات متعددة مع معالجة سريعة ومستقرة",
+      "inputPlaceholder": "الصق رابط يوتيوب هنا",
+      "downloadBtn": {
+        "idle": "تحميل",
+        "loading": "جلب"
+      },
+      "platformButtons": [
+        { "name": "تنزيل فيديو يوتيوب", "path": "/youtube-video-downloader" },
+        { "name": "تنزيل فيديو تيك توك", "path": "/tiktok-video-downloader" },
+        { "name": "تنزيل فيديو إنستغرام", "path": "/instagram-video-downloader" },
+        { "name": "تنزيل فيديو فيسبوك", "path": "/facebook-video-downloader" }
+      ]
+    }
+  },
+
+  "YoutubeDownloader": {
+    "ui": {
+      "title": "تنزيل فيديو يوتيوب",
+      "subtitle": "احفظ الفيديوهات، المقاطع القصيرة وقوائم التشغيل بصيغة MP4 أو MP3 سلسة وبجودة عالية مستقرة",
+      "inputPlaceholder": "الصق رابط يوتيوب هنا",
+      "downloadBtn": {
+        "idle": "تحميل",
+        "loading": "جلب"
+      },
+      "platformButtons": [
+        { "name": "تنزيل فيديو يوتيوب", "path": "/youtube-video-downloader" },
+        { "name": "تنزيل فيديو تيك توك", "path": "/tiktok-video-downloader" },
+        { "name": "تنزيل فيديو إنستغرام", "path": "/instagram-video-downloader" },
+        { "name": "تنزيل فيديو فيسبوك", "path": "/facebook-video-downloader" }
+      ]
+    }
+  }
+}

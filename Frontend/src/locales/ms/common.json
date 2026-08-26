@@ -1,0 +1,127 @@
+{
+  "allVideoDownloader": {
+    "ui": {
+      "title": "muat turun video dalam talian",
+      "subtitle": "Simpan video dari platform utama dalam MP4 atau MP3 dengan jelas, pantas dan lancar",
+      "inputPlaceholder": "Tampal pautan video anda di sini untuk muat turun segera",
+      "downloadBtn": {
+        "idle": "muat turun",
+        "loading": "Mengambil"
+      },
+      "platformButtons": [
+        { "name": "Pemuat turun YouTube", "path": "/youtube-video-downloader" },
+        { "name": "Pemuat turun TikTok", "path": "/tiktok-video-downloader" },
+        { "name": "Pemuat turun Instagram", "path": "/instagram-video-downloader" },
+        { "name": "Pemuat turun Facebook", "path": "/facebook-video-downloader" }
+      ]
+    }
+  },
+
+  "tiktokVedioDownloader": {
+    "ui": {
+      "title": "Muat Turun Video TikTok",
+      "subtitle": "Simpan klip TikTok dalam MP4 atau MP3 tanpa watermark dengan proses pantas",
+      "inputPlaceholder": "Tampal pautan video TikTok di sini",
+      "downloadBtn": {
+        "idle": "muat turun",
+        "loading": "Mengambil"
+      },
+      "platformButtons": [
+        { "name": "Pemuat turun YouTube", "path": "/youtube-video-downloader" },
+        { "name": "Pemuat turun TikTok", "path": "/tiktok-video-downloader" },
+        { "name": "Pemuat turun Instagram", "path": "/instagram-video-downloader" },
+        { "name": "Pemuat turun Facebook", "path": "/facebook-video-downloader" }
+      ]
+    }
+  },
+
+  "instagramVedioDownloader": {
+    "ui": {
+      "title": "muat turun video instagram",
+      "subtitle": "Simpan reels, story, post dan IGTV Instagram dalam MP4 atau MP3 dengan jelas di semua peranti",
+      "inputPlaceholder": "Tampal pautan Instagram di sini",
+      "downloadBtn": {
+        "idle": "muat turun",
+        "loading": "Mengambil"
+      },
+      "platformButtons": [
+        { "name": "Pemuat turun YouTube", "path": "/youtube-video-downloader" },
+        { "name": "Pemuat turun TikTok", "path": "/tiktok-video-downloader" },
+        { "name": "Pemuat turun Instagram", "path": "/instagram-video-downloader" },
+        { "name": "Pemuat turun Facebook", "path": "/facebook-video-downloader" }
+      ]
+    }
+  },
+
+  "facebookVedioDownloader": {
+    "ui": {
+      "title": "muat turun video facebook",
+      "subtitle": "Simpan video, reels dan klip Facebook dalam MP4 atau MP3 dengan kualiti yang stabil dan lancar",
+      "inputPlaceholder": "Tampal pautan video Facebook di sini",
+      "downloadBtn": {
+        "idle": "muat turun",
+        "loading": "Mengambil"
+      },
+      "platformButtons": [
+        { "name": "Pemuat turun YouTube", "path": "/youtube-video-downloader" },
+        { "name": "Pemuat turun TikTok", "path": "/tiktok-video-downloader" },
+        { "name": "Pemuat turun Instagram", "path": "/instagram-video-downloader" },
+        { "name": "Pemuat turun Facebook", "path": "/facebook-video-downloader" }
+      ]
+    }
+  },
+
+  "twitterVedioDownloader": {
+    "ui": {
+      "title": "muat turun video twitter",
+      "subtitle": "Simpan klip, GIF dan video Twitter dalam MP4 atau MP3 dengan proses cepat dan stabil",
+      "inputPlaceholder": "Tampal pautan Twitter di sini",
+      "downloadBtn": {
+        "idle": "muat turun",
+        "loading": "Mengambil"
+      },
+      "platformButtons": [
+        { "name": "Pemuat turun YouTube", "path": "/youtube-video-downloader" },
+        { "name": "Pemuat turun TikTok", "path": "/tiktok-video-downloader" },
+        { "name": "Pemuat turun Instagram", "path": "/instagram-video-downloader" },
+        { "name": "Pemuat turun Facebook", "path": "/facebook-video-downloader" }
+      ]
+    }
+  },
+
+  "youtubeToMp3Downloader": {
+    "ui": {
+      "title": "youtube ke mp3",
+      "subtitle": "Tukar video kepada audio berkualiti tinggi dengan pilihan bitrate yang pantas dan stabil",
+      "inputPlaceholder": "Tampal pautan YouTube di sini",
+      "downloadBtn": {
+        "idle": "muat turun",
+        "loading": "Mengambil"
+      },
+      "platformButtons": [
+        { "name": "Pemuat turun YouTube", "path": "/youtube-video-downloader" },
+        { "name": "Pemuat turun TikTok", "path": "/tiktok-video-downloader" },
+        { "name": "Pemuat turun Instagram", "path": "/instagram-video-downloader" },
+        { "name": "Pemuat turun Facebook", "path": "/facebook-video-downloader" }
+      ]
+    }
+  },
+
+  "YoutubeDownloader": {
+    "ui": {
+      "title": "muat turun video youtube",
+      "subtitle": "Simpan video, shorts dan playlist dalam MP4 atau MP3 dengan kualiti tinggi dan stabil",
+      "inputPlaceholder": "Tampal pautan YouTube di sini",
+      "downloadBtn": {
+        "idle": "muat turun",
+        "loading": "Mengambil"
+      },
+      "platformButtons": [
+        { "name": "Pemuat turun YouTube", "path": "/youtube-video-downloader" },
+        { "name": "Pemuat turun TikTok", "path": "/tiktok-video-downloader" },
+        { "name": "Pemuat turun Instagram", "path": "/instagram-video-downloader" },
+        { "name": "Pemuat turun Facebook", "path": "/facebook-video-downloader" }
+      ]
+    }
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "allVideoDownloader": {
+    "ui": {
+      "title": "online video download",
+      "subtitle": "Save videos from major platforms in clear MP4 or MP3 with fast and smooth performance",
+      "inputPlaceholder": "Paste your video link here for quick saving",
+      "downloadBtn": {
+        "idle": "Download",
+        "loading": "Processing"
+      },
+      "platformButtons": [
+        { "name": "YouTube downloader", "path": "/youtube-video-downloader" },
+        { "name": "TikTok downloader", "path": "/tiktok-video-downloader" },
+        { "name": "Instagram downloader", "path": "/instagram-video-downloader" },
+        { "name": "Facebook downloader", "path": "/facebook-video-downloader" }
+      ]
+    }
+  },
+
+  "tiktokVedioDownloader": {
+    "ui": {
+      "title": "Download TikTok Video",
+      "subtitle": "Save TikTok clips in MP4 or MP3 with clear watermark free results and fast processing",
+      "inputPlaceholder": "Paste TikTok video link here",
+      "downloadBtn": {
+        "idle": "Download",
+        "loading": "Processing"
+      },
+      "platformButtons": [
+        { "name": "YouTube downloader", "path": "/youtube-video-downloader" },
+        { "name": "TikTok downloader", "path": "/tiktok-video-downloader" },
+        { "name": "Instagram downloader", "path": "/instagram-video-downloader" },
+        { "name": "Facebook downloader", "path": "/facebook-video-downloader" }
+      ]
+    }
+  },
+
+  "instagramVedioDownloader": {
+    "ui": {
+      "title": "download instagram video",
+      "subtitle": "Save instagram reels stories posts and IGTV in clear MP4 or MP3 across all devices",
+      "inputPlaceholder": "Paste Instagram link here",
+      "downloadBtn": {
+        "idle": "Download",
+        "loading": "Processing"
+      },
+      "platformButtons": [
+        { "name": "YouTube downloader", "path": "/youtube-video-downloader" },
+        { "name": "TikTok downloader", "path": "/tiktok-video-downloader" },
+        { "name": "Instagram downloader", "path": "/instagram-video-downloader" },
+        { "name": "Facebook downloader", "path": "/facebook-video-downloader" }
+      ]
+    }
+  },
+
+  "facebookVedioDownloader": {
+    "ui": {
+      "title": "facebook video download",
+      "subtitle": "Save videos facebook reels and clips in smooth MP4 or MP3 with reliable high quality results",
+      "inputPlaceholder": "Paste Facebook video link here",
+      "downloadBtn": {
+        "idle": "Download",
+        "loading": "Processing"
+      },
+      "platformButtons": [
+        { "name": "YouTube downloader", "path": "/youtube-video-downloader" },
+        { "name": "TikTok downloader", "path": "/tiktok-video-downloader" },
+        { "name": "Instagram downloader", "path": "/instagram-video-downloader" },
+        { "name": "Facebook downloader", "path": "/facebook-video-downloader" }
+      ]
+    }
+  },
+
+  "twitterVedioDownloader": {
+    "ui": {
+      "title": "download twitter video",
+      "subtitle": "Save clips gifs and videos in MP4 or MP3 with fast stable processing from twitter",
+      "inputPlaceholder": "Paste Twitter link here",
+      "downloadBtn": {
+        "idle": "Download",
+        "loading": "Processing"
+      },
+      "platformButtons": [
+        { "name": "YouTube downloader", "path": "/youtube-video-downloader" },
+        { "name": "TikTok downloader", "path": "/tiktok-video-downloader" },
+        { "name": "Instagram downloader", "path": "/instagram-video-downloader" },
+        { "name": "Facebook downloader", "path": "/facebook-video-downloader" }
+      ]
+    }
+  },
+
+  "youtubeToMp3Downloader": {
+    "ui": {
+      "title": "youtube to mp3",
+      "subtitle": "Convert video to crisp audio in multiple bitrates with quick stable processing",
+      "inputPlaceholder": "Paste YouTube link here",
+      "downloadBtn": {
+        "idle": "Download",
+        "loading": "Processing"
+      },
+      "platformButtons": [
+        { "name": "YouTube downloader", "path": "/youtube-video-downloader" },
+        { "name": "TikTok downloader", "path": "/tiktok-video-downloader" },
+        { "name": "Instagram downloader", "path": "/instagram-video-downloader" },
+        { "name": "Facebook downloader", "path": "/facebook-video-downloader" }
+      ]
+    }
+  },
+
+  "YoutubeDownloader": {
+    "ui": {
+      "title": "download youtube video",
+      "subtitle": "Save videos shorts and playlists in smooth MP4 or MP3 with stable high quality",
+      "inputPlaceholder": "Paste YouTube link here",
+      "downloadBtn": {
+        "idle": "Download",
+        "loading": "Processing"
+      },
+      "platformButtons": [
+        { "name": "YouTube downloader", "path": "/youtube-video-downloader" },
+        { "name": "TikTok downloader", "path": "/tiktok-video-downloader" },
+        { "name": "Instagram downloader", "path": "/instagram-video-downloader" },
+        { "name": "Facebook downloader", "path": "/facebook-video-downloader" }
+      ]
+    }
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "allVideoDownloader": {
+    "ui": {
+      "title": "çevrimiçi video indir",
+      "subtitle": "Başlıca platformlardan videoları hızlı ve sorunsuz performansla net MP4 veya MP3 olarak kaydedin",
+      "inputPlaceholder": "Hızlı kaydetmek için video bağlantınızı buraya yapıştırın",
+      "downloadBtn": {
+        "idle": "indirmek",
+        "loading": "Getiriliyor"
+      },
+      "platformButtons": [
+        { "name": "YouTube indirici", "path": "/youtube-video-downloader" },
+        { "name": "TikTok indirici", "path": "/tiktok-video-downloader" },
+        { "name": "Instagram indirici", "path": "/instagram-video-downloader" },
+        { "name": "Facebook indirici", "path": "/facebook-video-downloader" }
+      ]
+    }
+  },
+
+  "tiktokVedioDownloader": {
+    "ui": {
+      "title": "TikTok Video Indir",
+      "subtitle": "TikTok kliplerini net, watermark’sız MP4 veya MP3 olarak hızlı şekilde kaydedin",
+      "inputPlaceholder": "TikTok video bağlantısını buraya yapıştırın",
+      "downloadBtn": {
+        "idle": "indirmek",
+        "loading": "Getiriliyor"
+      },
+      "platformButtons": [
+        { "name": "YouTube indirici", "path": "/youtube-video-downloader" },
+        { "name": "TikTok indirici", "path": "/tiktok-video-downloader" },
+        { "name": "Instagram indirici", "path": "/instagram-video-downloader" },
+        { "name": "Facebook indirici", "path": "/facebook-video-downloader" }
+      ]
+    }
+  },
+
+  "instagramVedioDownloader": {
+    "ui": {
+      "title": "Instagram Video Indir",
+      "subtitle": "Instagram Reels, Hikayeler, Gönderiler ve IGTV’yi tüm cihazlarda net MP4 veya MP3 olarak kaydedin",
+      "inputPlaceholder": "Instagram bağlantısını buraya yapıştırın",
+      "downloadBtn": {
+        "idle": "indirmek",
+        "loading": "Getiriliyor"
+      },
+      "platformButtons": [
+        { "name": "YouTube indirici", "path": "/youtube-video-downloader" },
+        { "name": "TikTok indirici", "path": "/tiktok-video-downloader" },
+        { "name": "Instagram indirici", "path": "/instagram-video-downloader" },
+        { "name": "Facebook indirici", "path": "/facebook-video-downloader" }
+      ]
+    }
+  },
+
+  "facebookVedioDownloader": {
+    "ui": {
+      "title": "Facebook Video Indir",
+      "subtitle": "Facebook videolarını, Reels ve kliplerini güvenilir yüksek kalite ile sorunsuz MP4 veya MP3 olarak kaydedin",
+      "inputPlaceholder": "Facebook video bağlantısını buraya yapıştırın",
+      "downloadBtn": {
+        "idle": "indirmek",
+        "loading": "Getiriliyor"
+      },
+      "platformButtons": [
+        { "name": "YouTube indirici", "path": "/youtube-video-downloader" },
+        { "name": "TikTok indirici", "path": "/tiktok-video-downloader" },
+        { "name": "Instagram indirici", "path": "/instagram-video-downloader" },
+        { "name": "Facebook indirici", "path": "/facebook-video-downloader" }
+      ]
+    }
+  },
+
+  "twitterVedioDownloader": {
+    "ui": {
+      "title": "Twitter Video Indir",
+      "subtitle": "Twitter’dan klipleri, GIF’leri ve videoları hızlı ve kararlı şekilde MP4 veya MP3 olarak kaydedin",
+      "inputPlaceholder": "Twitter bağlantısını buraya yapıştırın",
+      "downloadBtn": {
+        "idle": "indirmek",
+        "loading": "Getiriliyor"
+      },
+      "platformButtons": [
+        { "name": "YouTube indirici", "path": "/youtube-video-downloader" },
+        { "name": "TikTok indirici", "path": "/tiktok-video-downloader" },
+        { "name": "Instagram indirici", "path": "/instagram-video-downloader" },
+        { "name": "Facebook indirici", "path": "/facebook-video-downloader" }
+      ]
+    }
+  },
+
+  "youtubeToMp3Downloader": {
+    "ui": {
+      "title": "youtube mp3 dönüştürücü",
+      "subtitle": "Videoları hızlı ve kararlı şekilde birden fazla bitrate ile net sese dönüştürün",
+      "inputPlaceholder": "YouTube bağlantısını buraya yapıştırın",
+      "downloadBtn": {
+        "idle": "indirmek",
+        "loading": "Getiriliyor"
+      },
+      "platformButtons": [
+        { "name": "YouTube indirici", "path": "/youtube-video-downloader" },
+        { "name": "TikTok indirici", "path": "/tiktok-video-downloader" },
+        { "name": "Instagram indirici", "path": "/instagram-video-downloader" },
+        { "name": "Facebook indirici", "path": "/facebook-video-downloader" }
+      ]
+    }
+  },
+
+  "YoutubeDownloader": {
+    "ui": {
+      "title": "YouTube Video Indir",
+      "subtitle": "Videoları, Shorts ve oynatma listelerini sorunsuz MP4 veya MP3 ile yüksek kaliteyle kaydedin",
+      "inputPlaceholder": "YouTube bağlantısını buraya yapıştırın",
+      "downloadBtn": {
+        "idle": "indirmek",
+        "loading": "Getiriliyor"
+      },
+      "platformButtons": [
+        { "name": "YouTube indirici", "path": "/youtube-video-downloader" },
+        { "name": "TikTok indirici", "path": "/tiktok-video-downloader" },
+        { "name": "Instagram indirici", "path": "/instagram-video-downloader" },
+        { "name": "Facebook indirici", "path": "/facebook-video-downloader" }
+      ]
+    }
+  }
+}

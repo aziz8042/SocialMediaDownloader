@@ -1,0 +1,262 @@
+{
+  "allVideoDownloader": {
+    "faqs": [
+      {
+        "question": "Legal ba ang pag-download ng videos mula sa YouTube, TikTok, Instagram, o iba pang platform?",
+        "answer": "Depende ito sa mga patakaran ng bawat platform. Ang mga pampublikong content at copyright-free ay ligtas i-download, ngunit ang mga copyrighted videos ay nangangailangan ng permiso mula sa may-ari. Ipinapayo ng URL2Video na gamitin lamang ang pag-download para sa personal na paggamit o kung may pahintulot."
+      },
+      {
+        "question": "Pwede ba akong mag-download ng copyrighted videos nang libre?",
+        "answer": "Hindi. Mag-download lamang ng mga libreng content, iyong sariling uploads, o copyright-free media. Laging igalang ang karapatan ng mga creator."
+      },
+      {
+        "question": "May malware o virus ba ang video downloader software?",
+        "answer": "Ang ilang third-party apps ay maaaring hindi ligtas, ngunit ang URL2Video ay secure at ganap na online. Walang installation na kailangan, at ligtas ang mga conversion nang walang panganib ng malware."
+      },
+      {
+        "question": "Kailangan ko ba mag-install ng app o extension para mag-download ng videos online?",
+        "answer": "Hindi. Ang URL2Video ay ganap na web-based. I-paste lang ang video link, piliin ang format, at i-download nang direkta sa browser mo."
+      },
+      {
+        "question": "Pwede ba gamitin ang online video downloader sa mobile (Android / iOS)?",
+        "answer": "Oo. Gumagana ang URL2Video sa Android, iOS, Windows, at Mac. Maaari kang mag-download ng videos agad nang walang karagdagang apps."
+      },
+      {
+        "question": "Anong mga format ang sinusuportahan (MP4, MP3, atbp.)?",
+        "answer": "Maaari kang mag-download ng videos sa MP4 (HD, Full HD, 4K) o mag-extract ng audio sa MP3 sa 128kbps, 192kbps, o 320kbps."
+      },
+      {
+        "question": "Pwede ba akong pumili ng kalidad ng video (HD, 4K, atbp.)?",
+        "answer": "Oo. Pumili mula sa iba't ibang resolution tulad ng 360p, 720p (HD), 1080p (Full HD), at 4K depende sa orihinal na video."
+      },
+      {
+        "question": "May limit ba sa dami ng videos na pwede i-download nang libre?",
+        "answer": "Wala. Pinapayagan ng URL2Video ang unlimited na libreng downloads nang walang subscription o hidden fees."
+      }
+    ]
+  },
+  "tiktokVedioDownloader": {
+    "faqs": [
+      {
+        "question": "Pwede ba akong mag-download ng TikTok videos na walang watermark?",
+        "answer": "Oo. Awtomatikong tinatanggal ng downloader ang watermark, kaya maaari mong i-save ang malinis at mataas na kalidad na video para sa offline viewing o sharing."
+      },
+      {
+        "question": "Kailangan ko ba mag-install ng software o extension para mag-download ng TikTok videos?",
+        "answer": "Hindi kailangan ng installation. Ganap na online ang aming tool at gumagana agad sa desktop, mobile, at tablet devices."
+      },
+      {
+        "question": "Libre ba gamitin ang TikTok downloader?",
+        "answer": "Oo. Ganap na libre ang TikTok downloader, walang limitasyon sa downloads, at hindi kailangan ng account."
+      },
+      {
+        "question": "Pwede ba akong mag-download ng TikTok videos sa iOS / iPhone?",
+        "answer": "Oo. I-paste lang ang TikTok link sa tool sa Safari o anumang mobile browser at i-download nang direkta."
+      },
+      {
+        "question": "Pwede ba sa Android / mobile devices?",
+        "answer": "Oo. Gumagana ito sa lahat ng Android devices direkta sa browser nang walang karagdagang apps."
+      },
+      {
+        "question": "Bakit may mga TikTok videos na hindi ko ma-download?",
+        "answer": "Maaaring private, region-restricted, o tinanggal ang ilang videos. Palaging ma-access ang public TikTok videos."
+      },
+      {
+        "question": "Anong kalidad ng video ang ma-download?",
+        "answer": "Sinusuportahan ang HD, Full HD, at pinakamataas na kalidad mula sa TikTok depende sa orihinal na upload."
+      },
+      {
+        "question": "Kasama ba ang audio sa downloaded TikTok videos?",
+        "answer": "Oo. Kasama ang orihinal na audio sa videos, at maaari ring mag-extract ng audio bilang MP3."
+      }
+    ]
+  },
+  "instagramVedioDownloader": {
+    "faqs": [
+      {
+        "question": "Ano ang Instagram downloader?",
+        "answer": "Ang Instagram downloader ay isang libre at online na tool para i-save ang Instagram content direkta sa iyong device, kasama ang videos, reels, IGTV, at stories sa mataas na kalidad."
+      },
+      {
+        "question": "Paano mag-download ng Instagram videos, Reels, at Stories?",
+        "answer": "Kopyahin ang URL ng content, i-paste sa downloader, piliin ang MP4 o MP3, at i-download agad."
+      },
+      {
+        "question": "Pwede ba mag-download ng Instagram Stories at Highlights?",
+        "answer": "Oo. I-paste ang link ng Story o Highlight at i-download sa HD quality para sa offline viewing."
+      },
+      {
+        "question": "Pwede ba mag-download ng Instagram Reels?",
+        "answer": "Oo. Maaari mong i-download ang Reels sa mataas na kalidad, may tunog o walang tunog, sa anumang device."
+      },
+      {
+        "question": "Kailangan ko ba mag-login o magbigay ng Instagram credentials?",
+        "answer": "Hindi. Ganap na online ang aming tool, kaya ligtas at pribado ang paggamit."
+      },
+      {
+        "question": "Legal ba ang pag-download mula sa Instagram?",
+        "answer": "Oo, para sa personal na paggamit o offline viewing. Huwag i-reupload o gamitin sa commercial purposes nang walang permiso."
+      },
+      {
+        "question": "May limit ba sa dami ng Instagram videos na pwede i-download?",
+        "answer": "Wala. Pwede kang mag-download ng unlimited videos, reels, at stories nang walang restriction."
+      },
+      {
+        "question": "Sinusuportahan ba ng downloader ang private Instagram accounts?",
+        "answer": "Hindi. Pampubliko lang ang content na pwedeng i-download maliban kung may permiso ka sa private account."
+      }
+    ]
+  },
+  "facebookVedioDownloader": {
+    "faqs": [
+      {
+        "question": "Ano ang Facebook video downloader?",
+        "answer": "Ang Facebook downloader ay nagbibigay-daan upang i-save ang posts, reels, at stories sa MP4 o MP3 direkta sa iyong device nang walang installation ng software."
+      },
+      {
+        "question": "Paano mag-download ng Facebook videos (posts, reels, stories)?",
+        "answer": "Kopyahin ang video link, i-paste sa downloader, piliin ang format, at i-download sa loob ng ilang segundo."
+      },
+      {
+        "question": "Pwede ba mag-download ng Facebook Live videos?",
+        "answer": "Oo. Maaaring i-save ang Live videos matapos ang broadcast sa pamamagitan ng pag-paste ng link sa aming tool."
+      },
+      {
+        "question": "Kailangan ko ba mag-login o magbigay ng Facebook credentials?",
+        "answer": "Hindi. Ganap na online at secure ang downloads nang hindi nagla-login."
+      },
+      {
+        "question": "Legal ba ang pag-download mula sa Facebook?",
+        "answer": "Oo, para sa personal o educational use. Iwasang i-redistribute ang copyrighted content nang walang permiso."
+      },
+      {
+        "question": "May limit ba sa pag-download kada araw?",
+        "answer": "Wala. Maaari kang mag-download ng unlimited Facebook videos araw-araw."
+      },
+      {
+        "question": "Gumagana ba ang Facebook downloader para sa private profiles o groups?",
+        "answer": "Hindi. Pampubliko lang ang videos na pwedeng i-download."
+      },
+      {
+        "question": "Anong quality o format ang pwede (HD, SD, MP4, etc.)?",
+        "answer": "I-download ang videos bilang MP4 o i-extract ang audio sa MP3. Ang resolutions ay SD, HD, Full HD, o 4K depende sa source."
+      }
+    ]
+  },
+  "YoutubeDownloader": {
+    "faqs": [
+      {
+        "question": "Ano ang YouTube video downloader?",
+        "answer": "Ang YouTube downloader ay nagbibigay-daan upang i-save ang videos o audio mula sa YouTube direkta sa iyong device para sa offline viewing. Sinusuportahan nito ang MP4 at MP3."
+      },
+      {
+        "question": "Legal ba gamitin ang YouTube downloader?",
+        "answer": "Maaaring lumabag sa Terms ng YouTube ang pag-download ng copyrighted videos nang walang permiso. Mag-download lamang ng public domain content, iyong uploads, o may permiso."
+      },
+      {
+        "question": "Paano mag-download ng YouTube video gamit ang downloader?",
+        "answer": "Kopyahin ang video link, i-paste sa URL2Video, piliin ang MP4 o MP3, pumili ng kalidad, at i-click ang 'Download'."
+      },
+      {
+        "question": "Anong formats at resolutions ang sinusuportahan?",
+        "answer": "Sinusuportahan ng URL2Video ang MP4, MP3, at resolutions mula 360p hanggang 4K depende sa orihinal na video."
+      },
+      {
+        "question": "Pwede ba mag-download ng YouTube playlists o maramihang videos?",
+        "answer": "Oo. Maaari mong i-download ang buong playlist o maraming videos nang sunod-sunod sa batch mode."
+      },
+      {
+        "question": "Bakit may mga error minsan sa downloader?",
+        "answer": "Maaaring dahil sa region locks, age restrictions, DRM, o updates sa YouTube. Regular na ina-update ng URL2Video ang servers para minimal ang problema."
+      },
+      {
+        "question": "Bakit minsan mabagal ang download speed sa YouTube?",
+        "answer": "Depende ito sa internet connection, server load, laki ng file, o throttling ng YouTube. Ina-optimize ng URL2Video ang servers para mabilis na downloads."
+      },
+      {
+        "question": "Gumagana ba ang downloader sa age-restricted o region-locked content?",
+        "answer": "Karamihan ay hindi. Ang ilang videos ay maaaring kailanganin ng login o access sa specific region."
+      },
+      {
+        "question": "Bakit walang audio sa na-download kong YouTube video?",
+        "answer": "Ang ilang videos ay hiwalay ang audio at video tracks. Pinagsasama ng URL2Video ito nang tama para sa kumpletong MP4 na may audio."
+      },
+      {
+        "question": "Ano ang mangyayari kapag tumigil ang YouTube downloader?",
+        "answer": "Ang tools ay regular na ina-update upang matiyak na maayos at reliable ang downloads kahit may pagbabago sa YouTube."
+      }
+    ]
+  },
+  "youtubeToMp3Downloader": {
+    "faqs": [
+      {
+        "question": "Bakit may ilang YouTube videos na hindi ko ma-convert sa MP3?",
+        "answer": "Maaaring region-restricted, copyright-protected, o walang audio stream ang ilang videos. Sinusuportahan ng URL2Video ang karamihan ng public videos nang mabilis at mataas ang kalidad sa MP3 conversion."
+      },
+      {
+        "question": "Ano ang ibig sabihin ng ‘Sign in to confirm you’re not a bot’?",
+        "answer": "Lumilitaw ito sa age-restricted o sensitibong content. Gumagana ang URL2Video sa public videos nang hindi kailangan ng login o credentials."
+      },
+      {
+        "question": "Paano ayusin ang ‘404 error’ o ‘Video not available’ sa MP3 conversion?",
+        "answer": "Suriin muna ang availability ng video sa browser mo. Tinitiyak ng URL2Video ang stable servers para sa smooth conversion."
+      },
+      {
+        "question": "Bakit mababa o maingay ang kalidad ng MP3 file?",
+        "answer": "Depende ang MP3 quality sa orihinal na video. Nag-aalok ang URL2Video ng 128kbps, 192kbps, at 320kbps para sa pinakamagandang audio."
+      },
+      {
+        "question": "Pwede ba mag-download ng buong YouTube playlists o channels bilang MP3?",
+        "answer": "Oo. I-paste ang playlist link para i-convert bawat video sa MP3 para sa offline listening."
+      },
+      {
+        "question": "Saan mahahanap ang na-download kong MP3 sa iba't ibang device?",
+        "answer": "Sa computers, tingnan ang Downloads folder ng browser. Sa mobile, hanapin sa gallery, music app, o files folder."
+      },
+      {
+        "question": "Bakit walang audio o kulang ang tunog sa MP3?",
+        "answer": "Ang ilang videos ay may hiwalay na audio/video tracks. Pinagsasama ng URL2Video para makumpleto ang MP3 files."
+      },
+      {
+        "question": "May limit ba sa dami ng conversions kada araw?",
+        "answer": "Wala. Nagbibigay ang URL2Video ng unlimited free conversions nang walang restriction o hidden fees."
+      }
+    ]
+  },
+  "twitterVedioDownloader": {
+    "faqs": [
+      {
+        "question": "Paano mag-download ng videos mula sa Twitter?",
+        "answer": "Kopyahin ang video link mula sa tweet, i-paste sa online downloader, piliin ang format (MP4 o MP3), at i-click ang Download. Mai-save agad ang video."
+      },
+      {
+        "question": "Pwede ba mag-download ng Twitter videos sa HD?",
+        "answer": "Oo. Pumili mula sa available resolutions tulad ng 720p (HD), 1080p (Full HD), at 4K depende sa orihinal na kalidad ng video."
+      },
+      {
+        "question": "Sinusuportahan ba ang GIFs at clips?",
+        "answer": "Oo. Maaari mong i-download ang Twitter GIFs, short clips, at regular video posts. Kino-convert ang GIFs sa MP4 para sa smooth playback sa lahat ng devices."
+      },
+      {
+        "question": "Pwede ba mag-download ng maraming Twitter videos nang sabay?",
+        "answer": "Oo. Pwede kang mag-paste ng maraming video links sunod-sunod at i-save ang bawat isa nang walang pagkawala ng kalidad o format options."
+      },
+      {
+        "question": "Libre ba ang Twitter downloader?",
+        "answer": "Oo. Ganap na libre gamitin ang tool na ito nang walang subscription o hidden charges. Ligtas at mabilis mag-download ng anumang public Twitter video."
+      },
+      {
+        "question": "Gumagana ba sa mobile devices?",
+        "answer": "Oo. Fully responsive ang downloader at gumagana sa Android, iOS, tablets, at desktop browsers. Walang app installation na kailangan."
+      },
+      {
+        "question": "Pwede ba i-convert ang Twitter videos sa MP3?",
+        "answer": "Oo. Maaari mong i-extract ang audio mula sa anumang Twitter video at i-save sa high-quality MP3 format. Useful ito para sa podcasts, music clips, o voice notes."
+      },
+      {
+        "question": "May limit ba sa pag-download ng Twitter videos?",
+        "answer": "Wala. Pwede kang mag-download ng unlimited Twitter videos nang walang restriction. Ngunit, ang private o protected content ay hindi maa-access nang walang tamang permiso."
+      }
+    ]
+  }
+}

@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://url2video.online
+
+# Sitemaps
+Sitemap: https://url2video.online/sitemap.xml

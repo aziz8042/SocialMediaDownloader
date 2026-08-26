@@ -1,0 +1,268 @@
+{
+  "allVideoDownloader": {
+    "faqs": [
+      {
+        "question": "Is het legaal om video's te downloaden van YouTube, TikTok, Instagram of andere platforms?",
+        "answer": "De legaliteit hangt af van de gebruiksvoorwaarden van het platform. Content in het publieke domein of zonder auteursrechten mag je vrij downloaden, maar voor beschermd materiaal heb je toestemming nodig. URL2Video raadt aan om alleen video's voor persoonlijk gebruik of met toestemming van de eigenaar te downloaden."
+      },
+      {
+        "question": "Kan ik auteursrechtelijk beschermde video's gratis downloaden?",
+        "answer": "Nee. Je mag uitsluitend video's downloaden die copyright-vrij zijn, jouw eigen uploads of content waarvoor je expliciet toestemming hebt gekregen. Respecteer altijd de rechten van makers."
+      },
+      {
+        "question": "Bevat downloadsoftware virussen of malware?",
+        "answer": "Sommige externe apps kunnen risico’s hebben, maar URL2Video is volledig online en veilig. Je hoeft niets te installeren, waardoor je geen malware of ongewenste software binnenhaalt."
+      },
+      {
+        "question": "Moet ik een app of browserextensie installeren om video's te downloaden?",
+        "answer": "Nee. URL2Video werkt volledig in de browser. Plak simpelweg de link, kies het formaat en download meteen zonder extra software."
+      },
+      {
+        "question": "Kan ik een online downloader gebruiken op mijn mobiele telefoon (Android / iOS)?",
+        "answer": "Ja. URL2Video werkt soepel op Android, iOS, Windows en Mac. Je kunt video's direct downloaden zonder dat je extra apps hoeft te installeren."
+      },
+      {
+        "question": "Welke bestandsformaten worden ondersteund (MP4, MP3, etc.)?",
+        "answer": "Je kunt video's downloaden in MP4 met verschillende kwaliteiten (HD, Full HD, 4K) of audio extraheren als MP3 met 128kbps, 192kbps of 320kbps."
+      },
+      {
+        "question": "Kan ik de videokwaliteit kiezen, zoals HD of 4K?",
+        "answer": "Ja. Je kunt kiezen uit 360p, 720p (HD), 1080p (Full HD) en zelfs 4K — afhankelijk van de originele video."
+      },
+      {
+        "question": "Zijn er limieten op hoeveel video's ik gratis kan downloaden?",
+        "answer": "Nee. URL2Video biedt onbeperkte gratis downloads zonder abonnementen, registraties of verborgen kosten."
+      }
+    ]
+  },
+
+  "tiktokVedioDownloader": {
+    "faqs": [
+      {
+        "question": "Kan ik TikTok-video's zonder watermerk downloaden?",
+        "answer": "Ja. Het systeem verwijdert automatisch het watermerk zodat je schone, hoogwaardige video's kunt opslaan voor offline gebruik of delen."
+      },
+      {
+        "question": "Moet ik software installeren om TikTok-video's te downloaden?",
+        "answer": "Nee, installatie is niet nodig. De downloader werkt direct in je browser op desktop, tablet en mobiel."
+      },
+      {
+        "question": "Is de TikTok-downloader gratis te gebruiken?",
+        "answer": "Ja. De TikTok-downloader is volledig gratis, zonder limieten en zonder account."
+      },
+      {
+        "question": "Kan ik TikTok-video's downloaden op iOS / iPhone?",
+        "answer": "Ja. Plak gewoon de TikTok-link in Safari of een andere mobiele browser en download direct."
+      },
+      {
+        "question": "Kan ik TikTok-video's downloaden op Android-apparaten?",
+        "answer": "Ja. De downloader werkt op alle Android-apparaten zonder apps te installeren."
+      },
+      {
+        "question": "Waarom kan ik sommige TikTok-video's niet downloaden?",
+        "answer": "Sommige video's zijn privé, regio-beperkt of verwijderd door de uploader. Openbare video's zijn altijd beschikbaar."
+      },
+      {
+        "question": "Welke videokwaliteit wordt ondersteund?",
+        "answer": "Het ondersteunt HD, Full HD en de hoogst beschikbare kwaliteit volgens de originele TikTok-upload."
+      },
+      {
+        "question": "Worden TikTok-video's met audio gedownload?",
+        "answer": "Ja. Video's worden altijd met originele audio opgeslagen en kunnen indien gewenst worden geconverteerd naar MP3."
+      }
+    ]
+  },
+
+  "instagramVedioDownloader": {
+    "faqs": [
+      {
+        "question": "Wat is een Instagram-downloader precies?",
+        "answer": "Een Instagram-downloader is een gratis online tool waarmee je video's, Reels, IGTV en Stories in hoge kwaliteit kunt opslaan op je apparaat."
+      },
+      {
+        "question": "Hoe download ik Instagram-video's, Reels en Stories?",
+        "answer": "Kopieer de link van de post, plak die in de downloader, kies MP4 of MP3 en download direct."
+      },
+      {
+        "question": "Kan ik Instagram Stories en Highlights downloaden?",
+        "answer": "Ja. Plak de link naar de Story of Highlight en download deze in HD-kwaliteit voor offline gebruik."
+      },
+      {
+        "question": "Kan ik Instagram Reels downloaden?",
+        "answer": "Ja. Alle Reels kunnen in hoge kwaliteit worden opgeslagen, met of zonder geluid."
+      },
+      {
+        "question": "Moet ik inloggen met mijn Instagram-account?",
+        "answer": "Nee. De downloader werkt volledig zonder login, wat je privacy beschermt."
+      },
+      {
+        "question": "Is downloaden vanaf Instagram legaal?",
+        "answer": "Ja, zolang het voor persoonlijk of educatief gebruik is. Gebruik de content niet commercieel zonder toestemming."
+      },
+      {
+        "question": "Zijn er limieten voor het downloaden van Instagram-content?",
+        "answer": "Nee. Je kunt onbeperkt video's, Reels en Stories downloaden."
+      },
+      {
+        "question": "Werkt het voor video's van privé-accounts?",
+        "answer": "Nee. Alleen openbare content kan worden gedownload, tenzij je toegang hebt via een account met toestemming."
+      }
+    ]
+  },
+
+  "facebookVedioDownloader": {
+    "faqs": [
+      {
+        "question": "Wat is een Facebook-video-downloader?",
+        "answer": "Een Facebook-downloader laat je posts, Reels en Stories opslaan in MP4 of MP3 zonder dat je software hoeft te installeren."
+      },
+      {
+        "question": "Hoe kan ik Facebook-video's (posts, reels, stories) downloaden?",
+        "answer": "Kopieer de videolink, plak die in de downloader, kies het gewenste formaat en download binnen enkele seconden."
+      },
+      {
+        "question": "Kan ik Facebook Live-video's downloaden?",
+        "answer": "Ja, maar alleen nadat de livestream is afgelopen. Plak de link in de downloader en sla de video op."
+      },
+      {
+        "question": "Moet ik inloggen met mijn Facebook-account?",
+        "answer": "Nee. Alles werkt online zonder login of wachtwoord, dus je privacy blijft beschermd."
+      },
+      {
+        "question": "Is het legaal om video's van Facebook te downloaden?",
+        "answer": "Ja, zolang het voor persoonlijk gebruik is. Herpubliceer nooit auteursrechtelijk beschermd materiaal zonder toestemming."
+      },
+      {
+        "question": "Zijn er downloadlimieten?",
+        "answer": "Nee. Je kunt dagelijks onbeperkt Facebook-video's downloaden."
+      },
+      {
+        "question": "Werkt het voor video's uit privéprofielen of groepen?",
+        "answer": "Nee. Alleen openbare video's kunnen worden gedownload."
+      },
+      {
+        "question": "Welke kwaliteit wordt ondersteund?",
+        "answer": "MP4, MP3, SD, HD, Full HD en soms 4K — afhankelijk van de originele upload."
+      }
+    ]
+  },
+
+  "YoutubeDownloader": {
+    "faqs": [
+      {
+        "question": "Wat is een YouTube-video-downloader?",
+        "answer": "Het is een online tool waarmee je YouTube-video's of audio kunt opslaan op je apparaat voor offline gebruik. URL2Video ondersteunt MP4 en MP3."
+      },
+      {
+        "question": "Is het legaal om een YouTube-downloader te gebruiken?",
+        "answer": "Het downloaden van auteursrechtelijk beschermd materiaal zonder toestemming is niet toegestaan. Download alleen jouw eigen video's, rechtenvrije content of video's met toestemming."
+      },
+      {
+        "question": "Hoe download ik een YouTube-video?",
+        "answer": "Kopieer de videolink, plak die in URL2Video, kies MP4 of MP3, selecteer de kwaliteit en klik op ‘Download’."
+      },
+      {
+        "question": "Welke formaten en resoluties kan ik downloaden?",
+        "answer": "MP4, MP3 en resoluties van 360p tot 4K worden ondersteund, afhankelijk van de bronvideo."
+      },
+      {
+        "question": "Kan ik YouTube-afspeellijsten downloaden?",
+        "answer": "Ja. Je kunt volledige afspeellijsten of meerdere video's achter elkaar downloaden."
+      },
+      {
+        "question": "Waarom krijg ik soms fouten bij het downloaden?",
+        "answer": "Dit kan komen door regio-blokkades, leeftijdsrestricties, DRM of YouTube-updates. URL2Video wordt regelmatig bijgewerkt om problemen te minimaliseren."
+      },
+      {
+        "question": "Waarom is de download soms traag?",
+        "answer": "De snelheid hangt af van je internetverbinding, serverbelasting, videobestandsgrootte of YouTube-throttling."
+      },
+      {
+        "question": "Werkt het voor leeftijdsgebonden of regio-beperkte video's?",
+        "answer": "De meeste downloaders kunnen beperkingen niet omzeilen. Sommige video's vereisen een account of specifieke regio-toegang."
+      },
+      {
+        "question": "Waarom heeft mijn gedownloade video geen geluid?",
+        "answer": "Bij sommige video's worden audio en video gescheiden aangeboden. URL2Video voegt beide streams correct samen."
+      },
+      {
+        "question": "Wat moet ik doen als de downloader stopt met werken?",
+        "answer": "URL2Video wordt frequent bijgewerkt zodat de downloads stabiel en betrouwbaar blijven ondanks YouTube-wijzigingen."
+      }
+    ]
+  },
+
+  "youtubeToMp3Downloader": {
+    "faqs": [
+      {
+        "question": "Waarom kan ik sommige YouTube-video's niet naar MP3 converteren?",
+        "answer": "Dit kan komen door regio-restricties, copyrightbeveiliging of ontbrekende audio. URL2Video ondersteunt de meeste openbare video's met snelle, hoogwaardige MP3-conversie."
+      },
+      {
+        "question": "Wat betekent het bericht ‘Meld je aan om te bevestigen dat je geen bot bent’?",
+        "answer": "Dit verschijnt vaak bij video's met leeftijds- of gevoeligheidsrestricties. URL2Video werkt alleen met vrij toegankelijke video's zonder login."
+      },
+      {
+        "question": "Hoe los ik een ‘404 error’ of ‘Video niet beschikbaar’ op tijdens de conversie?",
+        "answer": "Controleer of de video nog beschikbaar is in je browser. URL2Video houdt de servers stabiel voor soepele conversies."
+      },
+      {
+        "question": "Waarom is de MP3-kwaliteit soms laag?",
+        "answer": "De kwaliteit hangt af van de bronaudio. URL2Video biedt 128kbps, 192kbps en 320kbps voor de beste resultaten."
+      },
+      {
+        "question": "Kan ik hele afspeellijsten als MP3 downloaden?",
+        "answer": "Ja. Je kunt een playlistlink plakken en elke video wordt automatisch omgezet naar MP3."
+      },
+      {
+        "question": "Waar vind ik mijn gedownloade MP3-bestanden?",
+        "answer": "Op computers vind je ze in de map Downloads; op mobiele apparaten staan ze in Bestanden, Muziek of je galerij."
+      },
+      {
+        "question": "Waarom missen sommige MP3-bestanden geluid?",
+        "answer": "Bij bepaalde video’s worden audio en video apart geleverd. URL2Video voegt deze correct samen tot complete MP3-bestanden."
+      },
+      {
+        "question": "Zijn er limieten voor dagelijkse conversies?",
+        "answer": "Nee. URL2Video biedt onbeperkte gratis conversies zonder verborgen beperkingen."
+      }
+    ]
+  },
+
+  "twitterVedioDownloader": {
+    "faqs": [
+      {
+        "question": "Hoe download ik video's van Twitter?",
+        "answer": "Kopieer de videolink uit de tweet, plak deze in onze downloader, kies het gewenste formaat (MP4 of MP3) en klik op Download. De video wordt direct opgeslagen op je apparaat."
+      },
+      {
+        "question": "Kan ik Twitter-video's in HD downloaden?",
+        "answer": "Ja. Je kunt kiezen uit HD (720p), Full HD (1080p) en zelfs 4K, afhankelijk van de originele kwaliteit van de geüploade video."
+      },
+      {
+        "question": "Ondersteunt de downloader GIF's en korte clips?",
+        "answer": "Ja. Je kunt GIFs, korte video’s en reguliere posts downloaden. GIFs worden automatisch omgezet naar MP4 voor betere compatibiliteit."
+      },
+      {
+        "question": "Kan ik meerdere Twitter-video's achter elkaar downloaden?",
+        "answer": "Ja. Je kunt meerdere links achter elkaar plakken en elke video wordt afzonderlijk gedownload zonder kwaliteitsverlies."
+      },
+      {
+        "question": "Is de Twitter-downloader gratis?",
+        "answer": "Ja. De tool is volledig gratis zonder verborgen kosten of limieten. Je kunt elke openbare Twitter-video veilig downloaden."
+      },
+      {
+        "question": "Werkt het op mobiele apparaten?",
+        "answer": "Ja. De downloader werkt op Android, iOS, tablets en desktops. Je hoeft geen app te installeren."
+      },
+      {
+        "question": "Kan ik Twitter-video's omzetten naar MP3?",
+        "answer": "Ja. Je kunt de audio van elke Twitter-video extraheren en opslaan als een hoogwaardige MP3, ideaal voor muziek, podcasts of spraakfragmenten."
+      },
+      {
+        "question": "Zijn er limieten op het downloaden van Twitter-video's?",
+        "answer": "Nee. Je kunt onbeperkt Twitter-video’s downloaden. Alleen privé- of beschermde content kan niet worden gedownload zonder toestemming."
+      }
+    ]
+  }
+}

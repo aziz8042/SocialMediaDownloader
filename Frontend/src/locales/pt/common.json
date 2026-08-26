@@ -1,0 +1,127 @@
+{
+  "allVideoDownloader": {
+    "ui": {
+      "title": "Baixar vídeo Online",
+      "subtitle": "Salve vídeos das principais plataformas em MP4 ou MP3 com desempenho rápido e suave",
+      "inputPlaceholder": "Cole o link do vídeo aqui para salvar rapidamente",
+      "downloadBtn": {
+        "idle": "Baixar",
+        "loading": "Buscando"
+      },
+      "platformButtons": [
+        { "name": "Downloader do YouTube", "path": "/youtube-video-downloader" },
+        { "name": "Downloader do TikTok", "path": "/tiktok-video-downloader" },
+        { "name": "Downloader do Instagram", "path": "/instagram-video-downloader" },
+        { "name": "Downloader do Facebook", "path": "/facebook-video-downloader" }
+      ]
+    }
+  },
+
+  "tiktokVedioDownloader": {
+    "ui": {
+      "title": "Baixar vídeo do TikTok",
+      "subtitle": "Salve clipes do TikTok em MP4 ou MP3 com resultado nítido, sem marca d'água, e processamento rápido",
+      "inputPlaceholder": "Cole o link do vídeo do TikTok aqui",
+      "downloadBtn": {
+        "idle": "Baixar",
+        "loading": "Buscando"
+      },
+      "platformButtons": [
+        { "name": "Downloader do YouTube", "path": "/youtube-video-downloader" },
+        { "name": "Downloader do TikTok", "path": "/tiktok-video-downloader" },
+        { "name": "Downloader do Instagram", "path": "/instagram-video-downloader" },
+        { "name": "Downloader do Facebook", "path": "/facebook-video-downloader" }
+      ]
+    }
+  },
+
+  "instagramVedioDownloader": {
+    "ui": {
+      "title": "Baixar video instagram",
+      "subtitle": "Salve reels, stories, posts e IGTV em MP4 ou MP3 com qualidade nítida em todos os dispositivos",
+      "inputPlaceholder": "Cole o link do Instagram aqui",
+      "downloadBtn": {
+        "idle": "Baixar",
+        "loading": "Buscando"
+      },
+      "platformButtons": [
+        { "name": "Downloader do YouTube", "path": "/youtube-video-downloader" },
+        { "name": "Downloader do TikTok", "path": "/tiktok-video-downloader" },
+        { "name": "Downloader do Instagram", "path": "/instagram-video-downloader" },
+        { "name": "Downloader do Facebook", "path": "/facebook-video-downloader" }
+      ]
+    }
+  },
+
+  "facebookVedioDownloader": {
+    "ui": {
+      "title": "Baixar vídeo do Facebook",
+      "subtitle": "Salve vídeos, reels e clipes do Facebook em MP4 ou MP3 com resultados confiáveis e alta qualidade",
+      "inputPlaceholder": "Cole o link do vídeo do Facebook aqui",
+      "downloadBtn": {
+        "idle": "Baixar",
+        "loading": "Buscando"
+      },
+      "platformButtons": [
+        { "name": "Downloader do YouTube", "path": "/youtube-video-downloader" },
+        { "name": "Downloader do TikTok", "path": "/tiktok-video-downloader" },
+        { "name": "Downloader do Instagram", "path": "/instagram-video-downloader" },
+        { "name": "Downloader do Facebook", "path": "/facebook-video-downloader" }
+      ]
+    }
+  },
+
+  "twitterVedioDownloader": {
+    "ui": {
+      "title": "Baixar vídeo do Twitter",
+      "subtitle": "Salve clipes, GIFs e vídeos em MP4 ou MP3 com processamento rápido e estável do Twitter",
+      "inputPlaceholder": "Cole o link do Twitter aqui",
+      "downloadBtn": {
+        "idle": "Baixar",
+        "loading": "Buscando"
+      },
+      "platformButtons": [
+        { "name": "Downloader do YouTube", "path": "/youtube-video-downloader" },
+        { "name": "Downloader do TikTok", "path": "/tiktok-video-downloader" },
+        { "name": "Downloader do Instagram", "path": "/instagram-video-downloader" },
+        { "name": "Downloader do Facebook", "path": "/facebook-video-downloader" }
+      ]
+    }
+  },
+
+  "youtubeToMp3Downloader": {
+    "ui": {
+      "title": "YouTube para MP3",
+      "subtitle": "Converta vídeos em áudio cristalino em múltiplas taxas de bits com processamento rápido e estável",
+      "inputPlaceholder": "Cole o link do YouTube aqui",
+      "downloadBtn": {
+        "idle": "Baixar",
+        "loading": "Buscando"
+      },
+      "platformButtons": [
+        { "name": "Downloader do YouTube", "path": "/youtube-video-downloader" },
+        { "name": "Downloader do TikTok", "path": "/tiktok-video-downloader" },
+        { "name": "Downloader do Instagram", "path": "/instagram-video-downloader" },
+        { "name": "Downloader do Facebook", "path": "/facebook-video-downloader" }
+      ]
+    }
+  },
+
+  "YoutubeDownloader": {
+    "ui": {
+      "title": "Baixar video do youtube",
+      "subtitle": "Salve vídeos, shorts e playlists em MP4 ou MP3 com qualidade estável e alta definição",
+      "inputPlaceholder": "Cole o link do YouTube aqui",
+      "downloadBtn": {
+        "idle": "Baixar",
+        "loading": "Buscando"
+      },
+      "platformButtons": [
+        { "name": "Downloader do YouTube", "path": "/youtube-video-downloader" },
+        { "name": "Downloader do TikTok", "path": "/tiktok-video-downloader" },
+        { "name": "Downloader do Instagram", "path": "/instagram-video-downloader" },
+        { "name": "Downloader do Facebook", "path": "/facebook-video-downloader" }
+      ]
+    }
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "allVideoDownloader": {
+    "ui": {
+      "title": "скачивание видео онлайн",
+      "subtitle": "Сохраняйте видео с популярных платформ в формате MP4 или MP3 с быстрой и плавной загрузкой",
+      "inputPlaceholder": "Вставьте ссылку на видео для быстрого сохранения",
+      "downloadBtn": {
+        "idle": "скачать",
+        "loading": "Извлечение"
+      },
+      "platformButtons": [
+        { "name": "Загрузчик YouTube", "path": "/youtube-video-downloader" },
+        { "name": "Загрузчик TikTok", "path": "/tiktok-video-downloader" },
+        { "name": "Загрузчик Instagram", "path": "/instagram-video-downloader" },
+        { "name": "Загрузчик Facebook", "path": "/facebook-video-downloader" }
+      ]
+    }
+  },
+
+  "tiktokVedioDownloader": {
+    "ui": {
+      "title": "скачать tiktok",
+      "subtitle": "Сохраняйте клипы TikTok в MP4 или MP3 без водяных знаков с быстрой обработкой",
+      "inputPlaceholder": "Вставьте ссылку на видео TikTok",
+      "downloadBtn": {
+        "idle": "скачать",
+        "loading": "Извлечение"
+      },
+      "platformButtons": [
+        { "name": "Загрузчик YouTube", "path": "/youtube-video-downloader" },
+        { "name": "Загрузчик TikTok", "path": "/tiktok-video-downloader" },
+        { "name": "Загрузчик Instagram", "path": "/instagram-video-downloader" },
+        { "name": "Загрузчик Facebook", "path": "/facebook-video-downloader" }
+      ]
+    }
+  },
+
+  "instagramVedioDownloader": {
+    "ui": {
+      "title": "скачать видео из инстаграма",
+      "subtitle": "Сохраняйте Reels, истории, посты и IGTV в MP4 или MP3 на всех устройствах",
+      "inputPlaceholder": "Вставьте ссылку на Instagram",
+      "downloadBtn": {
+        "idle": "скачать",
+        "loading": "Извлечение"
+      },
+      "platformButtons": [
+        { "name": "Загрузчик YouTube", "path": "/youtube-video-downloader" },
+        { "name": "Загрузчик TikTok", "path": "/tiktok-video-downloader" },
+        { "name": "Загрузчик Instagram", "path": "/instagram-video-downloader" },
+        { "name": "Загрузчик Facebook", "path": "/facebook-video-downloader" }
+      ]
+    }
+  },
+
+  "facebookVedioDownloader": {
+    "ui": {
+      "title": "скачать видео с фейсбука",
+      "subtitle": "Сохраняйте видео, Reels и клипы Facebook в MP4 или MP3 с надёжным качеством",
+      "inputPlaceholder": "Вставьте ссылку на видео Facebook",
+      "downloadBtn": {
+        "idle": "скачать",
+        "loading": "Извлечение"
+      },
+      "platformButtons": [
+        { "name": "Загрузчик YouTube", "path": "/youtube-video-downloader" },
+        { "name": "Загрузчик TikTok", "path": "/tiktok-video-downloader" },
+        { "name": "Загрузчик Instagram", "path": "/instagram-video-downloader" },
+        { "name": "Загрузчик Facebook", "path": "/facebook-video-downloader" }
+      ]
+    }
+  },
+
+  "twitterVedioDownloader": {
+    "ui": {
+      "title": "скачать видео с твиттера",
+      "subtitle": "Сохраняйте клипы, GIF и видео в MP4 или MP3 с быстрой и стабильной обработкой",
+      "inputPlaceholder": "Вставьте ссылку на Twitter",
+      "downloadBtn": {
+        "idle": "скачать",
+        "loading": "Извлечение"
+      },
+      "platformButtons": [
+        { "name": "Загрузчик YouTube", "path": "/youtube-video-downloader" },
+        { "name": "Загрузчик TikTok", "path": "/tiktok-video-downloader" },
+        { "name": "Загрузчик Instagram", "path": "/instagram-video-downloader" },
+        { "name": "Загрузчик Facebook", "path": "/facebook-video-downloader" }
+      ]
+    }
+  },
+
+  "youtubeToMp3Downloader": {
+    "ui": {
+      "title": "скачать mp3 с ютуба",
+      "subtitle": "Конвертируйте видео в чистый звук с разными битрейтами и быстрой обработкой",
+      "inputPlaceholder": "Вставьте ссылку на YouTube",
+      "downloadBtn": {
+        "idle": "скачать",
+        "loading": "Извлечение"
+      },
+      "platformButtons": [
+        { "name": "Загрузчик YouTube", "path": "/youtube-video-downloader" },
+        { "name": "Загрузчик TikTok", "path": "/tiktok-video-downloader" },
+        { "name": "Загрузчик Instagram", "path": "/instagram-video-downloader" },
+        { "name": "Загрузчик Facebook", "path": "/facebook-video-downloader" }
+      ]
+    }
+  },
+
+  "YoutubeDownloader": {
+    "ui": {
+      "title": "скачать видео с ютуба",
+      "subtitle": "Сохраняйте видео, Shorts и плейлисты в MP4 или MP3 с высоким качеством",
+      "inputPlaceholder": "Вставьте ссылку на YouTube",
+      "downloadBtn": {
+        "idle": "скачать",
+        "loading": "Извлечение"
+      },
+      "platformButtons": [
+        { "name": "Загрузчик YouTube", "path": "/youtube-video-downloader" },
+        { "name": "Загрузчик TikTok", "path": "/tiktok-video-downloader" },
+        { "name": "Загрузчик Instagram", "path": "/instagram-video-downloader" },
+        { "name": "Загрузчик Facebook", "path": "/facebook-video-downloader" }
+      ]
+    }
+  }
+}

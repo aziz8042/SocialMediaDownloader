@@ -1,0 +1,262 @@
+{
+  "allVideoDownloader": {
+    "faqs": [
+      {
+        "question": "YouTube, TikTok, Instagram တို့ကနေ ဗီဒီယိုတွေ ဒေါင်းလုပ်လုပ်တာ ဥပဒေအရ ခွင့်ပြုထားသလား?",
+        "answer": "ဗီဒီယိုဒေါင်းလုပ်လုပ်ခွင့်ရှိ၊ မရှိကတော့ တစ်ခုချင်းစီ Platform ရဲ့ Terms of Service ပေါ်လေးစားရပါတယ်။ မူပိုင်ခွင့်မဲ့၊ Public domain ၊ သင်ပိုင်သောအရာများကို ဒေါင်းလုပ်လုပ်ရင်ကောင်းတယ်။ URL2Video ကလည်း မူပိုင်ရှင် အခွင့်ပြုချက်ရှိသည့်အရာများ၊ သင်ပိုင်သောအရာများကိုသာ ဒေါင်းလုပ်လုပ်ရန် အကြံပြုပါတယ်။"
+      },
+      {
+        "question": "မူပိုင်ခွင့်ပါသော ဗီဒီယိုတွေ အခမဲ့ဒေါင်းလုပ်လုပ်လို့ရမလား?",
+        "answer": "မရပါဘူး။ မူပိုင်ခွင့်မဲ့ဗီဒီယိုများ၊ သင်ပိုင်တင်ထားသောအရာများ၊ အခမဲ့အသုံးပြုခွင့်ရှိသော မီဒီယာများကိုသာ ဒေါင်းလုပ်လုပ်သင့်ပါတယ်။ Creator များရဲ့အခွင့်အရေးကို အမြဲလေးစားရန်လိုအပ်ပါတယ်။"
+      },
+      {
+        "question": "Video downloader software တွေမှာ Malware သို့မဟုတ် Virusတွေ ပါနိုင်သလား?",
+        "answer": "အချို့ Third-party App တွေမှာ မလုံခြုံနိုင်ပေမယ့် URL2Video က မည်သည့် installation မလိုအပ်သော Online Tool ဖြစ်ပြီး Malware မပါဝင်하도록 လုံးဝအော်တိုကာကွယ်ထားပါတယ်။ Browser မှတစ်ဆင့် တိုက်ရိုက်အသုံးပြုလို့ရပါတယ်။"
+      },
+      {
+        "question": "ဗီဒီယိုဒေါင်းလုပ်လုပ်ဖို့ App သို့မဟုတ် Extension တစ်ခုခုသွင်းရရန် လိုအပ်သလား?",
+        "answer": "လိုအပ်ချက် မရှိဘူးပါ။ URL2Video က အကုန်လုံး Web-based ဖြစ်လို့ Link ကို Paste ပြီး Browser ထဲကနေ တိုက်ရိုက်ဒေါင်းလုပ်လုပ်နိုင်ပါတယ်။"
+      },
+      {
+        "question": "Online video downloader ကို Mobile (Android / iOS) မှာ သုံးလို့ရသလား?",
+        "answer": "ရပါတယ်။ URL2Video က Android, iPhone, Windows, Mac အကုန်လုံးမှာ အချောဆုံးအလုပ်လုပ်ပါတယ်။ App ထည့်စရာမလိုဘဲ မည်သည့် Browser မှမဆို သုံးနိုင်ပါတယ်။"
+      },
+      {
+        "question": "ဘယ် Format တွေကို Download လုပ်လို့ရလဲ (MP4, MP3 စသည့်)?",
+        "answer": "HD, Full HD, 4K အထိ MP4 နဲ့ 128kbps, 192kbps, 320kbps MP3 တွေကိုလည်း Extract လုပ်နိုင်ပါတယ်။"
+      },
+      {
+        "question": "ဗီဒီယို Quality ကို ကိုယ်တိုင်ရွေးလို့ရသလား (HD, 4K စသည်)?",
+        "answer": "ရပါတယ်။ 360p, 720p (HD), 1080p (Full HD), 4K အထိ ရနိုင်ပေမယ့် Original ဗီဒီယို Quality ပေါ်မူတည်ပါတယ်။"
+      },
+      {
+        "question": "အခမဲ့ဒေါင်းလုပ်လုပ်ရာမှာ ကန့်သတ်ချက်ရှိသလား?",
+        "answer": "မရှိဘူးပါ။ URL2Video က Unlimited Free Downloads ပံ့ပိုးထားပြီး Subscription သို့မဟုတ် Hidden fee မရှိပါဘူး။"
+      }
+    ]
+  },
+  "tiktokVedioDownloader": {
+    "faqs": [
+      {
+        "question": "TikTok ဗီဒီယိုတွေ Watermark မပါဘဲ ဒေါင်းလုပ်လုပ်နိုင်မလား?",
+        "answer": "ရပါတယ်။ URL2Video က Watermark ကို အလိုအလျောက်ဖယ်ရှားပေးပြီး သန့်ရှင်းတဲ့ HD Quality နဲ့ Offline အကောင်းဆုံးမောင်းနိုင်ပါတယ်။"
+      },
+      {
+        "question": "TikTok ဗီဒီယို ဒေါင်းလုပ်လုပ်ဖို့ Software သို့မဟုတ် Extension သွင်းဖို့ လိုသလား?",
+        "answer": "လိုအပ်ချက်မရှိပါဘူး။ Tool က Online ဖြစ်လို့ Mobile, PC, Tablet အကုန်မှာ Browser ပေါ်ကတင် သုံးနိုင်ပါတယ်။"
+      },
+      {
+        "question": "TikTok downloader ကို အခမဲ့ သုံးလို့ရမလား?",
+        "answer": "ရပါတယ်။ Unlimited Downloads ဖြစ်ပြီး Account မဖွင့်လဲရပါတယ်။"
+      },
+      {
+        "question": "iPhone၊ iOS မှာ TikTok Video Download လုပ်လို့ရသလား?",
+        "answer": "ရပါတယ်။ Safari သို့မဟုတ် မည်သည့် Mobile Browser မှမဆို TikTok Link ကို Paste လုပ်ပြီး Download စတင်နိုင်ပါတယ်။"
+      },
+      {
+        "question": "Android ဖုန်းတွေမှာ TikTok ဒေါင်းလုပ်လုပ်လို့ရသလား?",
+        "answer": "ရပါတယ်။ App ထည့်စရာမလိုဘဲ Android Browser တွေအကုန်မှာ အဆင်ပြေစွာ ডাউনলোডလုပ်နိုင်ပါတယ်။"
+      },
+      {
+        "question": "အချို့ TikTok ဗီဒီယိုတွေ ဘာကြောင့် ဒေါင်းလုပ်မရတာလဲ?",
+        "answer": "Private, Region-restricted, သို့မဟုတ် ဖျက်ထားပြီးသားဗီဒီယိုတွေဖြစ်နိုင်ပါတယ်။ Public TikTok တွေက အမြဲ Download လုပ်နိုင်ပါတယ်။"
+      },
+      {
+        "question": "ဘယ် Quality ကြည့်ပြီး Download လုပ်လို့ရသလဲ?",
+        "answer": "HD, Full HD နှင့် TikTok ပေါ်ရှိနဲ့ အမြင့်မားဆုံး Quality အထိ ရနိုင်ပါတယ်။"
+      },
+      {
+        "question": "TikTok ဒေါင်းလုပ်လုပ်တဲ့ဗီဒီယိုတွေမှာ အသံပါလာမလား?",
+        "answer": "ပါပါတယ်။ Original Sound အပြည့်အဝ ပါပြီး MP3 အဖြစ်လည်း Convert လုပ်နိုင်ပါတယ်။"
+      }
+    ]
+  },
+  "instagramVedioDownloader": {
+    "faqs": [
+      {
+        "question": "Instagram Downloader ဆိုတာဘာလဲ?",
+        "answer": "Instagram မှာရှိတဲ့ Videos, Reels, IGTV, Stories တွေကို HD Quality နဲ့ Device ထဲသို့ တိုက်ရိုက်သိမ်းစွာ ကူညီပေးတဲ့ Online Tool တစ်ခုပါ။"
+      },
+      {
+        "question": "Instagram Video, Reels, Stories တွေကို ဘယ်လို Download လုပ်လဲ?",
+        "answer": "URL ကို Copy လုပ်ပြီး Downloader ထဲ Paste လုပ်ပါ။ ပို့ချင်တဲ့ Format (MP4/MP3) ကိုရွေးပြီး တစ်ချက်တည်း ဒေါင်းလုပ်ရပါတယ်။"
+      },
+      {
+        "question": "Instagram Stories နဲ့ Highlights တွေကို ဒေါင်းလုပ်လုပ်လို့ရသလား?",
+        "answer": "ရပါတယ်။ Link ကို Paste လုပ်တာနဲ့ HD Quality အဖြစ် Offline သုံးလို့ရပါတယ်။"
+      },
+      {
+        "question": "Reels တွေကို ဒေါင်းလုပ်လုပ်နိုင်မလား?",
+        "answer": "ရပါတယ်၊ အသံပါ/မပါ Option နဲ့ High Quality Reels တွေကို မည်သည့် Device မဆို download လုပ်နိုင်ပါတယ်။"
+      },
+      {
+        "question": "Instagram Login လုပ်ဖို့ လိုအပ်သလား?",
+        "answer": "မလိုအပ်ပါဘူး။ Tool က 100% Browser-based ဖြစ်လို့ Privacy & Security အပြည့်အဝအောင့်ထားပါတယ်။"
+      },
+      {
+        "question": "Instagram ကနေ ဒေါင်းလုပ်လုပ်တာ ဥပဒေအရ မွန်ထားသလား?",
+        "answer": "တစ်ကိုယ်ရည်သုံးစွဲမှု (Personal use) အတွက်က ပြဿနာမရှိပါဘူး။ Commercial သုံးမည်ဆိုရင် မူပိုင်ရှင်ထံ အခွင့်ပြုချက်ယူပါ။"
+      },
+      {
+        "question": "Instagram Videos ဒေါင်းလုပ်လုပ်ရာမှာ ကန့်သတ်ချက် ရှိသလား?",
+        "answer": "မရှိပါဘူး။ Reels, Stories, Videos အကုန်လုံးကို Unlimited Download လုပ်နိုင်ပါတယ်။"
+      },
+      {
+        "question": "Private Instagram Accounts မှာကျီ ဗီဒီယိုတွေ Download လုပ်လို့ရမလား?",
+        "answer": "မရပါဘူး။ Public Content တွေကိုသာ Download လုပ်နိုင်ပါတယ်။"
+      }
+    ]
+  },
+  "facebookVedioDownloader": {
+    "faqs": [
+      {
+        "question": "Facebook video downloader ဆိုတာဘာလဲ?",
+        "answer": "Facebook ရဲ့ Videos, Reels, Stories တွေကို MP4 သို့မဟုတ် MP3 အဖြစ် တိုက်ရိုက်သိမ်းလိုက်နိုင်အောင်ကူညီပေးတဲ့ Online Tool တစ်ခုပါ။ Software သွင်းစရာမလိုပါဘူး။"
+      },
+      {
+        "question": "Facebook Video (Posts, Reels, Stories) တွေကို ဘယ်လို Download လုပ်လဲ?",
+        "answer": "Video Link ကို Copy → Downloader ထဲ Paste → Format ရွေး → Download လုပ်ပါ။"
+      },
+      {
+        "question": "Facebook Live Video တွေကိုလည်း Download လုပ်လို့ရသလား?",
+        "answer": "Broadcast ပြီးဆုံးပါက Link ကို Paste လုပ်ပြီး အလွယ်တကူ သိမ်းနိုင်ပါတယ်။"
+      },
+      {
+        "question": "Facebook Login လုပ်ဖို့ လိုသလား?",
+        "answer": "မလိုအပ်ပါဘူး။ Downloader က Browser-based ဖြစ်ပြီး Safe & Secure ဖြစ်ပါတယ်။"
+      },
+      {
+        "question": "Facebook ကနေ ဒေါင်းလုပ်လုပ်တာ ဥပဒေအရ ခွင့်ပြုထားသလား?",
+        "answer": "Personal သုံးစွဲမှုအတွက်က OK ဖြစ်ပါတယ်။ Copyright content ကို Permission မရှိဘဲ ပြန်တင်ရာမလုပ်ပါနဲ့။"
+      },
+      {
+        "question": "တနေ့တာ Download Limit ရှိသလား?",
+        "answer": "မရှိပါဘူး။ မတ်တပ်ရပ် Unlimited Downloads ဖြစ်ပါတယ်။"
+      },
+      {
+        "question": "Private Profiles/GROUPs မှာ ပို့ထားတဲ့ Videos တွေ Download လုပ်လို့ရလား?",
+        "answer": "မရပါဘူး။ Public Videos တွေပဲ Download လုပ်လို့ရပါတယ်။"
+      },
+      {
+        "question": "ကွဲပြားသည့် Video Quality (HD, SD, 4K) တွေ ရနိုင်သလား?",
+        "answer": "MP4 သို့မဟုတ် MP3 အဖြစ် Download လုပ်နိုင်ပြီး SD, HD, Full HD, 4K အထိ Original Video ပေါ်မူတည်ပြီး ရနိုင်ပါတယ်။"
+      }
+    ]
+  },
+  "YoutubeDownloader": {
+    "faqs": [
+      {
+        "question": "YouTube video downloader ဆိုတာဘာလဲ?",
+        "answer": "YouTube ရဲ့ Videos အပြင် Audio ကို Offline ကြည့်ရှုနိုင်အောင် MP4 သို့မဟုတ် MP3 အဖြစ် Download လုပ်နိုင်သည့် Tool ဖြစ်ပါတယ်။ URL2Video က မြန်ဆန်ပြီး အလွယ်တကူသုံးနိုင်ပါတယ်။"
+      },
+      {
+        "question": "YouTube Downloader သုံးတာ ဥပဒေတာပေါ်က ခြိမ်းခြောက်မှုရှိနိုင်သလား?",
+        "answer": "မူပိုင်ခွင့်မဲ့၊ Public domain အရာများ၊ သင်တင်ထားတဲ့အရာတွေကို Download လုပ်တာက OK ဖြစ်ပေမယ့် မူပိုင်ခွင့်ကာကွယ်ထားတဲ့ Videos ကို Permission မရှိဘဲ Download လုပ်တာက YouTube Terms ကို ချိုးဖောက်နိုင်ပါတယ်။"
+      },
+      {
+        "question": "YouTube Video ကို ဘယ်လို Download လုပ်မလဲ?",
+        "answer": "Video Link ကို Copy → URL2Video မှာ Paste → Format (MP4/MP3) ရွေး → Quality ရွေးပြီး Download ကိုနှိပ်လိုက်ရုံပါ။"
+      },
+      {
+        "question": "ဘယ် Format & Resolution တွေကို Support လုပ်လဲ?",
+        "answer": "MP4, MP3 တွေကို Support လုပ်ပြီး 360p မှ 4K အထိ Quality ရွေးနိုင်ပါတယ်။"
+      },
+      {
+        "question": "Playlist တစ်ခုလုံး Download လုပ်လို့ရသလား?",
+        "answer": "ရပါတယ်။ Playlist Link ကို Paste လုပ်လိုက်ရင် Each Video ကို တစ်ခုချင်း Download လုပ်ပေးပါတယ်။"
+      },
+      {
+        "question": "Downloader မှာ Error ပြသွားတာ ဘာလို့လဲ?",
+        "answer": "Region restrictions, Age limits, DRM, YouTube update changes တို့ကြောင့်ဖြစ်နိုင်ပါတယ်။ URL2Video က Server တွေကို Regular Update လုပ်ပေးပါတယ်။"
+      },
+      {
+        "question": "YouTube Download Speed များ မတည်ငြိမ်တာ ဘာကြောင့်လဲ?",
+        "answer": "Internet Speed, Server Load, File Size, YouTube နဲ့ Throttling mechanisms ကြောင့်ဖြစ်နိုင်ပါတယ်။ URL2Video က မြန်ဆန်တဲ့ Server တွေနဲ့ Optimize ထားပါတယ်။"
+      },
+      {
+        "question": "Age-restricted ၊ Region-locked videos တွေ Download လုပ်လို့ရလား?",
+        "answer": "Video တစ်ခုချင်းစီအခြေအနေပေါ်မူတည်ပြီး Downloader တော်တော်များများ bypass လုပ်မနိုင်ပါဘူး။"
+      },
+      {
+        "question": "Downloaded YouTube video မှာ အသံမကြားရတာ ဘာကြောင့်လဲ?",
+        "answer": "အချို့ Videos တွေမှာ Audio/Video Tracks သီးသန့်ပါဝင်ပါတယ်။ URL2Video က Audio+Video ကို Merge ပြီးပြန်ထုတ်ပေးပါတယ်။"
+      },
+      {
+        "question": "Downloader သုံးတဲ့အခါ 갑자기 မလုပ်တော့ဘူးဆိုရင်?",
+        "answer": "YouTube updates ကြောင့် ဖြစ်နိုင်ပါတယ်။ URL2Video က Consistent updates နဲ့ Smooth Download အစဉ်တကျ ပေးနိုင်ဖို့ Upgrade လုပ်နေပါတယ်။"
+      }
+    ]
+  },
+  "youtubeToMp3Downloader": {
+    "faqs": [
+      {
+        "question": "ဘာကြောင့် YouTube Video တချို့ကို MP3 မပြောင်းလို့ရတာလဲ?",
+        "answer": "Region-locked ၊ Copyright-protected ၊ Audio track မပါသော Videos ကြောင့် Conversion မရနိုင်ပါ။ URL2Video က Public Videos အများစုကို မြန်မြန်ဆန်ဆန် 320kbps အထိပြောင်းပေးပါတယ်။"
+      },
+      {
+        "question": "‘Sign in to confirm you’re not a bot’ ဆိုတဲ့ Message ဘာကြောင့်ပေါ်လဲ?",
+        "answer": "အကြမ်းဖက်ရေးရာ ၊ အရွယ်မရောက်သေးသောအကြောင်းအရာ ၊ Privacy restrictions လိုမျိုးအကြောင်းအရာတွေမှာပေါ်လာပါတယ်။ URL2Video က Public Videos တွေနဲ့ Login မလိုအပ်ဘဲ အလုပ်လုပ်ပါတယ်။"
+      },
+      {
+        "question": "MP3 ပြောင်းလဲစရာ ‘404’ Error တက်တာ ဘာကြောင့်လဲ?",
+        "answer": "Video ကို Browser မှာ Check လုပ်လိုက်ပါ။ ဖျက်ထားတာ၊ Region lock တင်ထားတာ၊ Link မှားတာ တို့ကြောင့် ဖြစ်နိုင်ပါတယ်။"
+      },
+      {
+        "question": "MP3 Quality မကောင်းဘူးဆိုရင်?",
+        "answer": "Original Video Quality ပေါ်မူတည်ပါတယ်။ URL2Video က 128kbps, 192kbps, 320kbps အထိ ရွေးနိုင်ပါတယ်။"
+      },
+      {
+        "question": "Playlist တစ်ခုလုံးကို MP3 အဖြစ် Download လုပ်လို့ရလား?",
+        "answer": "ရပါတယ်။ Playlist Link တစ်ခုတည်းနဲ့ Videos တစ်ခုချင်းစီကို MP3 အဖြစ် ဆက်တိုက်ပြောင်းပေးပါတယ်။"
+      },
+      {
+        "question": "MP3 ဒေါင်းလုပ်ပြီး ဖိုင်တွေ ဘယ်မှာရှာရမလဲ?",
+        "answer": "Computer တွင် Downloads Folder ထဲမှာရှိပါတယ်။ Mobile မှာ Files App၊ Music App သို့မဟုတ် Gallery ထဲမှာ တွေ့နိုင်ပါတယ်။"
+      },
+      {
+        "question": "MP3 File ထဲမှာ အသံမရှိဘူးဆိုရင်?",
+        "answer": "Audio Track မပါသော Videos ဖြစ်နိုင်တယ်။ URL2Video က Audio Track ပါဝင်နေတဲ့ Videos တွေကို merge ပြီး တိတိကျကျ MP3 Output ထုတ်ပေးပါတယ်။"
+      },
+      {
+        "question": "တနေ့တာ MP3 Conversion Limit ရှိသလား?",
+        "answer": "မရှိပါဘူး။ URL2Video က Unlimited Free Conversions ကို Hidden fee မပါဘဲပေးတယ်။"
+      }
+    ]
+  },
+  "twitterVedioDownloader": {
+    "faqs": [
+      {
+        "question": "Twitter ကနေ ဗီဒီယိုတွေကို ဘယ်လို Download လုပ်ရမလဲ?",
+        "answer": "Tweet ထဲက Video Link ကို Copy → Downloader ထဲ Paste → MP4/MP3 ကိုရွေးပြီး Download ကိုနှိပ်လိုက်ရင် တိုက်ရိုက်သိမ်းနိုင်ပါတယ်။"
+      },
+      {
+        "question": "Twitter Videos ကို HD Quality နဲ့ ဒေါင်းလုပ်လုပ်လို့ရသလား?",
+        "answer": "ရပါတယ်။ Original Quality ပေါ်မူတည်ပြီး 720p (HD), 1080p (Full HD), 4K အထိ ရနိုင်ပါတယ်။"
+      },
+      {
+        "question": "GIFs နဲ့ Short Clips တွေလည်း Download လုပ်လို့ရသလား?",
+        "answer": "ရပါတယ်။ GIF တွေကိုလည်း MP4 အဖြစ်ပြောင်းပေးလို့ မည်သည့် Device မှမဆို Smooth Playback ဖြစ်စေပါတယ်။"
+      },
+      {
+        "question": "Multiple Twitter Videos တွေကို တစ်ပြိုင်နက် Download လုပ်လို့ရသလား?",
+        "answer": "ရပါတယ်။ Multiple Links တွေကို တစ်ခုချင်း Paste လုပ်ပြီး တစ်စဉ်တစ်စဉ်ကောင်းကောင်း သိမ်းနိုင်ပါတယ်။"
+      },
+      {
+        "question": "Twitter Downloader ကို သုံးဖို့ အခကြေးမဲ့လား?",
+        "answer": "ဟုတ်ပါတယ်။ Subscription မလိုဘဲ၊ Hidden fees မရှိဘဲ တော်တော်များများသုံးနိုင်ပါတယ်။"
+      },
+      {
+        "question": "Mobile Device တွေပေါ်မှာ Twitter Downloader သုံးနိုင်လား?",
+        "answer": "ရပါတယ်။ Android, iOS, Tablet, Laptop အကုန် Browser မှတစ်ဆင့် လုံးဝအဆင်ပြေစွာ သုံးနိုင်ပါတယ်။"
+      },
+      {
+        "question": "Twitter Video တွေကို MP3 အဖြစ်ပြောင်းလဲနိုင်သလား?",
+        "answer": "ရပါတယ်။ Podcasts, Music Clip, Voice Notes အဖြစ် သုံးနိုင်ဖို့ Audio ကို MP3 အဖြစ်သန့်သန့်ရှင်းရှင်းထုတ်ပေးပါတယ်။"
+      },
+      {
+        "question": "Twitter Video Download Limit ရှိသလား?",
+        "answer": "မရှိပါဘူး။ Unlimited Downloads ဖြစ်ပါတယ်။ Private သို့မဟုတ် Protected Content တွေကိုတော့ Permission မရှိလျှင် မရနိုင်ပါဘူး။"
+      }
+    ]
+  }
+}
